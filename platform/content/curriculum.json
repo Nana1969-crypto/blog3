@@ -1,0 +1,17 @@
+{
+  "_schema": {
+    "_comment": "Fonte única dos rótulos de worldview. O gate (build.js, CUR-1..CUR-5) derruba o build se qualquer entrada violar. NUNCA preencher worldviewQuote sem ter lido a frase na página da editora — ver docs/protocolo-de-credibilidade.md §1.",
+    "id": "identificador único, kebab-case, incluindo a matéria (ex: apologia-biology)",
+    "name": "nome do currículo como a editora o chama",
+    "publisher": "nome da editora",
+    "subject": "OBRIGATÓRIO — a matéria. Rotular editora inteira é proibido (CUR-2)",
+    "contentWorldview": "christian | secular | unstated — há conteúdo religioso NO MATERIAL?",
+    "publisherAffiliation": "religious | secular | unstated — a EMPRESA é religiosa?",
+    "worldviewSource": "URL da página da própria editora de onde saiu a citação",
+    "worldviewQuote": "a frase TEXTUAL da editora, copiada da página acima",
+    "verifiedOn": "AAAA-MM — mês em que uma pessoa abriu a página e conferiu",
+    "scopeChecked": "o que foi de fato verificado, e o que não foi",
+    "edition": "edição/ano do material a que o rótulo se refere"
+  },
+  "curricula": []
+}

@@ -1,0 +1,207 @@
+{
+  "id": "homeschool-record-keeping",
+  "slug": "homeschool-record-keeping",
+  "clusterId": "cl_first_steps",
+  "title": "Homeschool Record Keeping: What to Save, and What Nobody Asks For",
+  "dek": "Records you did not keep in September cannot be invented in May. Here is the small set worth keeping in every state, the extras that high-regulation states expect, and how to make it a five-minute habit.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "homeschool record keeping"
+  },
+  "seo": {
+    "metaTitle": "Homeschool Record Keeping: What to Save",
+    "metaDescription": "What to keep, what high-regulation states expect, and a five-minute daily habit that makes a homeschool portfolio assemble itself."
+  },
+  "sources": [
+    {
+      "label": "HSLDA — homeschool laws by state",
+      "url": "https://hslda.org/legal"
+    },
+    {
+      "label": "Pennsylvania Home Educators Association — home education portfolios",
+      "url": "https://phea.net/pa-home-education-portfolios/"
+    },
+    {
+      "label": "Homeschool Pennsylvania — portfolios knowledge base",
+      "url": "https://homeschoolpennsylvania.org/index.php/knowledgebase/portfolios/"
+    },
+    {
+      "label": "Homeschool Start Guide — Pennsylvania portfolio requirements",
+      "url": "https://homeschoolstartguide.com/blog/pennsylvania-homeschool-portfolio-template"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Record keeping is the part of homeschooling that feels bureaucratic in September and turns out to matter in May. It has one property that makes it different from every other homeschool task: it cannot be done retrospectively. A portfolio assembled the week before it is due is a week of work and a set of guesses. The same portfolio assembled five minutes at a time is neither."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "What you are legally required to keep is set by your state, and the range is wide — from nothing at all to dated logs, work samples and periodic assessment. Confirm your own state's current published rules before relying on any general guide, this one included. Everything below is about the practice, not the law."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The set worth keeping even where nothing is required"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Several states ask for nothing. Keeping a minimal record anyway costs a few minutes a week and covers you for three things that have nothing to do with your current state: moving to a stricter one, enrolling a child in school later, and putting together a transcript for a teenager."
+    },
+    {
+      "type": "table",
+      "caption": "A minimum record set, and why each item earns its place.",
+      "headers": [
+        "What",
+        "How often",
+        "Why it matters later"
+      ],
+      "rows": [
+        [
+          "Days of instruction",
+          "A tick per day",
+          "The single most commonly requested item, and impossible to reconstruct honestly"
+        ],
+        [
+          "Subjects covered",
+          "A line per day or week",
+          "Becomes the course description for a transcript, and shows required subjects were taught"
+        ],
+        [
+          "Titles of materials used",
+          "Once per subject, per year",
+          "Turns into a reading list and a curriculum record with no extra work"
+        ],
+        [
+          "A few samples of work",
+          "Two or three per subject, per term",
+          "Evidence of progress over time — beginning, middle and end is more useful than a stack"
+        ],
+        [
+          "Any test or assessment results",
+          "As they happen",
+          "Some states require them; everyone else benefits from having them"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Choose samples that show progress rather than the best work. An evaluator or a future school learns more from September, January and May side by side than from thirty polished pages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What high-regulation states add"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A handful of states ask for substantially more, and the difference is in kind rather than degree. Pennsylvania is the example most often discussed, because its requirements are specific: a log kept alongside the instruction rather than written up afterwards, samples of the student's work, and standardised test results at particular grade levels — with the whole portfolio reviewed by an evaluator."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Two features of that model are worth understanding even if you live elsewhere, because states that regulate tend to regulate along the same lines:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "The log is expected to be contemporaneous — made as you go. A log written from memory in April is a different document, and it is usually obvious.",
+        "The required subjects are listed by statute, and an evaluator checks them off one by one. Organising your records by that list rather than by your own subject names turns the review into a matching exercise."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "If you live in one of these states, get the exact statutory subject list from your state's own published rules at the start of the year and use it as your filing structure. This is the single highest-leverage administrative decision available to you, and it takes twenty minutes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The five-minute habit"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Systems fail when they require a separate act of discipline. The ones that survive are attached to something already happening:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Keep one page per week, not one per subject. At the end of the day, one line: date, subjects touched, anything notable. Thirty seconds.",
+        "Photograph work instead of filing it. A photo a week per subject, in a dated folder on your phone, is a portfolio you did not have to store.",
+        "Do the filing on the same day of the week, attached to an existing routine — the same time you plan the week, not a new slot in the diary.",
+        "Write the material titles down once, in September, when you buy them. This is the only genuinely annual task and it takes ten minutes."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Paper or digital does not matter much, but consistency does. Choose the one you will actually maintain in February, which for most families is whichever is already open on the table."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What almost nobody asks for"
+    },
+    {
+      "type": "paragraph",
+      "richText": "New homeschoolers frequently keep far more than any state wants, which is its own risk — a system too heavy to maintain gets abandoned in November, leaving a gap where a light system would have kept running. Things routinely over-collected:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Every completed worksheet. A few dated samples per subject per term is the standard, not the whole pile.",
+        "Minute-by-minute time logs, in states that count days rather than hours.",
+        "Formal lesson plans written in advance. Records document what happened; plans describe what you intended, and states generally ask about the former.",
+        "Grades in the early years, where most states have no such requirement and the number tells you less than the work does."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The purpose of all of this is to make the end of the year uneventful. If you are starting out, set the system up in your first week rather than your first term — our guide to ",
+        {
+          "link": {
+            "ref": "article:how-to-start-homeschooling",
+            "text": "the first thirty days"
+          }
+        },
+        " puts it alongside the legal notification for exactly that reason."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What records do I need to keep for homeschooling?",
+          "answerRichText": "It depends entirely on your state, which sets the requirement — some ask for nothing. As a practical minimum worth keeping anywhere: days of instruction, subjects covered, titles of materials used, a few dated work samples per subject, and any assessment results."
+        },
+        {
+          "question": "How long should I keep homeschool records?",
+          "answerRichText": "Keep them at least until your child has finished school and any transcript has been accepted. For high school years in particular, keep course descriptions and materials lists indefinitely — they are what a transcript is built from."
+        },
+        {
+          "question": "Do I need to keep records if my state does not require any?",
+          "answerRichText": "Not legally, but it is cheap insurance. A minimal record covers you if you move to a stricter state, if your child enrols in school later, or when you need to build a transcript — none of which can be reconstructed after the fact."
+        },
+        {
+          "question": "What is a homeschool portfolio?",
+          "answerRichText": [
+            "A compiled record of a year's work — typically a log of instruction, samples of the student's work, materials used, and any test results — which some states require to be reviewed by an evaluator. Where a portfolio is required, organise it by your state's statutory subject list so the review becomes a matching exercise. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-start-homeschooling",
+                "text": "first thirty days guide"
+              }
+            },
+            " for when to set this up."
+          ]
+        }
+      ]
+    }
+  ]
+}

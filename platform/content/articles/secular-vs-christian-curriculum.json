@@ -1,0 +1,63 @@
+{
+  "id": "secular-vs-christian-curriculum",
+  "slug": "secular-vs-christian-homeschool-curriculum",
+  "clusterId": "cl_compare",
+  "title": "Secular vs Christian Homeschool Curriculum: How to Tell What You're Actually Buying",
+  "dek": "The label on the box rarely tells you what is inside. Here is how to work out a curriculum's worldview before you spend the money — and why \"secular\" and \"not religious\" are two different things.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": { "primaryKeyword": "secular vs christian homeschool curriculum" },
+  "seo": {
+    "metaTitle": "Secular vs Christian Homeschool Curriculum",
+    "metaDescription": "How to tell what worldview a homeschool curriculum actually carries — the two questions to ask, where publishers state it, and where the surprises hide."
+  },
+  "sources": [
+    { "label": "BookShark — Secular Homeschool Curriculum (publisher's own category page)", "url": "https://www.bookshark.com/secular-homeschool-curriculum" },
+    { "label": "Sonlight — homeschool curriculum publisher", "url": "https://www.sonlight.com/" },
+    { "label": "Abeka — Excellence in Education from a Christian Perspective", "url": "https://www.abeka.com/" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "Almost every homeschooling family runs into the same unpleasant surprise at least once. You buy a science course, you get to the unit on origins, and you discover the book takes a position you did not expect — in either direction. The money is spent, the school year has started, and now you are teaching around your own curriculum." },
+    { "type": "paragraph", "richText": "This is avoidable, but not by reading the marketing. Publishers describe themselves in the language their existing customers already share, which means the signal is often invisible to everyone else. This guide is about reading that signal deliberately." },
+    { "type": "heading", "level": 2, "text": "The mistake: treating worldview as one question" },
+    { "type": "paragraph", "richText": "Most curriculum lists sort materials into two buckets, \"Christian\" and \"secular\", and stop there. That single sort is where the confusion starts, because it silently merges two facts that often disagree with each other." },
+    { "type": "table", "caption": "The two questions that a single \"Christian or secular?\" label collapses into one.", "headers": ["Question", "What it tells you", "Who cares most"], "rows": [
+      ["Is there religious content in the material itself?", "Whether your child will read scripture, prayer, or a faith-based account of a topic in the actual lessons", "Anyone teaching a subject where worldview shows up — science, history, literature, health"],
+      ["Is the company behind it religious?", "Whether your money supports a faith-based organisation, and whether the publisher's other products differ", "Families who care about where their money goes, or who plan to buy more from the same publisher"]
+    ] },
+    { "type": "paragraph", "richText": "A maths course from a publisher with a statement of faith may contain no religious content at all. For one family that is irrelevant — arithmetic is arithmetic. For another it is decisive. Neither family is being unreasonable, and a list that gives them one merged label serves neither." },
+    { "type": "callout", "variant": "tip", "richText": "Ask the two questions separately and the contested cases stop being contested. You are no longer arguing about whether a publisher \"counts\" as secular — you are just reading two facts and deciding which one matters to you." },
+    { "type": "heading", "level": 2, "text": "Where worldview actually shows up" },
+    { "type": "paragraph", "richText": "Worldview is not spread evenly across subjects. In practice it concentrates in a few places, and knowing where to look saves you reading an entire teacher's guide:" },
+    { "type": "list", "ordered": false, "items": [
+      "Science — the treatment of origins, the age of the earth, and evolution is the single most common surprise, in both directions.",
+      "History — how the ancient world, world religions, and national founding narratives are framed.",
+      "Literature and reading lists — whether selections are drawn from a particular tradition, and what is left out.",
+      "Health and family life — the framing of the body, relationships, and family structure.",
+      "Maths and grammar — usually neutral in content, though word problems and example sentences occasionally carry references."
+    ] },
+    { "type": "paragraph", "richText": "This is also why a label attached to a whole publisher is close to useless. A publisher can be explicitly faith-based in its science line and entirely neutral in its handwriting workbooks. The useful unit is the curriculum and the subject together, not the company." },
+    { "type": "heading", "level": 2, "text": "How to check before you buy" },
+    { "type": "paragraph", "richText": "Four checks, in the order that gets you an answer fastest:" },
+    { "type": "list", "ordered": true, "items": [
+      "Read the publisher's own About or statement-of-faith page, not the product page. Publishers are usually direct about their position where they describe themselves, and vaguer where they are selling.",
+      "Download the sample. Nearly every publisher offers sample lessons. Go straight to the unit where worldview would appear — origins in science, ancient civilisations in history — rather than reading the first chapter.",
+      "Look at the table of contents for the science and history levels, even if you are only buying maths. It tells you what the rest of the range looks like if you keep buying.",
+      "Search the publisher's name together with the word \"secular\" or \"statement of faith\". Where a publisher has been asked this repeatedly, there is usually a plain answer somewhere on their site."
+    ] },
+    { "type": "callout", "variant": "warn", "richText": "Be careful with second-hand descriptions, including ours. A curriculum's worldview is a fact about the publisher's material, so the publisher's own words are the only source worth trusting. If a page tells you what a curriculum teaches without linking to where the publisher said it, treat it as a rumour." },
+    { "type": "heading", "level": 2, "text": "\"Unstated\" is not the same as secular" },
+    { "type": "paragraph", "richText": "A large number of homeschool materials say nothing about worldview at all. Small publishers in particular simply never address the question. It is tempting to file these as secular by default, and that is a mistake in both directions: the material may contain religious content the publisher never advertised, or it may be scrupulously neutral and get wrongly avoided by families who assumed otherwise." },
+    { "type": "paragraph", "richText": [ "On this site we treat unstated as its own answer rather than rounding it to one side. It means the publisher has not told us, we found nothing in the public samples, and we have not read the entire course. That is less satisfying than a clean label, and it is what we actually know. The same discipline runs through ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "how we approach choosing a curriculum" } }, " generally." ] },
+    { "type": "heading", "level": 2, "text": "If you are the one being labelled" },
+    { "type": "paragraph", "richText": "Secular homeschoolers often report that the hard part is not disagreement but invisibility — having to add the word \"secular\" to every search because religious materials are the assumed default. Christian homeschoolers report the opposite problem in mainstream stores, where a course's treatment of a topic is discovered only after purchase." },
+    { "type": "paragraph", "richText": [ "Both are the same underlying failure: nobody labelled the box. That is the gap this site exists to close, and it is why we report the two facts separately and quote the publisher rather than summarising them. If you want the practical version of this while you are actually shopping, start with our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, "." ] },
+    { "type": "faq", "items": [
+      { "question": "What does \"secular\" mean in homeschool curriculum?", "answerRichText": "It means the material teaches subjects without religious content or a faith-based framing — for example, a science course that presents evolution on the scientific evidence without introducing a religious account. Note that it describes the content, not necessarily the company that produced it." },
+      { "question": "Can a Christian publisher produce a secular curriculum?", "answerRichText": "In content terms, yes — this happens most often in maths and grammar, where there is little for a worldview to attach to. Whether that matters to you is a separate decision, which is exactly why we report content and publisher affiliation as two different facts." },
+      { "question": "Where is worldview most likely to surprise me?", "answerRichText": "Science, specifically the treatment of origins and the age of the earth. History is second, usually in how the ancient world and world religions are framed. If you only have time to check one sample chapter, check science." },
+      { "question": "Is neutral curriculum the same as secular curriculum?", "answerRichText": [ "Not quite. Secular usually implies a deliberate choice to exclude religious content, while neutral often just means the subject never raised the question. A publisher that has said nothing at all is better described as unstated — see ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "our selection guide" } }, " for how we handle that when comparing options." ] }
+    ] }
+  ]
+}

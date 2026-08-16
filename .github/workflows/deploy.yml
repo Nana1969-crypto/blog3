@@ -1,0 +1,41 @@
+name: Deploy CertNorth to Cloudflare
+
+# Deploy automático a cada push na main. O gate de qualidade (check.js) roda
+# ANTES do deploy — se algo violar contraste/links/schema, o job falha e NADA
+# vai ao ar. É o modelo "publicar = merge" (doc 08), com a qualidade garantida
+# no CI, não na confiança.
+#
+# Requer 2 secrets no repositório (Settings → Secrets and variables → Actions):
+#   CLOUDFLARE_API_TOKEN   — token com permissão "Edit Cloudflare Workers"
+#   CLOUDFLARE_ACCOUNT_ID  — id da conta
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build + gate de qualidade (bloqueante)
+        working-directory: platform
+        run: |
+          node src/build.js
+          node src/check.js
+
+      # Deploy direto com wrangler v4 (suporta site 100% de assets estáticos).
+      # A wrangler-action@v3 usa um wrangler antigo que falha com
+      # "Missing entry-point" em sites sem script Worker — por isso o npx aqui.
+      - name: Deploy to Cloudflare Workers
+        working-directory: platform
+        run: npx --yes wrangler@4 deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

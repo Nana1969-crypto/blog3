@@ -1,0 +1,211 @@
+{
+  "id": "how-to-choose-curriculum",
+  "slug": "how-to-choose-a-homeschool-curriculum",
+  "clusterId": "cl_choosing",
+  "title": "How to Choose a Homeschool Curriculum Without Wasting a Year",
+  "dek": "Choose for the teacher you actually are and the child in front of you, not the homeschool you imagine. Here is the order to decide things in, and the four questions that eliminate most options fast.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "how to choose a homeschool curriculum"
+  },
+  "seo": {
+    "metaTitle": "How to Choose a Homeschool Curriculum",
+    "metaDescription": "A practical order for choosing homeschool curriculum: your teaching time first, the child second, worldview third, and price last."
+  },
+  "sources": [
+    {
+      "label": "BookShark — Secular Homeschool Curriculum (publisher category page)",
+      "url": "https://www.bookshark.com/secular-homeschool-curriculum"
+    },
+    {
+      "label": "Sonlight — homeschool curriculum publisher",
+      "url": "https://www.sonlight.com/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Most curriculum regret is not caused by buying a bad curriculum. It is caused by buying a good curriculum that assumed a different teacher, a different child, or a different amount of time than you actually have. The material was fine. The fit was not."
+    },
+    {
+      "type": "paragraph",
+      "richText": "So the useful question is not \"what is the best homeschool curriculum\" — there is no answer to that — but \"what will still be working in March?\" That reframing changes the order you decide things in."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Decide in this order"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Almost everyone decides in the reverse order, starting with what looks appealing and ending with whether they can teach it. Flipping it saves a year:"
+    },
+    {
+      "type": "table",
+      "caption": "The order to decide in, and what each step eliminates.",
+      "headers": [
+        "Order",
+        "Decide",
+        "What it rules out"
+      ],
+      "rows": [
+        [
+          "1",
+          "How much time you can teach directly, on an ordinary bad week",
+          "Everything teacher-intensive, if your honest answer is under an hour a day"
+        ],
+        [
+          "2",
+          "How this particular child takes in information and shows what they know",
+          "Anything that fights your child's working style every single day"
+        ],
+        [
+          "3",
+          "What worldview you want in the material",
+          "Whole publishers, quickly — and prevents the mid-year surprise"
+        ],
+        [
+          "4",
+          "Format: open-and-go, all-in-one, or assembled by subject",
+          "Options that need more planning than you will realistically do"
+        ],
+        [
+          "5",
+          "Price",
+          "Almost nothing, which is why it belongs last"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Answer step 1 for a bad week, not a good one. Curriculum that works when everyone is well and the day is calm is not curriculum that works — it is curriculum that works sometimes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The four questions that narrow it fastest"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Ask these of any specific option, in this order. Most candidates fail one of them within a few minutes:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "How many minutes a day does this expect from ME? Publishers usually state this somewhere in the teacher's guide description. If they do not, that is itself an answer.",
+        "What happens on a day we fall behind? Some programmes absorb a missed day invisibly; others are built as a sequence where every lesson depends on the last, and the gap compounds.",
+        "What does it look like when my child is struggling? Look for whether there is a re-teaching path, or whether the only option is to repeat the same page more slowly.",
+        "What does it teach in the places where worldview shows up? Check the sample for science and history specifically, not the first chapter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That fourth question is the one families most often skip and most often regret. It is worth doing properly — we walk through exactly where to look, and why publisher-level labels mislead, in our guide to ",
+        {
+          "link": {
+            "ref": "article:secular-vs-christian-curriculum",
+            "text": "telling secular and Christian curricula apart"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Match the format to your life, not your ambitions"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Format is where honest self-assessment pays the biggest dividend. The three broad shapes trade the same currency — your planning time against your money and your flexibility:"
+    },
+    {
+      "type": "table",
+      "caption": "The three curriculum formats and the trade each one makes.",
+      "headers": [
+        "Format",
+        "Best when",
+        "Fails when"
+      ],
+      "rows": [
+        [
+          "All-in-one boxed package",
+          "You want one decision, one delivery, and a plan you can follow on a bad week",
+          "Your child is at different levels in different subjects — you end up paying for parts you replace"
+        ],
+        [
+          "Open-and-go by subject",
+          "You want to pick the best fit per subject without writing lesson plans yourself",
+          "You underestimate how much time comparing and re-ordering each year actually takes"
+        ],
+        [
+          "Assembled from resources",
+          "You enjoy planning, and your child needs something unusual that no package delivers",
+          "The planning happens in August and stops in October — the most common failure mode there is"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "If you have never homeschooled before, resist assembling your own first year. Not because it is wrong — plenty of experienced families do it well — but because you do not yet know your own limits, and the first year is an expensive time to discover them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What price actually tells you"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Price sits last on the list because it correlates poorly with fit. Expensive packages often buy you teaching support and pre-planning — real value if that is the thing you are short of, and wasted money if you would rather plan yourself. Cheap or free materials often assume a confident teacher who can fill gaps."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The exception worth watching is consumables. A programme with a low headline price and a workbook per child per year is a recurring cost, not a purchase. Multiply it by your number of children and by the years you expect to use it before you compare."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Give yourself permission to stop"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Set a review point — six weeks is a reasonable one — and decide in advance what would make you change course. Writing it down beforehand prevents both of the expensive mistakes: abandoning something during a bad fortnight, and pushing on with something that has clearly stopped working. If the problem turns out to be the format of the work rather than the subject, our guide to ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "the child who fights worksheets"
+          }
+        },
+        " covers what to change first."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I choose a homeschool curriculum for the first time?",
+          "answerRichText": "Decide in this order: how much time you can teach on a bad week, how this child works, what worldview you want, what format fits, and price last. For a first year, prefer something open-and-go over assembling your own — you do not yet know your own limits."
+        },
+        {
+          "question": "Should I use the same curriculum for every subject?",
+          "answerRichText": "Not necessarily. All-in-one packages buy simplicity, which is genuinely valuable in a first year, but they assume a child who is at a similar level across subjects. Mixing by subject fits better where children are uneven, at the cost of more comparison work each year."
+        },
+        {
+          "question": "How long should I give a curriculum before switching?",
+          "answerRichText": "Around six weeks, decided in advance. The point of setting the review date beforehand is that it protects you from quitting during one bad fortnight and from persisting with something that is genuinely not working."
+        },
+        {
+          "question": "Does expensive curriculum work better?",
+          "answerRichText": "Not reliably. Higher prices usually buy teacher support and pre-planning, which helps if planning time is your bottleneck and is wasted if it is not. Watch for consumable workbooks, which turn a one-off price into an annual cost per child."
+        }
+      ]
+    }
+  ]
+}

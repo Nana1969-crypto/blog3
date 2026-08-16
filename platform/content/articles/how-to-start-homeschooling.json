@@ -1,0 +1,214 @@
+{
+  "id": "how-to-start-homeschooling",
+  "slug": "how-to-start-homeschooling",
+  "clusterId": "cl_first_steps",
+  "title": "How to Start Homeschooling: The First Thirty Days",
+  "dek": "Two things are urgent when you start homeschooling — the legal notification your state may require, and not burning out in week three. Almost everything else can wait, including curriculum.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "how to start homeschooling"
+  },
+  "seo": {
+    "metaTitle": "How to Start Homeschooling: First 30 Days",
+    "metaDescription": "What matters in your first month homeschooling: your state's notification rules, records from day one, and why curriculum can wait."
+  },
+  "sources": [
+    {
+      "label": "HSLDA — homeschool laws by state",
+      "url": "https://hslda.org/legal"
+    },
+    {
+      "label": "Pennsylvania Home Educators Association — home education portfolios",
+      "url": "https://phea.net/pa-home-education-portfolios/"
+    },
+    {
+      "label": "Homeschool Pennsylvania — portfolios knowledge base",
+      "url": "https://homeschoolpennsylvania.org/index.php/knowledgebase/portfolios/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "New homeschoolers almost always start with the wrong question. The first question is not which curriculum to buy — it is what your state requires you to do, and by when. Get that wrong and the best curriculum in the world does not help you."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Here is what actually matters in the first month, in the order it matters."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Week one: the legal step"
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Homeschool law in the United States is set state by state and varies enormously — some states ask nothing at all, others require notice, records, and periodic assessment. Deadlines are often tied to the date you withdraw your child. Confirm your obligations against your own state's current published rules before you rely on any summary, including ours."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Three things to establish, in this order:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Whether your state requires you to notify anyone, and if so, whom — usually the local school district or the state education agency.",
+        "The deadline, and what triggers it. In many states the clock starts when you withdraw a child from school rather than at the start of the academic year.",
+        "What you will be asked to produce later — attendance, subject records, samples of work, or assessment results. This determines what you should be keeping from day one."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That third point is the one people discover too late. Records you did not keep in September cannot be reconstructed in May, which is why we treat it as a week-one task rather than an end-of-year one — see our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-record-keeping",
+            "text": "homeschool record keeping"
+          }
+        },
+        " for what to set up."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "If your child is currently enrolled in a school, find out the withdrawal procedure at the same time. Schools occasionally record an unexplained absence as truancy while paperwork is in transit, and a dated written notice protects you from that."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Weeks two and three: do less than you think"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The most common first-month mistake is building a replica of school at the kitchen table: seven subjects, a bell schedule, and a full day of instruction. It collapses, usually within a fortnight, and the collapse feels like personal failure when it is really a scheduling error."
+    },
+    {
+      "type": "paragraph",
+      "richText": "One-to-one teaching is far more efficient than classroom teaching, because there is no waiting, no crowd management and no pacing for twenty-five different children. The honest arithmetic surprises most new homeschoolers:"
+    },
+    {
+      "type": "table",
+      "caption": "Approximate focused instruction time that experienced homeschoolers typically report, as a starting point to adjust from.",
+      "headers": [
+        "Stage",
+        "Focused work, per day",
+        "What fills the rest"
+      ],
+      "rows": [
+        [
+          "Early primary",
+          "Roughly 1 to 2 hours",
+          "Reading aloud, play, being outside, everyday tasks"
+        ],
+        [
+          "Later primary",
+          "Roughly 2 to 3 hours",
+          "Independent reading, projects, interests"
+        ],
+        [
+          "Middle years",
+          "Roughly 3 to 4 hours",
+          "Increasing independent work"
+        ],
+        [
+          "High school",
+          "Roughly 4 to 6 hours",
+          "Independent study, outside classes, work or volunteering"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Treat these as a starting point rather than a target. Some children need more, some need less, and a day where the work is finished is not a day where something went wrong."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Start with maths and reading only. Add one subject a week once those two are running without a fight. A routine that survives contact with a bad week is worth more than an ambitious plan that does not."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Week four: only now, curriculum"
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is a good reason to delay this decision rather than make it first. After three weeks you know things you could not have known in advance: how long your child actually attends for, whether they prefer to read or be read to, what time of day works, and how much direct teaching you can realistically do."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Those four facts eliminate most of the market immediately, and they are exactly the inputs our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        " asks you to decide in order. Choosing in week one means guessing at all four."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One thing worth checking before you buy anything: what worldview the material carries, which is not always obvious from the cover or the catalogue. Our guide to ",
+        {
+          "link": {
+            "ref": "article:secular-vs-christian-curriculum",
+            "text": "telling secular and Christian curricula apart"
+          }
+        },
+        " covers where to look and why publisher-level labels mislead."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to ignore in the first month"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Comparison with what the local school is covering this term. Different sequence, different pace; matching it is not a goal.",
+        "Buying a full year of everything up front. Buy one term where you can — you will know more in January than you do now.",
+        "The dedicated schoolroom. Useful for some families, and never the thing that determines whether homeschooling works.",
+        "Anxiety about socialisation in month one. It is a real question and it is a month-three question — first get the days working."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What is the first thing to do when you start homeschooling?",
+          "answerRichText": "Find out what your state requires and by when — whether you must notify anyone, what the deadline is, and what records you will need later. That last point determines what to start keeping immediately, and it cannot be reconstructed afterwards."
+        },
+        {
+          "question": "How many hours a day should we homeschool?",
+          "answerRichText": "Far fewer than a school day. Families commonly report roughly one to two hours of focused work in early primary, rising to four to six by high school. One-to-one teaching removes most of the waiting that fills a classroom day."
+        },
+        {
+          "question": "Should I buy curriculum before I start?",
+          "answerRichText": [
+            "Preferably not, beyond maths and reading. After three weeks you know your child's attention span, preferred format and best time of day — the facts that actually narrow the choice. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            " for the order to decide in."
+          ]
+        },
+        {
+          "question": "Do I need to notify the school before withdrawing my child?",
+          "answerRichText": "In many states yes, and the notification deadline is often triggered by the withdrawal itself. Check your own state's current published rules, keep a dated copy of anything you send, and confirm the school's withdrawal procedure so absences are not recorded as truancy."
+        }
+      ]
+    }
+  ]
+}

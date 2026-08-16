@@ -1,0 +1,221 @@
+{
+  "id": "spiral-vs-mastery-math",
+  "slug": "spiral-vs-mastery-math-curriculum",
+  "clusterId": "cl_choosing",
+  "title": "Spiral vs Mastery Maths: Which One Your Child Actually Needs",
+  "dek": "Most homeschool maths frustration is a mismatch between how a programme sequences topics and how your child consolidates them. Here is how to tell the two approaches apart, and which symptoms point to which.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "spiral vs mastery math curriculum"
+  },
+  "seo": {
+    "metaTitle": "Spiral vs Mastery Maths for Homeschool",
+    "metaDescription": "What spiral and mastery maths curricula do differently, how to tell which one a programme uses, and the symptoms of a wrong fit."
+  },
+  "sources": [
+    {
+      "label": "Hess Un-Academy — homeschool maths curriculum comparison chart",
+      "url": "https://hessunacademy.com/homeschool-math-curriculums/"
+    },
+    {
+      "label": "Homeschool On — homeschool maths comparison",
+      "url": "https://homeschoolon.com/ultimate-homeschool-math-comparison/"
+    },
+    {
+      "label": "Sonlight — maths curriculum options",
+      "url": "https://www.sonlight.com/pages/math"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "When a family tells us maths is not working, the problem is usually not the child's ability and not the quality of the programme. It is that the programme sequences topics in a way that fights how this particular child consolidates them. There are two main sequencing philosophies, and knowing which one you are holding explains most of what goes wrong."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the two approaches actually do"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Both approaches teach the same mathematics. They disagree about when to move on."
+    },
+    {
+      "type": "table",
+      "caption": "How spiral and mastery curricula sequence the same content differently.",
+      "headers": [
+        "",
+        "Spiral",
+        "Mastery"
+      ],
+      "rows": [
+        [
+          "Core idea",
+          "Touch many topics each year, returning to each one repeatedly at increasing depth",
+          "Stay on one topic until it is solid, then move on and rarely return"
+        ],
+        [
+          "A typical lesson",
+          "Mixed: a little new material, plus practice drawn from several earlier topics",
+          "Focused: one concept, practised until it is secure"
+        ],
+        [
+          "Review",
+          "Built into every lesson automatically",
+          "Usually a separate, deliberate activity you have to schedule"
+        ],
+        [
+          "Moving on",
+          "You move on before mastery, by design — it comes back",
+          "You do not move on until mastery, by design"
+        ],
+        [
+          "Its bet",
+          "Repeated exposure over time produces retention",
+          "Deep understanding first produces retention"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Neither approach is better. They are bets on different mechanisms for retention, and children genuinely differ in which bet pays off. Most programmes are also not purely one or the other — the useful question is which way a given programme leans."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Symptoms of the wrong fit"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the fastest diagnostic, because the failure modes look completely different from each other."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Signs your child needs more mastery than they are getting:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "They can do the new material in the lesson, but the mixed practice at the end produces tears or shutdown.",
+        "They complain that they have forgotten how to do something they clearly learned two months ago.",
+        "They seem to be perpetually half-way through everything and confident about nothing.",
+        "Lessons take far longer than the stated time because each problem is a different topic requiring a mental gear change."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "Signs your child needs more spiral than they are getting:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "They grasp a topic quickly, then are bored and resistant for the remaining two weeks of it.",
+        "They test well at the end of a unit and have visibly lost it by the following term.",
+        "Long stretches on one topic produce a sense that maths is a slog rather than a set of connected ideas.",
+        "They do fine as long as they know which method today's page wants, and fall apart when problems are mixed."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "That last symptom is worth taking seriously. A child who succeeds only when the page announces the method has not finished learning the topic — they have learned the page. Mixed practice is what exposes it, which is uncomfortable and useful."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to tell which one a programme uses"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Publishers do not always use the words \"spiral\" or \"mastery\", and when they do, they sometimes mean something slightly different from each other. Rather than rely on labels — ours included — check the material directly:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Open the table of contents. Many short chapters cycling through several strands suggests spiral; a small number of long chapters, each on one strand, suggests mastery.",
+        "Look at the last page of a sample lesson. If the practice set mixes topics from earlier in the year, it is spiral in practice, whatever the marketing says.",
+        "Check where review lives. Built into every lesson means spiral; a separate review chapter or a recommended supplementary drill means mastery.",
+        "Read the placement test. Mastery programmes tend to place by topic; spiral programmes tend to place by level."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "We deliberately do not list which named programmes fall into which camp until we have checked the publisher's own current materials and can quote them — the same rule we apply to worldview labels in our ",
+        {
+          "link": {
+            "ref": "article:secular-vs-christian-curriculum",
+            "text": "curriculum labelling guide"
+          }
+        },
+        ". Second-hand category lists for maths programmes contradict each other often enough that repeating them would be guessing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to change before you change programmes"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Switching maths curricula mid-year is disruptive and often unnecessary. Two cheaper interventions fix a large share of mismatches:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "If you have a mastery programme and retention is the problem, add ten minutes of mixed review from previous topics — you have effectively built the spiral yourself.",
+        "If you have a spiral programme and consolidation is the problem, slow down and spend two or three days on the new concept alone before letting the mixed practice back in."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If the resistance is about the physical work rather than the mathematics — the writing, the page, the sheer number of problems — then the sequencing is not your problem at all. Start with our guide to ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "the child who fights worksheets"
+          }
+        },
+        " instead."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What is the difference between spiral and mastery maths?",
+          "answerRichText": "Spiral curricula cover many topics each year and return to each repeatedly at greater depth, with review built into every lesson. Mastery curricula stay on one topic until it is secure before moving on, and treat review as a separate activity."
+        },
+        {
+          "question": "Which is better for a child who forgets things?",
+          "answerRichText": "It depends on what they forget. If they lose topics months after a unit ends, a spiral approach — or added mixed review — usually helps. If they cannot hold a new concept long enough to finish the lesson, that points to needing more mastery, not more review."
+        },
+        {
+          "question": "Can I mix the two approaches?",
+          "answerRichText": "Yes, and it is usually cheaper than switching programmes. Adding ten minutes of mixed review to a mastery programme, or slowing down on new concepts in a spiral one, addresses most mismatches without a new purchase."
+        },
+        {
+          "question": "How do I tell which approach my curriculum uses?",
+          "answerRichText": [
+            "Look at a sample lesson's practice set. If it mixes topics from earlier in the year, it is spiral in practice regardless of the marketing language. The table of contents helps too — many short cycling chapters suggest spiral, few long ones suggest mastery. Our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            " covers what else to check in a sample."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -34,6 +34,26 @@ você deve ter."*
 
 ---
 
+## Estado da implementação (2026-08-16)
+
+As regras da seção 1 **já estão implementadas no motor** como os códigos CUR-1 a
+CUR-5 em `platform/src/build.js`. Rótulo sem fonte, sem citação textual, sem data
+ou sem escopo declarado **derruba o build**. O build também avisa quando um rótulo
+passa de 6 meses sem reverificação.
+
+**Pendências deliberadas, não esquecidas:**
+
+| Pendente | Por quê |
+|---|---|
+| `curriculum.json` vazio | Cada entrada exige a frase textual da página da editora. O ambiente desta sessão bloqueia acesso às páginas externas, e inventar a citação seria exatamente a fabricação que este documento proíbe. |
+| Pilar "State Laws & Funding" ausente da taxonomia | Cada guia estadual exige as regras publicadas pelo próprio estado. Mesmo motivo. Entra na taxonomia junto com o primeiro guia verificado. |
+| Domínio e e-mail de contato | Ainda não registrados. A página `/contact/` declara isso em vez de listar um endereço que não funciona. |
+
+Nenhuma dessas pendências bloqueia a publicação de artigos de método e julgamento,
+que é o que já está no ar.
+
+---
+
 ## 1. Rotulagem de visão de mundo — o risco central
 
 - 🔒 Sem `worldviewSource` (link) + `worldviewQuote` (frase exata da editora) +

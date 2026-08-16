@@ -1,0 +1,61 @@
+{
+  "id": "child-hates-worksheets",
+  "slug": "homeschool-curriculum-child-hates-worksheets",
+  "clusterId": "cl_situations",
+  "title": "When Your Child Fights Every Worksheet: What to Change First",
+  "dek": "A child who resists worksheets is usually objecting to one of four specific things, and each has a different fix. Work out which one before you spend money on a new curriculum.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": { "primaryKeyword": "homeschool curriculum for a child who hates worksheets" },
+  "seo": {
+    "metaTitle": "Homeschool When Your Child Hates Worksheets",
+    "metaDescription": "Four different reasons children resist worksheets, how to tell which one you have, and what to change first — usually before buying a new curriculum."
+  },
+  "sources": [
+    { "label": "Hess Un-Academy — homeschool curriculum comparison chart", "url": "https://hessunacademy.com/homeschool-math-curriculums/" },
+    { "label": "BookShark — Secular Homeschool Curriculum (publisher category page)", "url": "https://www.bookshark.com/secular-homeschool-curriculum" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "\"My child hates worksheets\" is one of the most common sentences in homeschooling, and one of the least useful, because it describes four completely different problems that happen to produce the same scene at the kitchen table." },
+    { "type": "paragraph", "richText": "Buying a livelier curriculum fixes exactly one of them. The other three follow you to the new programme. So the first job is diagnosis, and it costs nothing." },
+    { "type": "heading", "level": 2, "text": "The four reasons, and how to tell them apart" },
+    { "type": "table", "caption": "Four causes of worksheet resistance and the test that distinguishes them.", "headers": ["Cause", "What you would see", "Quick test"], "rows": [
+      ["The physical act of writing", "Resistance scales with how much handwriting is required, regardless of subject or difficulty", "Ask for the same answers out loud, or let them type. If resistance collapses, it was the writing"],
+      ["The work is too hard", "Avoidance starts before the page begins; frustration, not boredom; may look like defiance", "Drop the difficulty two levels for one session. Willingness returning means it was difficulty"],
+      ["The work is too easy", "They can do it, they say it is pointless, and they slow down more the longer it goes on", "Offer a harder, shorter version. If they engage, it was boredom"],
+      ["The volume", "First few problems are fine, then quality and mood fall off a cliff at a predictable point", "Cut the page in half. If the halves are both fine, it was volume"]
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "Run these tests on different days rather than all in one session, and change one variable at a time. A child who has just been through a frustrating morning will resist anything, which contaminates the next test." },
+    { "type": "heading", "level": 2, "text": "If it is the writing" },
+    { "type": "paragraph", "richText": "This is the most commonly missed cause, because the child's objection sounds like it is about maths or grammar when it is actually about their hand. The fix is to separate the thinking from the recording:" },
+    { "type": "list", "ordered": false, "items": [
+      "Let them answer orally while you scribe. You are assessing whether they know it, not whether they can write it.",
+      "Allow typing, dictation, or a whiteboard. The whiteboard in particular removes the permanence that makes some children freeze.",
+      "Cut the copying. If a worksheet asks them to copy the problem before solving it, write the problems in yourself.",
+      "Practise handwriting deliberately and separately, in short sessions, so it stops being a tax on every other subject."
+    ] },
+    { "type": "callout", "variant": "warn", "richText": "Persistent, disproportionate difficulty with handwriting, or a large gap between what a child can say and what they can write down, is worth raising with a professional rather than solving with curriculum. We are not qualified to assess that and neither is a curriculum publisher." },
+    { "type": "heading", "level": 2, "text": "If it is difficulty or boredom" },
+    { "type": "paragraph", "richText": "These two look similar from across the room and require opposite responses, which is why the tests above matter more than the observation." },
+    { "type": "paragraph", "richText": "Too hard usually means a gap further back rather than a failure at today's topic. Going back to find the last thing that was solid is faster than pushing forward, however uncomfortable it feels to lose ground on the schedule." },
+    { "type": "paragraph", "richText": [ "Too easy is frequently a sequencing problem rather than a level problem — a child who grasps things quickly and is then held on the same topic for two more weeks. If that pattern sounds familiar, read our guide to ", { "link": { "ref": "article:spiral-vs-mastery-math", "text": "spiral and mastery sequencing" } }, " before changing anything, because you may need a different pace rather than a different book." ] },
+    { "type": "heading", "level": 2, "text": "If it is the volume" },
+    { "type": "paragraph", "richText": "Most worksheets contain more problems than any individual child needs, because they are written for a classroom where the teacher cannot know who needs which. You are not that teacher — you can see exactly where understanding became secure." },
+    { "type": "list", "ordered": false, "items": [
+      "Assign the odd numbers. If those are all correct, the evens teach nothing except that the day is long.",
+      "Set a time limit instead of a page: fifteen focused minutes beats forty resentful ones, and it makes the end predictable.",
+      "Let a demonstrated skill end the exercise. \"Three in a row correct and we stop\" turns the page into a target rather than a sentence."
+    ] },
+    { "type": "callout", "variant": "info", "richText": "Cutting volume is not lowering standards. The purpose of practice is to reach reliability, and a child who has reached it is now practising something else entirely — usually the belief that schoolwork is pointless." },
+    { "type": "heading", "level": 2, "text": "When it really is the curriculum" },
+    { "type": "paragraph", "richText": "Sometimes the diagnosis is genuinely that the format is wrong: a workbook-driven programme for a child who needs to build, move, discuss, or read. That is a real category, and it is worth changing for." },
+    { "type": "paragraph", "richText": [ "If you get there, change deliberately rather than reactively. Decide what specifically must be different — less writing, shorter lessons, more discussion, hands-on materials — and evaluate candidates against that list rather than against how appealing they look. Our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, " sets out the order to decide in, and it applies doubly when you are switching mid-year." ] },
+    { "type": "faq", "items": [
+      { "question": "What curriculum is best for a child who hates worksheets?", "answerRichText": "There is no single answer, because worksheet resistance has at least four different causes and only one of them is solved by new materials. Diagnose first: writing, difficulty, boredom, or volume. Three of those four are fixed without buying anything." },
+      { "question": "Is it okay to skip half the problems on a page?", "answerRichText": "Yes. Worksheets are written for classrooms where the teacher cannot see who has understood. You can. Once a skill is reliable, additional problems mostly teach the child that the work is arbitrary." },
+      { "question": "How do I know if handwriting is the real problem?", "answerRichText": "Ask for the same answers orally or let them type. If the resistance largely disappears, the objection was to the writing rather than the subject. Persistent, disproportionate handwriting difficulty is worth discussing with a professional." },
+      { "question": "Should I switch curriculum mid-year?", "answerRichText": [ "Only after you have ruled out difficulty, boredom, volume and writing — and only with a written list of what must be different. Switching reactively usually reproduces the same problem in a new format. See our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "selection guide" } }, " for the order to decide in." ] }
+    ] }
+  ]
+}

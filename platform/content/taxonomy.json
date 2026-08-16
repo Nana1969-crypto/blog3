@@ -1,0 +1,28 @@
+{
+  "pillars": [
+    {
+      "id": "pillar_start",
+      "slug": "getting-started",
+      "title": "Getting Started",
+      "description": "The practical first steps of teaching at home — what to do in the first month, what to keep records of, and what genuinely does not matter as much as new homeschoolers fear."
+    },
+    {
+      "id": "pillar_curriculum",
+      "slug": "curriculum",
+      "title": "Curriculum",
+      "description": "Honest comparisons of homeschool curricula — what each one actually teaches, what worldview it carries, how it expects you to teach, and who it is not for."
+    },
+    {
+      "id": "pillar_learners",
+      "slug": "learners",
+      "title": "Every Kind of Learner",
+      "description": "Homeschooling when the standard advice does not fit — the child who fights worksheets, the child who is far ahead or far behind, and the parent teaching around a full-time job."
+    }
+  ],
+  "clusters": [
+    { "id": "cl_first_steps", "pillarId": "pillar_start", "slug": "first-steps", "title": "First Steps" },
+    { "id": "cl_compare", "pillarId": "pillar_curriculum", "slug": "compare", "title": "Compare Curricula" },
+    { "id": "cl_choosing", "pillarId": "pillar_curriculum", "slug": "choosing", "title": "Choosing a Curriculum" },
+    { "id": "cl_situations", "pillarId": "pillar_learners", "slug": "situations", "title": "Special Situations" }
+  ]
+}
