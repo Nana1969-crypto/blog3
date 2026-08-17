@@ -1,0 +1,72 @@
+{
+  "id": "homeschool-methods-compared",
+  "slug": "homeschool-methods-compared",
+  "clusterId": "cl_compare",
+  "title": "Homeschool Methods Compared: Which One Is Really Asking Something of You",
+  "dek": "Every comparison of homeschool methods describes what each one does for the child. The more useful question is what each one demands of the parent — because that is what determines whether you are still using it in March.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-17",
+  "updatedAt": "2026-08-17",
+  "intent": { "primaryKeyword": "homeschool methods compared" },
+  "seo": {
+    "metaTitle": "Homeschool Methods Compared, Honestly",
+    "metaDescription": "Charlotte Mason, classical, Montessori, unschooling, unit studies and traditional — what each demands of the parent, and why most families end up blending."
+  },
+  "sources": [
+    { "label": "Homeschool Picks — homeschool methods comparison chart", "url": "https://homeschoolpicks.com/homeschool-methods/homeschool-methods-comparison-chart/" },
+    { "label": "Anywhere Learning — homeschool methods compared", "url": "https://anywherelearning.co/blog/homeschool-methods-compared" },
+    { "label": "Classical Conversations — different homeschool methods explained", "url": "https://classicalconversations.com/blog/homeschool-methods-explained/" },
+    { "label": "Veritas Press — homeschool styles, start here before you choose a method", "url": "https://veritaspress.com/blog/homeschool-styles" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "New homeschoolers are told to choose a method before choosing anything else, and then handed six philosophies with unfamiliar names attached to people who died a century ago. It is one of the most reliable ways to spend three weeks reading and end up no closer to teaching your child anything." },
+    { "type": "paragraph", "richText": "The comparisons available online are mostly accurate and mostly unhelpful, because they all answer the same question: what does this method do for the child? That question has no wrong answer — every one of these approaches has raised well-educated children. The question that actually predicts whether a method will still be in use next spring is a different one." },
+    { "type": "heading", "level": 2, "text": "What a method actually decides" },
+    { "type": "paragraph", "richText": "Strip away the vocabulary and a homeschool method is a decision about one thing: who drives the learning. Everything else follows from that." },
+    { "type": "table", "caption": "The six common approaches, sorted by who directs the learning.", "headers": ["Who drives", "Method", "In practice"], "rows": [
+      ["The parent and the material", "Traditional", "Textbooks, workbooks, tests, a sequence set in advance — the closest thing to school at home"],
+      ["The parent and the material", "Classical", "A structured progression through facts, then reasoning, then expression; heavy on logic, memory and debate"],
+      ["Shared", "Charlotte Mason", "Short lessons, literature rather than textbooks, narration, nature study, deliberate exposure to art and music"],
+      ["Shared", "Unit studies", "One theme carried across every subject at once — strong for teaching several ages together"],
+      ["The child", "Montessori", "Hands-on, self-directed work in a carefully prepared environment, with the adult preparing rather than instructing"],
+      ["The child", "Unschooling", "No set curriculum; learning follows the child's interests as they arise"]
+    ] },
+    { "type": "callout", "variant": "info", "richText": "That spectrum is the whole map. Traditional and classical put the parent and the curriculum in charge; Montessori and unschooling hand the wheel to the child; Charlotte Mason and unit studies share it. If you understand nothing else about these methods, understanding that ordering is enough to start." },
+    { "type": "heading", "level": 2, "text": "The question nobody puts in the comparison chart" },
+    { "type": "paragraph", "richText": "A method is not only a theory of how children learn. It is a standing claim on the parent's time, preparation and temperament — and those claims differ enormously. This is the table we wish we had been given first:" },
+    { "type": "table", "caption": "What each approach asks of the parent, week after week.", "headers": ["Method", "Your daily time", "Your preparation", "Fails when the parent…"], "rows": [
+      ["Traditional", "Moderate, and predictable", "Very low — the sequence is decided for you", "…needs flexibility, or has a child who is far ahead in one subject and behind in another"],
+      ["Classical", "High, especially later on", "Moderate to high; you often learn alongside", "…cannot sustain the reading and discussion the later stages assume"],
+      ["Charlotte Mason", "Low in minutes, high in attention", "Low, once the book list exists", "…cannot resist adding worksheets to short lessons that look too easy"],
+      ["Unit studies", "Moderate", "High — you are the one connecting the subjects", "…runs out of planning energy around October"],
+      ["Montessori", "Low during work, high before it", "High — the environment is the teaching", "…cannot leave the prepared work alone and starts instructing"],
+      ["Unschooling", "Highly variable, often high", "Constant, invisible, and never finished", "…cannot tell the difference between following a child and abandoning them"]
+    ] },
+    { "type": "callout", "variant": "warn", "richText": "The two approaches most often chosen because they look least demanding — unschooling and Montessori — are the two that ask the most of the adult. Neither is a lighter option. Both simply move the parent's work from the lesson itself to everything surrounding it, where it is easy to underestimate and easy to quietly stop doing." },
+    { "type": "heading", "level": 2, "text": "Why almost everyone ends up blending" },
+    { "type": "paragraph", "richText": "Families who have been at this for several years rarely describe themselves in one word. They use a structured programme for maths because it is sequential and a gap compounds, literature and narration for language because it costs little and works, a unit study for history because it lets four children learn together, and something close to unschooling for whatever the child is currently obsessed with." },
+    { "type": "paragraph", "richText": "This is not a failure to commit. It reflects something true: the subjects have different shapes. A skill that builds strictly on the previous step needs a sequence. A body of knowledge does not. Applying one philosophy uniformly across both is a decision about tidiness rather than about teaching." },
+    { "type": "paragraph", "richText": [ "Maths is the clearest example, and it has its own internal split worth understanding before you choose anything — see our guide to ", { "link": { "ref": "article:spiral-vs-mastery-math", "text": "spiral and mastery sequencing" } }, ". Narration, the tool at the centre of the Charlotte Mason approach, is also the single most useful thing we know for teaching composition, whatever method you otherwise use — we cover it in ", { "link": { "ref": "article:teaching-writing-at-home", "text": "how to teach writing" } }, "." ] },
+    { "type": "heading", "level": 2, "text": "Choosing without losing a month" },
+    { "type": "paragraph", "richText": "Method research is unusually good at feeling like progress while producing none. A shorter route:" },
+    { "type": "list", "ordered": true, "items": [
+      "Decide who drives, using the spectrum above. That single choice eliminates two-thirds of the reading.",
+      "Check the parent column honestly. Not the version of you who has just read an inspiring book — the you of a wet Tuesday in February with a head cold.",
+      "Pick one method for one subject and run it for six weeks. A method is a claim about practice, and practice is the only place it can be tested.",
+      "Keep what survives; change what does not. After a term you will have evidence instead of philosophy.",
+      "Stop reading about methods. Past the first week, further reading almost always postpones teaching rather than improving it."
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "If you have recently withdrawn a child from school, do not choose a method yet. What a child reaches for when nothing is assigned is the best information you will ever get about how they learn — and it only appears after the classroom habits fade." },
+    { "type": "paragraph", "richText": [ "That period has a name and a purpose; our guide to ", { "link": { "ref": "article:deschooling", "text": "deschooling" } }, " covers how long it usually takes and how to tell it apart from drifting. When you are ready to translate a method into an actual purchase, the order to decide in is set out in our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, "." ] },
+    { "type": "heading", "level": 2, "text": "One thing to watch while you read" },
+    { "type": "paragraph", "richText": [ "Much of the best writing about these methods is published by companies that sell a curriculum built on one of them — ", { "link": { "ref": "https://classicalconversations.com/blog/homeschool-methods-explained/", "text": "Classical Conversations" } }, " and ", { "link": { "ref": "https://veritaspress.com/blog/homeschool-styles", "text": "Veritas Press" } }, " both publish useful explainers, and both sell classical materials. That does not make their explanations wrong, and we link them because they are genuinely good. It does mean the comparison you are reading may have a favourite before you do." ] },
+    { "type": "paragraph", "richText": [ "The same caution applies to worldview: several of these methods carry a religious tradition in the materials most commonly associated with them, and several do not, and the marketing rarely makes that explicit. Our guide to ", { "link": { "ref": "article:secular-vs-christian-curriculum", "text": "telling secular and Christian curricula apart" } }, " covers where to check before you buy." ] },
+    { "type": "faq", "items": [
+      { "question": "What are the main homeschool methods?", "answerRichText": "Traditional, classical, Charlotte Mason, unit studies, Montessori and unschooling. They are best understood by who directs the learning: traditional and classical put the parent and curriculum in charge, Montessori and unschooling give that role to the child, and Charlotte Mason and unit studies share it." },
+      { "question": "Which homeschool method is best?", "answerRichText": "There is no best method — all of them have educated children well. The better question is which one matches the time, preparation and temperament you can sustain in February, because the method that gets abandoned is worse than any of the others that get used." },
+      { "question": "Is unschooling easier than other methods?", "answerRichText": "No, and it is commonly chosen on that assumption. Unschooling moves the parent's work out of the lesson and into everything around it — noticing, resourcing, connecting — which is constant, invisible and easy to stop doing without noticing. Montessori carries a similar hidden load in preparing the environment." },
+      { "question": "Can I mix homeschool methods?", "answerRichText": [ "Yes, and most experienced families do. Sequential skills like maths benefit from structure while bodies of knowledge like history do not, so applying one philosophy to both is usually a decision about tidiness rather than teaching. See our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, " for turning that into an actual purchase." ] },
+      { "question": "Do I need to choose a method before I start homeschooling?", "answerRichText": [ "No — and if you have just withdrawn a child from school, you should not. What a child chooses when nothing is assigned tells you more than any philosophy will, and it only becomes visible once classroom habits fade. See our guide to ", { "link": { "ref": "article:deschooling", "text": "deschooling" } }, "." ] }
+    ] }
+  ]
+}

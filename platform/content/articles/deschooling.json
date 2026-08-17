@@ -7,66 +7,256 @@
   "authorId": "author_team",
   "publishedAt": "2026-08-16",
   "updatedAt": "2026-08-16",
-  "intent": { "primaryKeyword": "deschooling" },
+  "intent": {
+    "primaryKeyword": "deschooling"
+  },
   "seo": {
     "metaTitle": "Deschooling: The Pause Before Homeschooling",
     "metaDescription": "What deschooling is, how long it commonly takes, what to do during it, and how to tell the difference between a real transition and simply drifting."
   },
   "sources": [
-    { "label": "Great Homeschool Conventions — what is deschooling, a first step for new homeschoolers", "url": "https://greathomeschoolconventions.com/blog/what-is-deschooling-a-crucial-first-step-for-new-homeschoolers" },
-    { "label": "Homeschool Connections — how to deschool", "url": "https://homeschoolconnections.com/how-to-deschool/" },
-    { "label": "Time4Learning — deschooling", "url": "https://www.time4learning.com/deschooling.html" }
+    {
+      "label": "Great Homeschool Conventions — what is deschooling, a first step for new homeschoolers",
+      "url": "https://greathomeschoolconventions.com/blog/what-is-deschooling-a-crucial-first-step-for-new-homeschoolers"
+    },
+    {
+      "label": "Homeschool Connections — how to deschool",
+      "url": "https://homeschoolconnections.com/how-to-deschool/"
+    },
+    {
+      "label": "Time4Learning — deschooling",
+      "url": "https://www.time4learning.com/deschooling.html"
+    }
   ],
   "body": [
-    { "type": "paragraph", "richText": "A family withdraws a child from school on a Friday, buys curriculum over the weekend, and starts a full academic programme on Monday. By the third week everyone is miserable, the child is refusing work they could clearly do, and the parents have concluded that homeschooling was a mistake." },
-    { "type": "paragraph", "richText": "What usually happened is that they skipped the transition. Deschooling is the deliberate pause between leaving school and starting formal work at home, and it exists because a child fresh out of a classroom is not yet showing you who they are as a learner." },
-    { "type": "heading", "level": 2, "text": "What is actually being unlearned" },
-    { "type": "paragraph", "richText": "Deschooling is not a rest, though it looks like one from the outside. Several specific habits are being dismantled, and they are habits that school required rather than faults in the child:" },
-    { "type": "list", "ordered": false, "items": [
-      "Waiting to be told. In a classroom of twenty-five, initiative is often inconvenient. At home it is the entire engine, and it takes time to switch back on.",
-      "Working for a mark rather than for understanding. A child trained on grades will ask \"is this going to be graded?\" and lose interest when the answer is no.",
-      "Learning in fixed blocks. Interest that arrives at the wrong time gets suppressed, because school taught that the bell decides when a topic ends.",
-      "Performing rather than admitting confusion. Saying \"I don't understand\" is risky in front of peers, so many children become skilled at looking competent instead."
-    ] },
-    { "type": "callout", "variant": "info", "richText": "Adults need this too, and it is the half most guides skip. A parent who spent thirteen years in classrooms will instinctively reproduce them — desks, bells, a full timetable, marks in a book — and then wonder why home does not work like school. Deschooling is partly the parent unlearning the classroom as the default shape of education." },
-    { "type": "heading", "level": 2, "text": "How long it takes" },
-    { "type": "paragraph", "richText": "The rule of thumb repeated across homeschool writing is one month of deschooling for every year the child spent in school, commonly capped at around six months. It is a rule of thumb rather than a research finding, and it should be treated as a planning estimate, not a prescription." },
-    { "type": "table", "caption": "The common rule of thumb, and the factors that move it in practice.", "headers": ["Situation", "Typical direction", "Why"],
+    {
+      "type": "paragraph",
+      "richText": "A family withdraws a child from school on a Friday, buys curriculum over the weekend, and starts a full academic programme on Monday. By the third week everyone is miserable, the child is refusing work they could clearly do, and the parents have concluded that homeschooling was a mistake."
+    },
+    {
+      "type": "paragraph",
+      "richText": "What usually happened is that they skipped the transition. Deschooling is the deliberate pause between leaving school and starting formal work at home, and it exists because a child fresh out of a classroom is not yet showing you who they are as a learner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is actually being unlearned"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Deschooling is not a rest, though it looks like one from the outside. Several specific habits are being dismantled, and they are habits that school required rather than faults in the child:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Waiting to be told. In a classroom of twenty-five, initiative is often inconvenient. At home it is the entire engine, and it takes time to switch back on.",
+        "Working for a mark rather than for understanding. A child trained on grades will ask \"is this going to be graded?\" and lose interest when the answer is no.",
+        "Learning in fixed blocks. Interest that arrives at the wrong time gets suppressed, because school taught that the bell decides when a topic ends.",
+        "Performing rather than admitting confusion. Saying \"I don't understand\" is risky in front of peers, so many children become skilled at looking competent instead."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Adults need this too, and it is the half most guides skip. A parent who spent thirteen years in classrooms will instinctively reproduce them — desks, bells, a full timetable, marks in a book — and then wonder why home does not work like school. Deschooling is partly the parent unlearning the classroom as the default shape of education."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How long it takes"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The rule of thumb repeated across homeschool writing is one month of deschooling for every year the child spent in school, commonly capped at around six months. It is a rule of thumb rather than a research finding, and it should be treated as a planning estimate, not a prescription."
+    },
+    {
+      "type": "table",
+      "caption": "The common rule of thumb, and the factors that move it in practice.",
+      "headers": [
+        "Situation",
+        "Typical direction",
+        "Why"
+      ],
       "rows": [
-        ["A young child, one or two years in school", "Shorter — often weeks", "Fewer habits formed, and less of the child's identity is tied to being a student"],
-        ["An older child, many years in school", "Longer", "More entrenched habits, and often a stronger sense of what school is supposed to look like"],
-        ["Left because of bullying, anxiety or a bad year", "Longer, sometimes much", "Recovery is doing work here before any learning transition can happen"],
-        ["Left for scheduling or family reasons, happily", "Shorter", "Nothing to recover from; only the habits to shift"]
-      ] },
-    { "type": "callout", "variant": "warn", "richText": "Check your state's requirements before deciding on a long pause. Some states set attendance or instruction expectations that begin as soon as you notify, and a deschooling period that ignores them creates a compliance problem on top of everything else. Confirm this at your state's own published rules first." },
-    { "type": "heading", "level": 2, "text": "What deschooling actually looks like" },
-    { "type": "paragraph", "richText": "The most common misunderstanding is that deschooling means doing nothing. It means doing no formal, assigned, assessed academic work — which is not the same thing at all." },
-    { "type": "table", "caption": "What belongs in a deschooling period and what does not.", "headers": ["Do", "Avoid"], "rows": [
-      ["Read aloud together, well above their reading level", "Assigned reading with comprehension questions"],
-      ["Cook, build, repair, garden, visit places", "Worksheets, tests, marks"],
-      ["Follow whatever they are already curious about, however narrow", "Correcting or redirecting the interest towards something more educational"],
-      ["Documentaries, museums, libraries, long conversations", "A daily timetable"],
-      ["Keep a quiet note of what they gravitate to", "Announcing that you are assessing them"]
-    ] },
-    { "type": "paragraph", "richText": "Keeping that quiet note is the highest-value thing you do in this period. What a child chooses when nothing is assigned tells you how they learn, how long they can concentrate on something they care about, and what format they reach for — which is exactly the information you need before spending money on curriculum." },
-    { "type": "paragraph", "richText": [ "Those observations feed directly into the decision that comes next; our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, " asks you to decide in an order that assumes you know them. Choosing before deschooling means guessing." ] },
-    { "type": "heading", "level": 2, "text": "Deschooling or drifting?" },
-    { "type": "paragraph", "richText": "This is the fair objection, and it deserves a straight answer rather than reassurance. The difference is observable:" },
-    { "type": "list", "ordered": false, "items": [
-      "Deschooling has an end condition you named in advance, even loosely. Drifting has no condition and no date.",
-      "In deschooling, curiosity is increasing over time — more questions, more self-started projects, more absorption. In drifting, the child is progressively less engaged with anything.",
-      "Deschooling is a decision. Drifting is what happens when nobody decided.",
-      "In deschooling, screens are one thing among several. If screens have quietly become the only thing for several weeks, the transition has stalled and needs structure, not more time."
-    ] },
-    { "type": "callout", "variant": "tip", "richText": "Set a review date at the start — six weeks is a reasonable first checkpoint — and write down what you expect to see by then. Reviewing on a date you chose while calm is far better than deciding in a moment of panic that it has gone on too long." },
-    { "type": "heading", "level": 2, "text": "Coming out of it" },
-    { "type": "paragraph", "richText": "Do not restart with a full programme. Add one subject, usually maths, because it is the one where a gap compounds. Run it alone until it is genuinely routine, then add reading, then the rest — one at a time, roughly a week apart." },
-    { "type": "paragraph", "richText": [ "Build the structure as a rhythm rather than a timetable from the beginning, so the first disrupted week does not undo the progress; our guide to ", { "link": { "ref": "article:homeschool-schedule", "text": "building a schedule that survives" } }, " covers how. And start your records on day one of formal work, not later — see ", { "link": { "ref": "article:homeschool-record-keeping", "text": "record keeping" } }, " for what to keep." ] },
-    { "type": "faq", "items": [
-      { "question": "What is deschooling?", "answerRichText": "The transition period between leaving school and beginning formal work at home, during which a child sheds classroom habits — waiting to be told, working for marks, learning in fixed blocks — and the parent unlearns the assumption that education must look like a classroom." },
-      { "question": "How long should deschooling last?", "answerRichText": "The commonly repeated rule of thumb is one month for every year spent in school, often capped around six months. It is a planning estimate rather than a research finding; children leaving a difficult school situation usually need longer, young children usually less." },
-      { "question": "Is deschooling the same as doing nothing?", "answerRichText": "No. It means no formal assigned or assessed academic work, while reading aloud, visiting places, following the child's own interests and long conversations continue. What they choose when nothing is assigned is the information you need before buying curriculum." },
-      { "question": "How do I know if we are deschooling or just drifting?", "answerRichText": [ "Deschooling has a review date you set in advance and shows curiosity increasing over time. Drifting has neither. If screens have quietly become the only activity for several weeks, the transition has stalled and needs structure — see our ", { "link": { "ref": "article:homeschool-schedule", "text": "scheduling guide" } }, " for a gentle way to add it." ] }
-    ] }
+        [
+          "A young child, one or two years in school",
+          "Shorter — often weeks",
+          "Fewer habits formed, and less of the child's identity is tied to being a student"
+        ],
+        [
+          "An older child, many years in school",
+          "Longer",
+          "More entrenched habits, and often a stronger sense of what school is supposed to look like"
+        ],
+        [
+          "Left because of bullying, anxiety or a bad year",
+          "Longer, sometimes much",
+          "Recovery is doing work here before any learning transition can happen"
+        ],
+        [
+          "Left for scheduling or family reasons, happily",
+          "Shorter",
+          "Nothing to recover from; only the habits to shift"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Check your state's requirements before deciding on a long pause. Some states set attendance or instruction expectations that begin as soon as you notify, and a deschooling period that ignores them creates a compliance problem on top of everything else. Confirm this at your state's own published rules first."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What deschooling actually looks like"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The most common misunderstanding is that deschooling means doing nothing. It means doing no formal, assigned, assessed academic work — which is not the same thing at all."
+    },
+    {
+      "type": "table",
+      "caption": "What belongs in a deschooling period and what does not.",
+      "headers": [
+        "Do",
+        "Avoid"
+      ],
+      "rows": [
+        [
+          "Read aloud together, well above their reading level",
+          "Assigned reading with comprehension questions"
+        ],
+        [
+          "Cook, build, repair, garden, visit places",
+          "Worksheets, tests, marks"
+        ],
+        [
+          "Follow whatever they are already curious about, however narrow",
+          "Correcting or redirecting the interest towards something more educational"
+        ],
+        [
+          "Documentaries, museums, libraries, long conversations",
+          "A daily timetable"
+        ],
+        [
+          "Keep a quiet note of what they gravitate to",
+          "Announcing that you are assessing them"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "Keeping that quiet note is the highest-value thing you do in this period. What a child chooses when nothing is assigned tells you how they learn, how long they can concentrate on something they care about, and what format they reach for — which is exactly the information you need before spending money on curriculum."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Those observations feed directly into the decision that comes next; our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        " asks you to decide in an order that assumes you know them. Choosing before deschooling means guessing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deschooling or drifting?"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the fair objection, and it deserves a straight answer rather than reassurance. The difference is observable:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Deschooling has an end condition you named in advance, even loosely. Drifting has no condition and no date.",
+        "In deschooling, curiosity is increasing over time — more questions, more self-started projects, more absorption. In drifting, the child is progressively less engaged with anything.",
+        "Deschooling is a decision. Drifting is what happens when nobody decided.",
+        "In deschooling, screens are one thing among several. If screens have quietly become the only thing for several weeks, the transition has stalled and needs structure, not more time."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Set a review date at the start — six weeks is a reasonable first checkpoint — and write down what you expect to see by then. Reviewing on a date you chose while calm is far better than deciding in a moment of panic that it has gone on too long."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Coming out of it"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Do not restart with a full programme. Add one subject, usually maths, because it is the one where a gap compounds. Run it alone until it is genuinely routine, then add reading, then the rest — one at a time, roughly a week apart."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Build the structure as a rhythm rather than a timetable from the beginning, so the first disrupted week does not undo the progress; our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-schedule",
+            "text": "building a schedule that survives"
+          }
+        },
+        " covers how. And start your records on day one of formal work, not later — see ",
+        {
+          "link": {
+            "ref": "article:homeschool-record-keeping",
+            "text": "record keeping"
+          }
+        },
+        " for what to keep."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "This is also the right moment to think about approach rather than product — what your child reached for during deschooling points fairly directly at which of the ",
+        {
+          "link": {
+            "ref": "article:homeschool-methods-compared",
+            "text": "homeschool methods"
+          }
+        },
+        " will suit you both."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What is deschooling?",
+          "answerRichText": "The transition period between leaving school and beginning formal work at home, during which a child sheds classroom habits — waiting to be told, working for marks, learning in fixed blocks — and the parent unlearns the assumption that education must look like a classroom."
+        },
+        {
+          "question": "How long should deschooling last?",
+          "answerRichText": "The commonly repeated rule of thumb is one month for every year spent in school, often capped around six months. It is a planning estimate rather than a research finding; children leaving a difficult school situation usually need longer, young children usually less."
+        },
+        {
+          "question": "Is deschooling the same as doing nothing?",
+          "answerRichText": "No. It means no formal assigned or assessed academic work, while reading aloud, visiting places, following the child's own interests and long conversations continue. What they choose when nothing is assigned is the information you need before buying curriculum."
+        },
+        {
+          "question": "How do I know if we are deschooling or just drifting?",
+          "answerRichText": [
+            "Deschooling has a review date you set in advance and shows curiosity increasing over time. Drifting has neither. If screens have quietly become the only activity for several weeks, the transition has stalled and needs structure — see our ",
+            {
+              "link": {
+                "ref": "article:homeschool-schedule",
+                "text": "scheduling guide"
+              }
+            },
+            " for a gentle way to add it."
+          ]
+        }
+      ]
+    }
   ]
 }
