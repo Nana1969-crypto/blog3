@@ -187,6 +187,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "And if you are already using something and wondering whether to change it, that is a different decision with different costs — see ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch curriculum, and when you are just tired"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {

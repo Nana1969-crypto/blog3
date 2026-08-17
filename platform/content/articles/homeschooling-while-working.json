@@ -1,0 +1,244 @@
+{
+  "id": "homeschooling-while-working",
+  "slug": "homeschooling-while-working-full-time",
+  "clusterId": "cl_situations",
+  "title": "Homeschooling While Working Full Time: The Honest Version",
+  "dek": "It is possible, it is not possible in every configuration, and the families who make it work all do the same few things. Here is what actually determines whether it holds together.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "homeschooling while working full time"
+  },
+  "seo": {
+    "metaTitle": "Homeschooling While Working Full Time",
+    "metaDescription": "What makes homeschooling work alongside a full-time job: short direct-teaching blocks, building genuine independence, and the real constraints."
+  },
+  "sources": [
+    {
+      "label": "Eaton Academic — realistic homeschool schedules and hours",
+      "url": "https://eatonacademic.com/best-homeschool-schedule-how-many-hours-does-it-take"
+    },
+    {
+      "label": "Savvy Learning — homeschool schedule templates",
+      "url": "https://savvylearning.com/blog/homeschool-schedule-for-multiple-kids/"
+    },
+    {
+      "label": "Smith Party of 6 — structuring the day with multiple children",
+      "url": "https://smithpartyof6.com/schedule-for-homeschooling-multiple-children/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Most writing on this topic is either cheerfully unhelpful (\"it's all about balance!\") or quietly discouraging. The truthful answer is narrower than both: whether this works depends far more on the shape of your job and the age of your children than on your organisation or your commitment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The two variables that decide it"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Before any scheduling advice, be honest about these, because they determine which strategies are even available to you:"
+    },
+    {
+      "type": "table",
+      "caption": "How job shape and child age combine to determine what is realistic.",
+      "headers": [
+        "",
+        "Children under 8",
+        "Children 8–12",
+        "Teenagers"
+      ],
+      "rows": [
+        [
+          "Job with flexible hours",
+          "Hard but workable — teach in early or late blocks",
+          "Workable",
+          "Comfortably workable"
+        ],
+        [
+          "Remote, fixed hours",
+          "Needs another adult or childcare during work hours",
+          "Workable with real structure",
+          "Workable"
+        ],
+        [
+          "On-site, fixed hours",
+          "Requires childcare; the teaching happens outside work hours",
+          "Requires supervision, but academic work can be independent",
+          "Workable"
+        ],
+        [
+          "Shift work",
+          "Genuinely difficult without a second adult",
+          "Workable — use the pattern of your shifts as the rhythm",
+          "Workable"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "The honest constraint that most articles avoid: young children need supervision, not just instruction. That is a childcare question, and no scheduling technique solves it. If you work on-site with a six-year-old at home, the question is who is with them — not how to structure their morning."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why the arithmetic works out better than expected"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The reason this is possible at all is that direct teaching is a small part of a homeschool day. One-to-one instruction removes the transitions, the waiting and the pacing for a class, and the amount of time you personally must be present and teaching is much shorter than a school day suggests."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "We set out approximate figures by stage in our guide to ",
+        {
+          "link": {
+            "ref": "article:how-to-start-homeschooling",
+            "text": "the first thirty days"
+          }
+        },
+        ". The number that matters here is not the length of the child's working day — it is the length of yours within it, and for an eight-year-old that can genuinely be under an hour."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What working families do differently"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Four adaptations show up consistently, and they are less about time management than about redesigning what teaching looks like:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Protect one short direct-teaching block and defend it absolutely. Twenty to forty minutes, same point in the day, for the subjects that genuinely need you — usually maths, and reading while it is being learned. Everything else is arranged around this block.",
+        "Build independence explicitly, as a skill you teach. Do not assume a child can work alone; teach it — first sitting beside them, then in the room, then nearby, then out of sight. This takes months and it is the highest-return investment available to you.",
+        "Choose curriculum for independence, not for richness. A programme a child can open and understand without you beats a better programme that requires your presence on every page. This is the one situation where format outranks quality.",
+        "Move the school week off the working week where necessary. There is no rule that learning happens Monday to Friday between nine and three. Weekend mornings and evenings are legitimate, and shift workers often find their pattern works better than a standard week."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Set independent work up the night before, physically. The materials on the table, in order, with a short written list of what to do. A child who has to find and interpret their work will not start it; a child who sits down in front of it usually will."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Independence, in stages"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the skill the whole arrangement rests on, and it is worth being deliberate about rather than hoping it emerges. A rough progression:"
+    },
+    {
+      "type": "table",
+      "caption": "Teaching independent work as a skill, in stages.",
+      "headers": [
+        "Stage",
+        "What it looks like",
+        "What you are building"
+      ],
+      "rows": [
+        [
+          "Beside them",
+          "You are present for the whole task",
+          "The habit of starting without negotiation"
+        ],
+        [
+          "In the room",
+          "You are doing your own work nearby, available",
+          "Tolerating small uncertainties without stopping"
+        ],
+        [
+          "Within earshot",
+          "Another room; they may interrupt",
+          "Deciding what genuinely needs asking"
+        ],
+        [
+          "A checked list",
+          "A written list; you review afterwards",
+          "Sequencing their own work and self-checking"
+        ],
+        [
+          "A half-day plan",
+          "A morning's work planned, reviewed later",
+          "The habit teenagers need for outside classes and eventually for study"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "Expect each stage to take weeks and expect regression when anything changes. It is still faster than doing it for them for a decade."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to let go of"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The families who sustain this over years are not doing more than everyone else; they are doing less, on purpose:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Elaborate projects, unit studies and anything requiring long preparation. These are what the internet shows and they are the first thing to cut.",
+        "Teaching every subject yourself. Recorded courses, online classes and co-ops exist for exactly this, and using them is not a compromise.",
+        "The full complement of subjects every year. Maths and literacy are non-negotiable; a light year in one other subject is survivable.",
+        "Guilt about screens used for instruction. A well-made video course delivered while you are working is teaching, not neglect."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Build the week as a rhythm rather than a timetable, and put everything non-daily on a loop, so a work emergency slows the schedule instead of breaking it. Our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-schedule",
+            "text": "building a schedule that survives"
+          }
+        },
+        " sets out how, and it matters more here than for any other family type."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Can you homeschool while working full time?",
+          "answerRichText": "Often yes, but it depends mainly on your job's flexibility and your children's ages rather than on organisation. Children under eight need supervision as well as teaching, which is a childcare question no schedule solves. From around eight upwards it becomes workable with deliberate structure."
+        },
+        {
+          "question": "How many hours do I actually need to teach?",
+          "answerRichText": "Far fewer than a school day. One-to-one teaching removes the waiting and transitions that fill a classroom. The number that matters is your own direct-teaching time — for a child of eight or nine that can genuinely be under an hour a day if the rest is set up for independence."
+        },
+        {
+          "question": "What curriculum works best for working parents?",
+          "answerRichText": "Whatever your child can open and understand without you. Independence outranks richness in this situation: a good programme that needs you on every page is worse, in practice, than an adequate one they can run themselves while you work."
+        },
+        {
+          "question": "Do we have to homeschool Monday to Friday?",
+          "answerRichText": [
+            "No. Weekend mornings, evenings and shift patterns are all legitimate school time, and shift workers often find their own rhythm works better than a conventional week. See our ",
+            {
+              "link": {
+                "ref": "article:homeschool-schedule",
+                "text": "scheduling guide"
+              }
+            },
+            " for building a rhythm that absorbs disruption."
+          ]
+        }
+      ]
+    }
+  ]
+}

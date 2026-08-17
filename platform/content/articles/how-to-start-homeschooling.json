@@ -176,8 +176,20 @@
       "items": [
         "Comparison with what the local school is covering this term. Different sequence, different pace; matching it is not a goal.",
         "Buying a full year of everything up front. Buy one term where you can — you will know more in January than you do now.",
-        "The dedicated schoolroom. Useful for some families, and never the thing that determines whether homeschooling works.",
-        "Anxiety about socialisation in month one. It is a real question and it is a month-three question — first get the days working."
+        "The dedicated schoolroom. Useful for some families, and never the thing that determines whether homeschooling works."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Socialisation is the question everyone else will raise in month one, and it is genuinely a month-three question — first get the days working. When you are ready to think about it properly, our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-socialization",
+            "text": "what the research on homeschool socialization actually says"
+          }
+        },
+        " covers both the evidence and the practical weekly check."
       ]
     },
     {

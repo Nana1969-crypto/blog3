@@ -1,0 +1,77 @@
+{
+  "id": "when-to-switch-curriculum",
+  "slug": "when-to-switch-homeschool-curriculum",
+  "clusterId": "cl_choosing",
+  "title": "When to Switch Homeschool Curriculum — and When You Are Just Tired",
+  "dek": "Switching costs more than it looks: money, momentum, and the gap between two different sequences. Here are the reasons that justify it, the ones that do not, and the test that separates them.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": { "primaryKeyword": "when to switch homeschool curriculum" },
+  "seo": {
+    "metaTitle": "When to Switch Homeschool Curriculum",
+    "metaDescription": "The reasons that justify switching curriculum mid-year, the ones that do not, the hidden costs of a change, and how to switch without leaving gaps."
+  },
+  "sources": [
+    { "label": "Cathy Duffy Reviews — homeschool curriculum reviews", "url": "https://cathyduffyreviews.com/homeschool-reviews-core-curricula/phonics-reading/phonics-reading" },
+    { "label": "Hess Un-Academy — homeschool curriculum comparison chart", "url": "https://hessunacademy.com/homeschool-math-curriculums/" },
+    { "label": "Design Your Homeschool — choosing and changing homeschool resources", "url": "https://www.design-your-homeschool.com/homeschool-writing.html" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "Somewhere around week eight, most homeschooling parents seriously consider changing curriculum. Sometimes that instinct is right and acting on it saves a year. More often it arrives in the same week as a run of bad days, and the curriculum is simply the only variable that can be bought." },
+    { "type": "paragraph", "richText": "This page is about telling those two situations apart before spending money." },
+    { "type": "heading", "level": 2, "text": "What switching actually costs" },
+    { "type": "paragraph", "richText": "The purchase price is the smallest part, which is why the decision deserves more thought than the price suggests:" },
+    { "type": "list", "ordered": false, "items": [
+      "A sequence gap. Two programmes do not cover topics in the same order. Switching mid-year usually means something gets skipped entirely and something else gets taught twice.",
+      "Lost fluency with the format. Several weeks go into learning how a programme works — where things are, how a lesson runs. That investment is spent again from zero.",
+      "The child learns that work is negotiable. This is the cost nobody counts. A child who has seen two programmes abandoned may reasonably expect the third to go the same way.",
+      "Your own confidence. Each switch makes the next decision feel higher-stakes, which makes it harder to choose well."
+    ] },
+    { "type": "callout", "variant": "info", "richText": "None of this means never switch. It means the bar should be a specific diagnosed problem, not a general feeling that something better exists — and something better always exists, because there are hundreds of programmes and you have read the marketing for all of them." },
+    { "type": "heading", "level": 2, "text": "Reasons that justify switching" },
+    { "type": "paragraph", "richText": "These are structural mismatches. More effort will not fix them, and waiting makes them worse:" },
+    { "type": "table", "caption": "Structural reasons to change curriculum, with the evidence to look for.", "headers": ["Reason", "What you would actually observe"], "rows": [
+      ["Wrong level, and the programme cannot bend", "Your child is failing consistently at material two levels below where the programme starts, with no re-teaching path available"],
+      ["The format fights the child every single day", "The resistance is to how the work is presented, not to the subject — and it has persisted after you tested the alternatives"],
+      ["It demands more teaching time than you have", "You are consistently unable to deliver what it assumes, and the gap is structural rather than a bad fortnight"],
+      ["The content is not what you were told", "Most often a worldview surprise, in either direction, that you would not have bought knowingly"],
+      ["It is teaching something you believe is wrong", "A rare but legitimate reason, and one worth acting on immediately rather than at term end"]
+    ] },
+    { "type": "heading", "level": 2, "text": "Reasons that usually do not" },
+    { "type": "paragraph", "richText": "These feel identical from the inside, which is why they are worth naming:" },
+    { "type": "list", "ordered": false, "items": [
+      "It is week eight and everything is hard. Week eight is hard in every programme; the novelty has gone and the end is not in sight.",
+      "Someone in a group praised a different programme. Their child is not your child, and enthusiasm is loudest in the first month of use.",
+      "It is boring. Some of maths is boring. A programme that is merely unexciting but working is doing its job.",
+      "Your child asked to change. Worth listening to and worth investigating — but a child who dislikes the subject will dislike the next programme too.",
+      "You are behind the schedule you invented in August. That is a scheduling problem, not a curriculum problem."
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "The six-week test: change nothing for six weeks, but write down every day exactly what went wrong in one line. Feelings blur; a log does not. At the end you will usually find either a clear repeating pattern that justifies switching, or fourteen bad days scattered among thirty good ones." },
+    { "type": "heading", "level": 2, "text": "Try these before buying" },
+    { "type": "paragraph", "richText": "A surprising share of mismatches are fixed by adjusting how you use the programme you already own:" },
+    { "type": "list", "ordered": true, "items": [
+      "Cut the volume. Do the odd-numbered problems. Most programmes contain more practice than any individual child needs.",
+      "Change who does the writing. Let them answer orally or type while you scribe, and see whether the difficulty was ever about the subject.",
+      "Slow the pace and drop the schedule. Taking two days over a lesson is allowed and costs far less than a new purchase.",
+      "Use only the parts that work. Nobody requires you to use every component of a package.",
+      "Move the slot. A hard subject at a bad hour looks exactly like a bad curriculum."
+    ] },
+    { "type": "paragraph", "richText": [ "If the problem is specifically that your child fights the physical work, start with our guide to ", { "link": { "ref": "article:child-hates-worksheets", "text": "diagnosing worksheet resistance" } }, ". If it is maths and the issue is retention or boredom, the sequencing may be the culprit rather than the programme — see ", { "link": { "ref": "article:spiral-vs-mastery-math", "text": "spiral versus mastery" } }, "." ] },
+    { "type": "heading", "level": 2, "text": "How to switch well, if you are going to" },
+    { "type": "list", "ordered": true, "items": [
+      "Write down the specific thing that must be different. One sentence. Evaluate candidates only against that sentence, not against how appealing they look.",
+      "Use the new programme's placement test rather than matching the level you were on. Placement tests exist precisely because sequences differ.",
+      "Compare the two tables of contents and note what the old programme covered that the new one assumes. That is your gap list.",
+      "Teach the gap list deliberately in the first few weeks rather than hoping it does not matter.",
+      "Tell your child what is changing and why. A switch that is explained reads as a decision; an unexplained one reads as the work being optional."
+    ] },
+    { "type": "paragraph", "richText": [ "And check the new candidate's worldview before you buy, in the sample chapter where it would show — our ", { "link": { "ref": "article:secular-vs-christian-curriculum", "text": "guide to reading curriculum worldview" } }, " covers where to look. Discovering it after a mid-year switch is how families end up switching twice." ] },
+    { "type": "faq", "items": [
+      { "question": "Should I switch homeschool curriculum mid-year?", "answerRichText": "Only for a structural reason — wrong level with no re-teaching path, a format that fights the child daily, more teaching time than you have, or content you would not have bought knowingly. General dissatisfaction in week eight is usually not enough." },
+      { "question": "How long should I stick with a curriculum before deciding?", "answerRichText": "Around six weeks, logging one line a day about what went wrong. The log is what separates a repeating structural pattern from a scattered run of bad days, which feel identical while you are living through them." },
+      { "question": "What if we switch and there are gaps?", "answerRichText": "There will be. Compare the two tables of contents, list what the old programme covered that the new one assumes, and teach that list deliberately in the first weeks. Use the new programme's own placement test rather than matching your previous level." },
+      { "question": "Is it bad to switch curriculum more than once?", "answerRichText": [ "Repeated switching has a cost beyond money: the child learns that assigned work tends to be abandoned. If you are on your third change, the problem is more likely diagnosis than product — see our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "selection guide" } }, " and decide in the order it sets out." ] }
+    ] }
+  ]
+}

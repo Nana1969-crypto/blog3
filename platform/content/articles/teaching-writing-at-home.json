@@ -1,0 +1,66 @@
+{
+  "id": "teaching-writing-at-home",
+  "slug": "how-to-teach-writing-homeschool",
+  "clusterId": "cl_subjects",
+  "title": "How to Teach Writing When You Do Not Feel Qualified",
+  "dek": "Writing is the subject homeschooling parents dread most, usually because they are teaching four separate skills at once and calling all of them \"writing\". Separating them makes it teachable.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": { "primaryKeyword": "how to teach writing homeschool" },
+  "seo": {
+    "metaTitle": "How to Teach Writing in Your Homeschool",
+    "metaDescription": "Why writing feels unteachable, the four separate skills hiding inside it, how narration bridges speaking and writing, and how to give feedback that works."
+  },
+  "sources": [
+    { "label": "Simply Charlotte Mason — narration and composition in the high school years", "url": "https://simplycharlottemason.com/blog/narration-composition-high-school-years/" },
+    { "label": "Homeschooling with Dyslexia — narration as an introduction to composition", "url": "https://homeschoolingwithdyslexia.com/narration-for-students-not-ready-write-composition/" },
+    { "label": "Bethany Ishee — teaching writing well, advice from a veteran homeschooler", "url": "https://www.bethanyishee.com/teaching-writing-well/" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "Writing is where confident homeschooling parents lose their nerve. Maths has an answer key. Reading has a visible sequence. Writing feels like something you either can teach or cannot, and most parents suspect they cannot." },
+    { "type": "paragraph", "richText": "The reason it feels unteachable is that the word covers at least four different skills, and a child struggling with one of them looks identical to a child struggling with another. Separate them and the subject becomes ordinary." },
+    { "type": "heading", "level": 2, "text": "The four skills hiding inside \"writing\"" },
+    { "type": "table", "caption": "Four distinct skills, each with its own failure and its own fix.", "headers": ["Skill", "What failure looks like", "What actually helps"], "rows": [
+      ["Handwriting", "Resistance scales with the amount of physical writing, whatever the topic", "Practise it separately and briefly; meanwhile let them dictate or type so it stops taxing every subject"],
+      ["Mechanics", "Ideas are there but spelling, punctuation and grammar are messy", "Teach one thing at a time, from their own writing rather than from exercises"],
+      ["Having something to say", "\"I don't know what to write.\" A blank page and real distress", "Not a writing problem. They need more input — reading, discussion, experience — before output is possible"],
+      ["Structuring it", "Plenty of content, no order; everything at once or in the wrong sequence", "Narration first, then explicit structure. This is the skill most curricula assume is already present"]
+    ] },
+    { "type": "callout", "variant": "warn", "richText": "Diagnose before you buy. A curriculum aimed at structure will not help a child whose real obstacle is handwriting, and a child with nothing to say will not be rescued by grammar exercises. The most common mismatch is buying for mechanics when the problem is having something to say." },
+    { "type": "heading", "level": 2, "text": "Start with narration" },
+    { "type": "paragraph", "richText": "Narration is simply telling back — the child reads or hears something and retells it in their own words. It is the single most useful tool available to a homeschooling parent teaching writing, and it costs nothing." },
+    { "type": "paragraph", "richText": "It works because it separates composition from transcription. Organising ideas into a coherent account is the hard part of writing; getting them onto paper is a separate mechanical task. A child who narrates well is already composing — they simply are not writing it down yet." },
+    { "type": "list", "ordered": true, "items": [
+      "Oral narration. Read a short passage, then ask them to tell it back. Expect very little at first; a sentence or two is a beginning.",
+      "You scribe. They narrate, you write it down verbatim, then read it back to them. Hearing their own words as text is the bridge.",
+      "Shared writing. They narrate a sentence, you write the first half, they write the second.",
+      "Written narration. They write it themselves — usually shorter than what they can say, which is normal and temporary.",
+      "Structured composition. Only now do paragraphs, essay forms and argument belong, once telling back is fluent."
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "Do not correct a narration while it is happening. Interrupting to fix a word teaches that the risk of speaking is being caught out, and narrations get shorter. Mechanics belong to a later pass over written work, not to the moment of composition." },
+    { "type": "heading", "level": 2, "text": "Feedback that improves the next piece" },
+    { "type": "paragraph", "richText": "Returning a page covered in corrections is the most common way to make a child hate writing, and it teaches almost nothing — the volume of feedback exceeds what anyone can act on." },
+    { "type": "paragraph", "richText": "The alternative is narrower and slower, and it works:" },
+    { "type": "list", "ordered": true, "items": [
+      "Read the piece and say one specific true thing you liked. Specific, not \"good job\" — name the sentence.",
+      "Choose exactly one thing to improve, and make it the most important one.",
+      "Show them what it looks like done correctly, using their own sentence rather than an invented example.",
+      "Tell them that this one thing is now their responsibility in the next piece.",
+      "Hold them to that one thing until it is habitual, then choose the next. Everything else stays uncorrected in the meantime."
+    ] },
+    { "type": "paragraph", "richText": "This feels far too slow. Over a year it is faster, because each correction is actually absorbed rather than skimmed, and the child continues to write willingly." },
+    { "type": "heading", "level": 2, "text": "Reading is most of the instruction" },
+    { "type": "paragraph", "richText": "Children absorb sentence structure, vocabulary, rhythm and how an argument unfolds mostly from reading and from being read to. A child who reads widely arrives at formal writing instruction with an ear already trained, and one who does not will struggle regardless of the curriculum." },
+    { "type": "paragraph", "richText": [ "This is the strongest argument for continuing to read aloud long past the age it seems necessary — see our guide to ", { "link": { "ref": "article:teaching-reading-at-home", "text": "teaching reading at home" } }, ". Text far above a child's own reading level is where the more complex sentence patterns live." ] },
+    { "type": "heading", "level": 2, "text": "When to bring in outside help" },
+    { "type": "paragraph", "richText": "Writing is a reasonable subject to outsource in the later years, and doing so is not an admission of failure. An outside reader gives a teenager an audience who is not their parent, which changes how seriously they take revision." },
+    { "type": "paragraph", "richText": [ "It is also worth saying plainly: persistent, disproportionate difficulty with spelling or getting words onto paper — especially alongside fluent speech — is worth a professional assessment rather than another curriculum. We are not qualified to assess that, and neither is a publisher. If the resistance is specifically about the physical page, start with our guide to ", { "link": { "ref": "article:child-hates-worksheets", "text": "diagnosing worksheet resistance" } }, "." ] },
+    { "type": "faq", "items": [
+      { "question": "How do I teach writing if I am not a good writer?", "answerRichText": "You do not need to be. Most of what a child needs is narration — telling back what they read or heard — plus wide reading, plus feedback on one thing at a time. None of those requires you to be a strong writer yourself." },
+      { "question": "What is narration and why does it help writing?", "answerRichText": "Narration is retelling a passage in the child's own words, orally at first. It separates the hard part of writing — organising ideas — from the mechanical part of getting them on paper, so a child can practise composition before their handwriting or spelling can keep up." },
+      { "question": "How much should I correct my child's writing?", "answerRichText": "One thing per piece. Name something specific you liked, choose the single most important improvement, show it corrected in their own sentence, and make that one thing their responsibility next time. Leave everything else alone until it is habitual." },
+      { "question": "My child has plenty to say but freezes when writing. What now?", "answerRichText": [ "That points to handwriting or mechanics rather than composition. Let them dictate or type for a while so you can see whether the ideas flow once the physical barrier is removed, and practise handwriting separately in short sessions. See our guide to ", { "link": { "ref": "article:child-hates-worksheets", "text": "worksheet resistance" } }, " for how to test which it is." ] }
+    ] }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "homeschool-schedule",
+  "slug": "homeschool-schedule",
+  "clusterId": "cl_first_steps",
+  "title": "Building a Homeschool Schedule That Survives February",
+  "dek": "Most homeschool schedules are built for the version of the family that exists in August. Here is how to build one around your real constraints — and why a rhythm beats a timetable.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-16",
+  "updatedAt": "2026-08-16",
+  "intent": {
+    "primaryKeyword": "homeschool schedule"
+  },
+  "seo": {
+    "metaTitle": "A Homeschool Schedule That Survives February",
+    "metaDescription": "Why homeschool timetables collapse, how a rhythm and a loop fix it, and how to build a schedule around your real constraints rather than an ideal week."
+  },
+  "sources": [
+    {
+      "label": "Eaton Academic — realistic homeschool schedules and hours",
+      "url": "https://eatonacademic.com/best-homeschool-schedule-how-many-hours-does-it-take"
+    },
+    {
+      "label": "Savvy Learning — homeschool schedule templates for multiple children",
+      "url": "https://savvylearning.com/blog/homeschool-schedule-for-multiple-kids/"
+    },
+    {
+      "label": "Lamp and Light Living — a simple daily rhythm for the whole family",
+      "url": "https://www.lampandlightliving.com/post/homeschool-multiple-ages"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Homeschool schedules almost never fail in September. They fail somewhere around February, and they fail for a structural reason rather than a motivational one: they were built as timetables, and a timetable has no way to absorb a bad day."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Miss Tuesday on a timetable and you are behind. Miss three Tuesdays and the schedule is a document reminding you of your failures, which is when families abandon it entirely. The fix is not more discipline. It is a different structure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rhythm, not timetable"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A timetable assigns work to clock times: maths at nine, history at ten. A rhythm assigns work to a sequence and to anchors in the day that already exist — after breakfast, before lunch, after the youngest naps."
+    },
+    {
+      "type": "table",
+      "caption": "Why the same day works as a rhythm and fails as a timetable.",
+      "headers": [
+        "",
+        "Timetable",
+        "Rhythm"
+      ],
+      "rows": [
+        [
+          "Structure",
+          "Work tied to clock times",
+          "Work tied to a sequence and to existing anchors"
+        ],
+        [
+          "A late start",
+          "Everything after it is now wrong",
+          "Everything simply happens later"
+        ],
+        [
+          "A missed day",
+          "You are behind by one day, permanently",
+          "You resume at the same point in the sequence"
+        ],
+        [
+          "What the child learns",
+          "To watch the clock",
+          "What comes next, without being told"
+        ],
+        [
+          "Where it fails",
+          "Any week that is not typical",
+          "Genuinely open-ended work, which needs a time limit"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Keep clock times for the two or three things that genuinely need them — an online class, a co-op, a shared meal. Everything else runs on sequence. You get the reliability of a schedule without the brittleness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Build from constraints, not from subjects"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Most families start by listing subjects and fitting them into a week. That produces a plan for a family that does not exist. Start instead with what is genuinely immovable, and let the subjects fill what remains:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Write down the fixed points first: work hours, a nap, a commute, an appointment, the co-op, the hour a toddler reliably melts down.",
+        "Identify your two best teaching windows — the times when both you and this child are actually capable of concentration. For many families this is a shorter list than expected.",
+        "Put the two hardest subjects in those windows, and nothing else. Hard subjects taught badly at a bad hour cost more time than they save.",
+        "Assign the remaining subjects to a loop rather than to specific days (see below).",
+        "Leave one weekday genuinely empty. It becomes your catch-up day, your appointment day and your field trip day — and its existence is what stops one disruption from becoming a backlog."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "The empty day is the single most commonly cut item and the one most responsible for schedules surviving. A week with no slack does not run at 100 percent capacity — it runs until the first interruption and then runs at a deficit for a month."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The loop, for everything that is not daily"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Maths and reading benefit from happening every day. Almost nothing else does. History, science, art, music and geography suffer far more from being skipped entirely than from happening irregularly — and the timetable approach guarantees the first outcome, because \"Wednesday is science\" means a busy Wednesday deletes science for a week."
+    },
+    {
+      "type": "paragraph",
+      "richText": "A loop fixes this. Write the non-daily subjects as a list. Each day, after the daily work is done, do the next one on the list. When you reach the end, start again."
+    },
+    {
+      "type": "table",
+      "caption": "The same subjects on a fixed weekly plan and on a loop, after a disrupted week.",
+      "headers": [
+        "Approach",
+        "A normal week",
+        "A week with two days lost"
+      ],
+      "rows": [
+        [
+          "Fixed days",
+          "Science Mon, history Tue, art Wed, geography Thu",
+          "Science and history simply did not happen this week"
+        ],
+        [
+          "Loop",
+          "Whatever is next on the list, each day",
+          "The loop advanced more slowly; nothing was skipped"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "The loop also removes the daily negotiation about what comes next, because the list decides. That is a small thing which compounds across a year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How long the day should actually be"
+    },
+    {
+      "type": "paragraph",
+      "richText": "New homeschoolers routinely build a six-hour day and conclude, when it collapses, that their child cannot concentrate. One-to-one teaching removes almost all of what fills a school day — the transitions, the waiting, the pacing for twenty-five children — and the honest totals are much shorter."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "We set out approximate figures by stage in our guide to ",
+        {
+          "link": {
+            "ref": "article:how-to-start-homeschooling",
+            "text": "the first thirty days"
+          }
+        },
+        ". The important point for scheduling is that finishing early is not a sign that something is missing. It is the expected result."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Review it four times a year, not never"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A schedule is a hypothesis about your family, and families change — a baby stops napping, a teenager takes a job, a child becomes able to work independently. Put four review dates in the calendar at the start of the year."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "At each review, change the schedule rather than the child. If the same subject has been sliding for six weeks, the slot is wrong, not the effort. And if the resistance is specific to one subject's format rather than its timing, our guide to ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "diagnosing worksheet resistance"
+          }
+        },
+        " is the better place to start."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If you are scheduling for several children at once, the rhythm and the loop matter even more, and the shape of the day changes — see ",
+        {
+          "link": {
+            "ref": "article:homeschooling-multiple-ages",
+            "text": "homeschooling multiple ages"
+          }
+        },
+        " for how to combine what can be combined."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What is a good homeschool schedule?",
+          "answerRichText": "One built around your fixed constraints rather than around subjects, with the two hardest subjects in your best teaching windows, everything non-daily on a loop, and one weekday deliberately left empty as slack."
+        },
+        {
+          "question": "What is a loop schedule in homeschooling?",
+          "answerRichText": "A list of subjects worked through in order rather than assigned to particular days. Each day you do the next item; at the end you start again. A disrupted week slows the loop instead of deleting whichever subject was scheduled for the day you lost."
+        },
+        {
+          "question": "Should homeschool have a strict daily routine?",
+          "answerRichText": "A consistent sequence helps; strict clock times usually do not, outside the few commitments that genuinely require them. Tie work to anchors that already exist in your day and a late start delays the day rather than breaking it."
+        },
+        {
+          "question": "How do I stop falling behind on our homeschool schedule?",
+          "answerRichText": [
+            "Build slack in deliberately — one empty weekday — and put non-daily subjects on a loop so nothing gets deleted by a busy week. Then review the schedule quarterly and move the slot rather than pushing harder. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-start-homeschooling",
+                "text": "first thirty days guide"
+              }
+            },
+            " for how short the teaching day should actually be."
+          ]
+        }
+      ]
+    }
+  ]
+}

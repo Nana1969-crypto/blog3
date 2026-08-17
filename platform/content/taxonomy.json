@@ -13,6 +13,12 @@
       "description": "Honest comparisons of homeschool curricula — what each one actually teaches, what worldview it carries, how it expects you to teach, and who it is not for."
     },
     {
+      "id": "pillar_teaching",
+      "slug": "teaching",
+      "title": "Teaching the Subjects",
+      "description": "How to actually teach the subjects parents worry most about — reading, writing and science — including what to do when you do not feel qualified to teach them."
+    },
+    {
       "id": "pillar_learners",
       "slug": "learners",
       "title": "Every Kind of Learner",
@@ -23,6 +29,7 @@
     { "id": "cl_first_steps", "pillarId": "pillar_start", "slug": "first-steps", "title": "First Steps" },
     { "id": "cl_compare", "pillarId": "pillar_curriculum", "slug": "compare", "title": "Compare Curricula" },
     { "id": "cl_choosing", "pillarId": "pillar_curriculum", "slug": "choosing", "title": "Choosing a Curriculum" },
+    { "id": "cl_subjects", "pillarId": "pillar_teaching", "slug": "subjects", "title": "Subject Guides" },
     { "id": "cl_situations", "pillarId": "pillar_learners", "slug": "situations", "title": "Special Situations" }
   ]
 }
