@@ -213,6 +213,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "Price sits last on this list, but it is worth knowing the shape of the number before you start — the published averages disagree wildly, for reasons we unpack in ",
+        {
+          "link": {
+            "ref": "article:homeschool-cost",
+            "text": "how much homeschooling actually costs"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {

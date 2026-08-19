@@ -1,0 +1,310 @@
+{
+  "id": "homeschool-cost",
+  "slug": "how-much-does-homeschooling-cost",
+  "clusterId": "cl_compare",
+  "title": "How Much Does Homeschooling Cost? Why the Published Averages Disagree",
+  "dek": "You will find figures from about $600 to $2,500 per child per year, and all of them are defensible — they simply count different things. Here is how to work out your own number instead of borrowing someone else's.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "intent": {
+    "primaryKeyword": "how much does homeschooling cost"
+  },
+  "seo": {
+    "metaTitle": "How Much Does Homeschooling Cost?",
+    "metaDescription": "Published homeschool cost averages run from about $600 to $2,500 per child. Why they disagree, what each tier buys, and the costs nobody warns you about."
+  },
+  "sources": [
+    {
+      "label": "Tutors.com — homeschooling cost breakdown (2026)",
+      "url": "https://tutors.com/costs/homeschooling-cost"
+    },
+    {
+      "label": "National Home Education Research Institute — homeschooling research facts",
+      "url": "https://nheri.org/research-facts-on-homeschooling/"
+    },
+    {
+      "label": "Great Homeschool Conventions — how much does homeschooling cost",
+      "url": "https://greathomeschoolconventions.com/blog/how-much-does-homeschooling-cost"
+    },
+    {
+      "label": "Sonlight — how much does homeschooling cost (publisher's own estimate)",
+      "url": "https://blog.sonlight.com/how-much-does-homeschooling-cost.html"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Search this question and you will be given a number within about four seconds. Search it twice and you will be given a different one. The figures in circulation run from roughly $600 a year per child to $2,500, and the unsatisfying truth is that they are all defensible."
+    },
+    {
+      "type": "paragraph",
+      "richText": "They disagree because they are answering different questions. Once you can see which question each figure answers, the range stops being confusing and starts being useful — because one of those questions is yours."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Every figure below is attributed to the source that published it, and all were current as published in 2026. Costs move. Check the source before you budget from it, and treat all of these as planning ranges rather than quotes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why the averages disagree"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Three things separate a $600 figure from a $2,500 one, and none of them is one source being wrong:"
+    },
+    {
+      "type": "table",
+      "caption": "What different published homeschool cost figures actually count.",
+      "headers": [
+        "Figure",
+        "Published by",
+        "What it counts"
+      ],
+      "rows": [
+        [
+          "About $600 per child per year",
+          "NHERI, a homeschool research organisation",
+          "Close to the core academic spend — the materials themselves"
+        ],
+        [
+          "$500 to $2,500 per child per year",
+          "Tutors.com",
+          "Curriculum, books, supplies, field trips and extracurricular activities together"
+        ],
+        [
+          "$700 to $1,800 per child per year",
+          "Various homeschool publications",
+          "A middle position, usually academics plus some activities"
+        ],
+        [
+          "$400 to $6,000 per child per year",
+          "Tutors.com, for structured online programmes",
+          "A different product entirely — tuition, not materials"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "The gap is mostly extracurriculars. Sport, music lessons, co-op fees and clubs are genuinely optional and genuinely expensive, and a family that counts them is describing a different household from one that does not — not a more honest one."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The second reason is that one of those rows is not a homeschool cost at all. A structured online programme is closer to private tuition: you are buying teaching, not books. Comparing it to a materials-only figure is comparing a restaurant bill to a grocery bill."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The four tiers, and what each one buys"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Rather than an average, it is more useful to know which tier you are shopping in. Each buys something specific, and the thing being bought is nearly always the parent's time."
+    },
+    {
+      "type": "table",
+      "caption": "Four spending tiers and what each one actually purchases.",
+      "headers": [
+        "Tier",
+        "Rough annual spend per child",
+        "What the money buys",
+        "What it costs you instead"
+      ],
+      "rows": [
+        [
+          "Library and free resources",
+          "Under $100",
+          "Almost nothing — you assemble everything",
+          "Substantial planning time, every week, all year"
+        ],
+        [
+          "Assembled by subject",
+          "$200–$700 for curriculum, per Tutors.com",
+          "Best fit per subject, chosen by you",
+          "Comparison and re-ordering time each year"
+        ],
+        [
+          "All-in-one boxed package",
+          "Upper end of the materials range",
+          "One decision, one delivery, a plan for bad weeks",
+          "Paying for parts you may replace"
+        ],
+        [
+          "Structured online programme",
+          "$400–$6,000, per Tutors.com",
+          "Instruction, marking and record keeping",
+          "Flexibility, and control over content"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "The free tier is not free; it is prepaid in hours. That is a legitimate trade when time is what you have and money is what you do not — but families who choose it for the price and not for the planning are the ones most likely to abandon it in November."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The costs nobody puts in the average"
+    },
+    {
+      "type": "paragraph",
+      "richText": "These are the ones that turn a planned budget into an unplanned one:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Consumables. A workbook that cannot be reused is not a purchase, it is a subscription — multiply it by every child and every year you expect to use the programme before comparing prices.",
+        "The second child is cheaper, but not as much cheaper as you expect. Non-consumable spines and readers pass down; workbooks, tests and anything with a licence per student do not.",
+        "Required testing or evaluation, in states that ask for it. Where a state requires standardised testing or an evaluator's review, that is a recurring annual cost with a deadline attached.",
+        "Activities, which is where the published ranges diverge most — Tutors.com puts extracurriculars at $100 to $1,000 a year and individual lessons at $25 to $60 a session.",
+        "Replacement. Budget for one curriculum that does not work. It happens to most families at least once, and pretending it will not is how a mid-year change becomes a crisis.",
+        "The laptop, the printer and the printer ink, which are invisible until the first month of printing."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Testing and evaluation requirements are set by your state and change. Confirm what applies to you at your state's own published rules before budgeting for it — and note that the cost of an evaluator is a separate question from whether one is required."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where the money should go"
+    },
+    {
+      "type": "paragraph",
+      "richText": "If the budget is tight, the tiers are not equally worth defending. Two subjects justify real spending and the rest usually do not."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Maths and early reading are sequential: a gap compounds, and a programme that re-teaches well is worth paying for. Content subjects — history, science, literature, geography — are the ones a library card genuinely covers, because the material exists in abundance and the sequence matters far less. Our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschooling-multiple-ages",
+            "text": "teaching several ages together"
+          }
+        },
+        " explains why those subjects also combine across children, which is where the real saving lives for larger families."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Science is the subject where families most often assume they must buy equipment. Through the middle years they usually do not — an investigation needs a question, one variable and something to measure with, not apparatus. We cover what genuinely requires spending, and where it starts to, in ",
+        {
+          "link": {
+            "ref": "article:homeschool-science-without-lab",
+            "text": "homeschool science without a lab"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to spend less without buying worse"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Buy one term rather than one year where the publisher allows it. You will know far more in January than you do in August.",
+        "Buy used for non-consumables, and check whether the edition matters before you do — for some programmes it does not, for others the page numbers no longer line up.",
+        "Use the placement test before buying a level. Buying the wrong level is the most expensive common mistake in this niche.",
+        "Check your library's catalogue against the reading list before ordering books. For literature-led approaches this frequently removes the largest single line item.",
+        "Decide what specifically must be different before you replace anything, rather than after — that single discipline is what stops one change from becoming three."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last point has its own guide, because switching has costs beyond the purchase price: see ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch homeschool curriculum"
+          }
+        },
+        ". And before spending anything at all, the order to decide in is set out in our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        " — deciding price first is how families end up buying twice."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What we are not telling you, and why"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "You will notice we have not listed the price of any particular curriculum. That is deliberate. Publishers change prices, run sales, and package levels differently from year to year, and a price we copied once and left online would quietly become wrong — which is worse than no figure at all. Some publishers do publish their own estimates, and ",
+        {
+          "link": {
+            "ref": "https://blog.sonlight.com/how-much-does-homeschooling-cost.html",
+            "text": "Sonlight's is a reasonable example"
+          }
+        },
+        ", with the obvious caveat that it comes from a company selling packages."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "When we publish a specific price it will carry the date we checked it and a link to the publisher's own page, the same standard we apply to what a curriculum teaches — described in our guide to ",
+        {
+          "link": {
+            "ref": "article:secular-vs-christian-curriculum",
+            "text": "reading a curriculum's worldview"
+          }
+        },
+        ". Until then, the ranges above, attributed to the people who published them, are the honest version."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How much does homeschooling cost per year?",
+          "answerRichText": "Published estimates range from about $600 per child per year (NHERI) to $500–$2,500 (Tutors.com), and the difference is mostly whether extracurricular activities are counted. Structured online programmes are a separate category at $400–$6,000, because they buy teaching rather than materials."
+        },
+        {
+          "question": "Is homeschooling cheaper than private school?",
+          "answerRichText": "Almost always, on direct costs — even the upper published ranges sit well below typical private tuition. The comparison is incomplete, though, because homeschooling frequently costs a parent some working hours, and that is a real household cost that no published average includes."
+        },
+        {
+          "question": "What is the biggest homeschool expense?",
+          "answerRichText": "Curriculum is usually the largest single line, at $200–$700 per student per year according to Tutors.com. For families with activities, extracurriculars often rival it — Tutors.com puts those at $100–$1,000 a year, with individual lessons at $25–$60 per session."
+        },
+        {
+          "question": "Can you homeschool for free?",
+          "answerRichText": "For content subjects, largely yes — a library card and free resources cover history, literature and much of science. Maths and early reading are where a structured programme usually earns its cost, because they are sequential and a gap compounds. The free route is prepaid in planning hours rather than dollars."
+        },
+        {
+          "question": "Does homeschooling get cheaper with more children?",
+          "answerRichText": [
+            "Per child, yes, but less than expected. Non-consumable spines and readers pass down; workbooks, tests and per-student licences do not. The larger saving comes from teaching content subjects together — see our guide to ",
+            {
+              "link": {
+                "ref": "article:homeschooling-multiple-ages",
+                "text": "homeschooling multiple ages"
+              }
+            },
+            "."
+          ]
+        }
+      ]
+    }
+  ]
+}
