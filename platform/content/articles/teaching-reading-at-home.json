@@ -7,56 +7,224 @@
   "authorId": "author_team",
   "publishedAt": "2026-08-16",
   "updatedAt": "2026-08-16",
-  "intent": { "primaryKeyword": "how to teach reading at home" },
+  "intent": {
+    "primaryKeyword": "how to teach reading at home"
+  },
   "seo": {
     "metaTitle": "How to Teach Reading at Home, Step by Step",
     "metaDescription": "The order reading skills develop, what to do at each stage, how long daily practice should be, and how to tell more time apart from a real difficulty."
   },
   "sources": [
-    { "label": "Read and Spell — how to build a homeschool reading program", "url": "https://www.readandspell.com/articles/homeschool-reading" },
-    { "label": "Cathy Duffy Reviews — phonics and reading curricula reviews", "url": "https://cathyduffyreviews.com/homeschool-reviews-core-curricula/phonics-reading/phonics-reading" },
-    { "label": "Design Your Homeschool — how to teach reading to beginners", "url": "https://www.design-your-homeschool.com/how-to-teach-reading.html" }
+    {
+      "label": "Read and Spell — how to build a homeschool reading program",
+      "url": "https://www.readandspell.com/articles/homeschool-reading"
+    },
+    {
+      "label": "Cathy Duffy Reviews — phonics and reading curricula reviews",
+      "url": "https://cathyduffyreviews.com/homeschool-reviews-core-curricula/phonics-reading/phonics-reading"
+    },
+    {
+      "label": "Design Your Homeschool — how to teach reading to beginners",
+      "url": "https://www.design-your-homeschool.com/how-to-teach-reading.html"
+    }
   ],
   "body": [
-    { "type": "paragraph", "richText": "Reading is the subject parents are most afraid of teaching and the one where a home setting has the clearest advantage. A classroom teacher works with twenty-five children at six different stages. You work with one, and you can see exactly where the wheels come off." },
-    { "type": "paragraph", "richText": "The thing that makes it manageable is that reading develops in a fairly predictable order. You are not inventing anything — you are moving through a sequence." },
-    { "type": "heading", "level": 2, "text": "The sequence" },
-    { "type": "paragraph", "richText": "Each stage rests on the one before. Almost every reading problem we hear described turns out to be a child working two stages ahead of where they are secure." },
-    { "type": "table", "caption": "The order reading skills develop, and what each stage looks like in practice.", "headers": ["Stage", "What it is", "What you do"], "rows": [
-      ["Phonemic awareness", "Hearing that spoken words are made of separate sounds — entirely oral, no letters involved", "Rhyming, clapping syllables, \"what sound does cat start with?\", changing one sound to make a new word"],
-      ["Letter sounds", "Connecting each letter to the sound it makes", "A few letters at a time; the sound, not the letter name, is what does the work"],
-      ["Blending", "Pushing separate sounds together into a word", "Slow, exaggerated blending of three-sound words; this is the stage that most often needs extra weeks"],
-      ["Decoding", "Reading unfamiliar words by sounding them out", "Simple readers using only the patterns already taught"],
-      ["Fluency", "Reading smoothly enough that attention is free for meaning", "Rereading familiar text, reading aloud together, easy books in volume"],
-      ["Comprehension", "Understanding, inferring and discussing", "Conversation about what was read — the skill you have already been building through read-alouds"]
-    ] },
-    { "type": "callout", "variant": "warn", "richText": "Phonemic awareness is the stage most likely to be skipped, because it involves no books and does not look like reading. A child who cannot hear the three sounds in cat will not blend them, however many letter flashcards they see. If blending has stalled, go back here before anything else." },
-    { "type": "heading", "level": 2, "text": "How long a lesson should be" },
-    { "type": "paragraph", "richText": "Short and daily beats long and occasional, by a wide margin. Ten to fifteen minutes of focused instruction is a full lesson for an early reader; twenty is generous. Beyond that you are usually teaching frustration." },
-    { "type": "paragraph", "richText": "Keep the instruction separate from the reading you do for pleasure. A child who has done a fifteen-minute phonics lesson has finished their reading work — the picture book on the sofa afterwards is not more lesson, and it should not carry comprehension questions." },
-    { "type": "callout", "variant": "tip", "richText": "Read aloud to your child far above their own reading level, every day, for as long as they will let you — years past the point where they can read independently. It builds vocabulary, sentence structure and stamina for complex text, none of which their own decoding can yet reach." },
-    { "type": "heading", "level": 2, "text": "Choosing books at the right moment" },
-    { "type": "paragraph", "richText": "A beginning reader needs books built from the patterns they have actually been taught — decodable readers, where nearly every word can be sounded out. Handing a child a normal picture book too early teaches them to guess from the picture, which is a habit that has to be undone later." },
-    { "type": "paragraph", "richText": "Once decoding is reliable, the priority flips completely: volume and enjoyment matter more than level. Easy books read in quantity build fluency better than harder books read painfully, and a child who chooses their own books reads more of them." },
-    { "type": "heading", "level": 2, "text": "More time, or a real difficulty?" },
-    { "type": "paragraph", "richText": "This is the question that keeps parents awake, and the honest answer is that most children are simply on their own timetable — the normal range for reading fluently is wide, spanning years rather than months." },
-    { "type": "paragraph", "richText": "That said, some patterns are worth acting on rather than waiting out. None of these is a diagnosis, and we are not qualified to give one; they are reasons to seek an assessment from someone who is:" },
-    { "type": "list", "ordered": false, "items": [
-      "Persistent difficulty hearing individual sounds in spoken words, well after focused practice.",
-      "Learning a letter sound reliably one day and having no trace of it the next, repeatedly, over months.",
-      "Reading a word correctly on one line and not recognising the same word two lines later, consistently.",
-      "Significant, sustained distress about reading that is not improving as skills improve.",
-      "A family history of reading difficulty, which is a well-known risk factor and lowers the threshold for getting an assessment."
-    ] },
-    { "type": "callout", "variant": "info", "richText": "Getting an assessment early costs little and changes what you do. Waiting costs years of practice with the wrong method, and a child who has concluded they are stupid. If in doubt, ask — you can always be told there is nothing to find." },
-    { "type": "heading", "level": 2, "text": "What to do when it is a fight" },
-    { "type": "paragraph", "richText": [ "Reading resistance is often not about reading. If your child will happily discuss a book you read to them but fights the lesson, look at the mechanics — the length, the writing involved, the volume of repetition. Our guide to ", { "link": { "ref": "article:child-hates-worksheets", "text": "diagnosing worksheet resistance" } }, " applies directly, and the four causes there map onto reading lessons almost exactly." ] },
-    { "type": "paragraph", "richText": [ "If you have recently left school, expect reading to be the most emotionally loaded subject of all, because it is where a struggling child was most publicly compared. That is a reason to go slowly at first — see our guide to ", { "link": { "ref": "article:deschooling", "text": "deschooling" } }, "." ] },
-    { "type": "faq", "items": [
-      { "question": "At what age should I start teaching reading?", "answerRichText": "Start oral phonemic awareness — rhyming, hearing sounds in words — whenever a child enjoys it, often around four. Formal instruction can begin whenever the child can hear individual sounds and sit for ten minutes. The normal range for reading fluently spans years, not months." },
-      { "question": "How long should a reading lesson be?", "answerRichText": "Ten to fifteen minutes of focused instruction daily is a full lesson for an early reader. Short and daily beats long and occasional. Reading for pleasure afterwards is separate and should not carry comprehension questions." },
-      { "question": "What if my child is not reading and their peers are?", "answerRichText": "The normal range is very wide, and most late readers are simply on their own timetable. Seek an assessment if they cannot hear individual sounds in words after focused practice, forget letter sounds overnight repeatedly over months, or there is a family history of reading difficulty." },
-      { "question": "Do I need a phonics curriculum to teach reading?", "answerRichText": [ "Not necessarily, but you do need a systematic sequence, because the stages build on each other and skipping one causes the problems that appear later. A curriculum supplies that order; if you assemble your own, follow the sequence deliberately. Our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "selection guide" } }, " covers how to judge a candidate." ] }
-    ] }
+    {
+      "type": "paragraph",
+      "richText": "Reading is the subject parents are most afraid of teaching and the one where a home setting has the clearest advantage. A classroom teacher works with twenty-five children at six different stages. You work with one, and you can see exactly where the wheels come off."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The thing that makes it manageable is that reading develops in a fairly predictable order. You are not inventing anything — you are moving through a sequence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The sequence"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Each stage rests on the one before. Almost every reading problem we hear described turns out to be a child working two stages ahead of where they are secure."
+    },
+    {
+      "type": "table",
+      "caption": "The order reading skills develop, and what each stage looks like in practice.",
+      "headers": [
+        "Stage",
+        "What it is",
+        "What you do"
+      ],
+      "rows": [
+        [
+          "Phonemic awareness",
+          "Hearing that spoken words are made of separate sounds — entirely oral, no letters involved",
+          "Rhyming, clapping syllables, \"what sound does cat start with?\", changing one sound to make a new word"
+        ],
+        [
+          "Letter sounds",
+          "Connecting each letter to the sound it makes",
+          "A few letters at a time; the sound, not the letter name, is what does the work"
+        ],
+        [
+          "Blending",
+          "Pushing separate sounds together into a word",
+          "Slow, exaggerated blending of three-sound words; this is the stage that most often needs extra weeks"
+        ],
+        [
+          "Decoding",
+          "Reading unfamiliar words by sounding them out",
+          "Simple readers using only the patterns already taught"
+        ],
+        [
+          "Fluency",
+          "Reading smoothly enough that attention is free for meaning",
+          "Rereading familiar text, reading aloud together, easy books in volume"
+        ],
+        [
+          "Comprehension",
+          "Understanding, inferring and discussing",
+          "Conversation about what was read — the skill you have already been building through read-alouds"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Phonemic awareness is the stage most likely to be skipped, because it involves no books and does not look like reading. A child who cannot hear the three sounds in cat will not blend them, however many letter flashcards they see. If blending has stalled, go back here before anything else."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How long a lesson should be"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Short and daily beats long and occasional, by a wide margin. Ten to fifteen minutes of focused instruction is a full lesson for an early reader; twenty is generous. Beyond that you are usually teaching frustration."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Keep the instruction separate from the reading you do for pleasure. A child who has done a fifteen-minute phonics lesson has finished their reading work — the picture book on the sofa afterwards is not more lesson, and it should not carry comprehension questions."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Read aloud to your child far above their own reading level, every day, for as long as they will let you — years past the point where they can read independently. It builds vocabulary, sentence structure and stamina for complex text, none of which their own decoding can yet reach."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choosing books at the right moment"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A beginning reader needs books built from the patterns they have actually been taught — decodable readers, where nearly every word can be sounded out. Handing a child a normal picture book too early teaches them to guess from the picture, which is a habit that has to be undone later."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Once decoding is reliable, the priority flips completely: volume and enjoyment matter more than level. Easy books read in quantity build fluency better than harder books read painfully, and a child who chooses their own books reads more of them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "More time, or a real difficulty?"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the question that keeps parents awake, and the honest answer is that most children are simply on their own timetable — the normal range for reading fluently is wide, spanning years rather than months."
+    },
+    {
+      "type": "paragraph",
+      "richText": "That said, some patterns are worth acting on rather than waiting out. None of these is a diagnosis, and we are not qualified to give one; they are reasons to seek an assessment from someone who is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Persistent difficulty hearing individual sounds in spoken words, well after focused practice.",
+        "Learning a letter sound reliably one day and having no trace of it the next, repeatedly, over months.",
+        "Reading a word correctly on one line and not recognising the same word two lines later, consistently.",
+        "Significant, sustained distress about reading that is not improving as skills improve.",
+        "A family history of reading difficulty, which is a well-known risk factor and lowers the threshold for getting an assessment."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Getting an assessment early costs little and changes what you do. Waiting costs years of practice with the wrong method, and a child who has concluded they are stupid. If in doubt, ask — you can always be told there is nothing to find."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do when it is a fight"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Reading resistance is often not about reading. If your child will happily discuss a book you read to them but fights the lesson, look at the mechanics — the length, the writing involved, the volume of repetition. Our guide to ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "diagnosing worksheet resistance"
+          }
+        },
+        " applies directly, and the four causes there map onto reading lessons almost exactly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If you have recently left school, expect reading to be the most emotionally loaded subject of all, because it is where a struggling child was most publicly compared. That is a reason to go slowly at first — see our guide to ",
+        {
+          "link": {
+            "ref": "article:deschooling",
+            "text": "deschooling"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Reading is the subject parents fear teaching second-most. The first is maths, and the fix there is different — it is about handing away the explaining rather than following a sequence: see ",
+        {
+          "link": {
+            "ref": "article:teaching-math-when-bad-at-math",
+            "text": "teaching maths when you were never good at it"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "At what age should I start teaching reading?",
+          "answerRichText": "Start oral phonemic awareness — rhyming, hearing sounds in words — whenever a child enjoys it, often around four. Formal instruction can begin whenever the child can hear individual sounds and sit for ten minutes. The normal range for reading fluently spans years, not months."
+        },
+        {
+          "question": "How long should a reading lesson be?",
+          "answerRichText": "Ten to fifteen minutes of focused instruction daily is a full lesson for an early reader. Short and daily beats long and occasional. Reading for pleasure afterwards is separate and should not carry comprehension questions."
+        },
+        {
+          "question": "What if my child is not reading and their peers are?",
+          "answerRichText": "The normal range is very wide, and most late readers are simply on their own timetable. Seek an assessment if they cannot hear individual sounds in words after focused practice, forget letter sounds overnight repeatedly over months, or there is a family history of reading difficulty."
+        },
+        {
+          "question": "Do I need a phonics curriculum to teach reading?",
+          "answerRichText": [
+            "Not necessarily, but you do need a systematic sequence, because the stages build on each other and skipping one causes the problems that appear later. A curriculum supplies that order; if you assemble your own, follow the sequence deliberately. Our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            " covers how to judge a candidate."
+          ]
+        }
+      ]
+    }
   ]
 }

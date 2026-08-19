@@ -188,6 +188,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "And if the difficulty is partly yours — if maths is the subject you dreaded teaching before you started — that changes what your job in the lesson should be, which we cover in ",
+        {
+          "link": {
+            "ref": "article:teaching-math-when-bad-at-math",
+            "text": "teaching maths when you were never good at it"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {

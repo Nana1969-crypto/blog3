@@ -1,0 +1,76 @@
+{
+  "id": "teaching-math-when-bad-at-math",
+  "slug": "teaching-homeschool-math-when-you-are-bad-at-math",
+  "clusterId": "cl_subjects",
+  "title": "Teaching Maths When You Were Never Good at It",
+  "dek": "The most common reason parents believe they cannot homeschool is maths. The fix is not to learn it first — it is to change what your job actually is, because the research suggests an anxious parent explaining badly is worse than not explaining at all.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "intent": { "primaryKeyword": "teaching homeschool math when you are bad at math" },
+  "seo": {
+    "metaTitle": "Teaching Maths When You Were Never Good at It",
+    "metaDescription": "Why an anxious parent explaining maths can make things worse, what to say instead, and how to run a solid maths lesson without being the one who explains."
+  },
+  "sources": [
+    { "label": "Child Mind Institute — how to help kids with math anxiety", "url": "https://childmind.org/article/help-kids-with-math-anxiety/" },
+    { "label": "HMH — helping your child with math at home when you hate math", "url": "https://www.hmhco.com/blog/7-tips-for-helping-your-child-with-math-at-home" },
+    { "label": "Weird Unsocialized Homeschoolers — coping with math anxiety in your homeschool", "url": "https://www.weirdunsocializedhomeschoolers.com/math-anxiety-in-your-homeschool/" },
+    { "label": "Homeschooling with Dyslexia — helping kids overcome math anxiety", "url": "https://homeschoolingwithdyslexia.com/help-kids-math-anxiety/" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "Ask a room of parents why they think they could not homeschool and maths comes up more than every other subject combined. Usually in the same words: I was terrible at it, I would just confuse them, they would end up worse off than in school." },
+    { "type": "paragraph", "richText": "The last part of that sentence deserves to be taken seriously rather than argued away, because there is a version of it that is true. What is not true is the conclusion — that the answer is to learn maths yourself first, or to give up. The answer is to change what your job is." },
+    { "type": "heading", "level": 2, "text": "The finding that should change your plan" },
+    { "type": "paragraph", "richText": [ "This is the uncomfortable part, and it is better to know it now than in March. Research reported by the ", { "link": { "ref": "https://childmind.org/article/help-kids-with-math-anxiety/", "text": "Child Mind Institute" } }, " indicates that parents with high maths anxiety who help frequently with maths can leave their children learning less maths and feeling more anxious about it than their peers." ] },
+    { "type": "paragraph", "richText": "Read that carefully, because it is easy to hear as an accusation and it is not one. It does not say anxious parents should not homeschool. It says that anxiety travels — through tone, through sighs, through the speed at which you give up on a problem — and that frequent helping is the channel it travels down. The variable is not your ability. It is your anxiety plus your proximity." },
+    { "type": "callout", "variant": "info", "richText": "That distinction is oddly freeing. It means the problem is not something you lack and cannot quickly acquire. It is something you are transmitting, and transmission is a great deal easier to interrupt than a decade of missed mathematics is to make up." },
+    { "type": "heading", "level": 2, "text": "The sentences to stop saying" },
+    { "type": "paragraph", "richText": "Most transmission happens through throwaway remarks, usually meant kindly. The intention is to comfort a struggling child by taking the blame; what arrives is a diagnosis they will carry for years." },
+    { "type": "table", "caption": "Common comforting phrases, what a child takes from them, and what to say instead.", "headers": ["What gets said", "What the child hears", "Try instead"], "rows": [
+      ["\"Don't worry, I was terrible at maths too.\"", "This runs in the family, so there is no point trying", "\"This part is genuinely hard. Let's find out how it works.\""],
+      ["\"I've never been a maths person.\"", "There are maths people and I am not one", "\"I haven't done this in years — let me look at it with you.\""],
+      ["\"Just get through it and we'll do something fun.\"", "Maths is the thing you endure", "\"Fifteen minutes, then we stop, whether it is finished or not.\""],
+      ["\"You should know this by now.\"", "I am behind, and behind is who I am", "\"Which step stopped making sense? Let's go back to there.\""],
+      ["\"Fine, I'll just show you the answer.\"", "Getting it is not the point; finishing is", "\"Let's do the next one together and you take the one after.\""]
+    ] },
+    { "type": "callout", "variant": "warn", "richText": "The first row is the one worth guarding hardest. The idea that some people are simply not \"maths people\" is widely repeated and poorly supported, and a child who accepts it has been given permission to stop trying — by the person whose opinion they trust most." },
+    { "type": "heading", "level": 2, "text": "Your job is not to be the explainer" },
+    { "type": "paragraph", "richText": "The assumption underneath the fear is that homeschooling maths means standing at a whiteboard teaching from your own understanding. For most families it does not, and for a maths-anxious parent it should not." },
+    { "type": "paragraph", "richText": "There are four jobs in a maths lesson, and explaining is only one of them. You can hand that one away entirely and still do the other three better than any classroom could:" },
+    { "type": "table", "caption": "The four jobs in a maths lesson, and who can do each.", "headers": ["Job", "Who can do it", "Why it matters"], "rows": [
+      ["Explaining the concept", "A video, a recorded course, a scripted teacher's guide, a tutor", "The one job you can fully outsource, and the only one you were worried about"],
+      ["Keeping the emotional temperature down", "Only you", "Determines whether the child can think at all — a frightened brain does not do arithmetic"],
+      ["Noticing exactly where it broke", "Only you, because only you watch this one child", "The single biggest advantage home has over a classroom of twenty-five"],
+      ["Protecting the pace", "Only you", "Deciding to spend three days on one idea is a decision no classroom teacher is allowed to make"]
+    ] },
+    { "type": "paragraph", "richText": [ "Noticing where it broke does not require you to know the mathematics. It requires you to watch the child's face and hand. Where the pencil stops, where the confidence drops, which step gets skipped every single time — that is diagnostic information, and it is what you hand to the video, the answer key or the tutor. Some of it is not about the maths at all, and our guide to ", { "link": { "ref": "article:child-hates-worksheets", "text": "diagnosing worksheet resistance" } }, " covers how to tell those apart." ] },
+    { "type": "heading", "level": 2, "text": "How to run the lesson without explaining" },
+    { "type": "paragraph", "richText": "A concrete routine, for a parent who genuinely cannot teach the content:" },
+    { "type": "list", "ordered": true, "items": [
+      "Choose a programme that teaches the child directly — video lessons or a fully scripted guide — rather than one that assumes a confident adult will improvise. This is the most important purchase decision you will make, and it outranks every other feature.",
+      "Watch the lesson with them, not instead of them. Sitting through it means you know what was taught and in what language, which is what lets you help without contradicting the method.",
+      "Let them attempt the work while you are nearby and quiet. Resist narrating. Most of the useful thinking happens in silence that an anxious adult finds unbearable.",
+      "When they stall, ask rather than tell: which step is the first one you are not sure about? You are locating the break, not fixing it.",
+      "Rewatch that part of the lesson together instead of inventing your own explanation. Two explanations of the same idea in different vocabularies is how confusion sets in.",
+      "Use the answer key to check, never to demonstrate. A key that becomes a source of answers stops being a source of information."
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "Set a hard time limit — fifteen or twenty minutes for younger children — and end on time regardless of whether the page is finished. Predictable endings shrink anxiety on both sides of the table, and an unfinished page costs far less than a child who has learned that maths has no end." },
+    { "type": "heading", "level": 2, "text": "Learning it one lesson ahead" },
+    { "type": "paragraph", "richText": "Some parents find that watching the lessons quietly repairs their own maths over a couple of years, and report understanding things at forty that they never understood at fourteen. That is a genuine and common outcome, and it is worth naming because it reframes the whole enterprise as something you are doing together rather than something you are failing at." },
+    { "type": "paragraph", "richText": "But treat it as a side effect, not a prerequisite. Waiting until you feel competent before starting is how a year disappears. Being one lesson ahead is plenty; being level with your child is also fine, and honest about it is better than pretending." },
+    { "type": "heading", "level": 2, "text": "When it is the child's anxiety, not yours" },
+    { "type": "paragraph", "richText": "Sometimes the fear did not come from you. A child who freezes, cries or shuts down at the sight of a maths page is not being difficult, and pushing through it reliably makes it worse." },
+    { "type": "paragraph", "richText": "Two things help more than any curriculum change. The first is deliberately going back to work they can do easily and letting them succeed for a while — confidence is a prerequisite for learning maths, not a reward for having learned it. The second is checking whether the sequencing is the real problem, because a child drowning in mixed practice and a child bored by three weeks on one topic both look like anxiety from across the room." },
+    { "type": "paragraph", "richText": [ "We cover that distinction in our guide to ", { "link": { "ref": "article:spiral-vs-mastery-math", "text": "spiral and mastery sequencing" } }, ", and it is worth ruling out before deciding a child hates maths. A change of pace is cheaper than a change of programme, and far cheaper than a change of self-image." ] },
+    { "type": "callout", "variant": "warn", "richText": "Persistent distress that does not improve as the work gets easier, or a large gap between what a child can do orally and what they can do on paper, is worth raising with a professional rather than solving with curriculum. We are not qualified to assess that, and neither is a publisher." },
+    { "type": "paragraph", "richText": [ "If you do decide to bring in outside help, a tutor for maths alone is one of the better uses of a limited budget — it removes the one job you cannot do while leaving you the three you can. We set out what the surrounding costs look like in ", { "link": { "ref": "article:homeschool-cost", "text": "how much homeschooling costs" } }, ", and how to weigh a programme against your own capacity in our ", { "link": { "ref": "article:how-to-choose-curriculum", "text": "curriculum selection guide" } }, "." ] },
+    { "type": "faq", "items": [
+      { "question": "Can I homeschool maths if I am bad at maths?", "answerRichText": "Yes, but not by being the explainer. Choose a programme that teaches the child directly through video or a fully scripted guide, and keep the three jobs only you can do: managing the emotional temperature, noticing exactly where understanding broke, and controlling the pace." },
+      { "question": "Does my own maths anxiety affect my child?", "answerRichText": "It can. Research reported by the Child Mind Institute indicates that parents with high maths anxiety who help frequently can leave children learning less maths and feeling more anxious. The variable is anxiety plus proximity, not your ability — which is why changing your role helps more than improving your maths." },
+      { "question": "What should I not say about maths in front of my child?", "answerRichText": "Anything that frames maths ability as a fixed trait, especially \"I was never a maths person either.\" It is meant kindly and lands as permission to stop trying. Replace it with a statement about the task being hard rather than about the person being unsuited." },
+      { "question": "Should I hire a maths tutor for my homeschooler?", "answerRichText": [ "It is one of the better uses of a limited budget, because it removes the single job you cannot do while leaving you the ones you can. Before hiring, rule out a sequencing mismatch — see our guide to ", { "link": { "ref": "article:spiral-vs-mastery-math", "text": "spiral and mastery maths" } }, " — since a change of pace is much cheaper than a tutor." ] },
+      { "question": "How long should a homeschool maths lesson be?", "answerRichText": "Short and predictable beats long and open-ended, particularly where anxiety is present. Fifteen to twenty minutes for younger children, ending on time whether or not the page is finished. An unfinished page costs less than a child learning that maths never ends." }
+    ] }
+  ]
+}
