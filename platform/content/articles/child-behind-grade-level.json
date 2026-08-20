@@ -1,0 +1,310 @@
+{
+  "id": "child-behind-grade-level",
+  "slug": "homeschooling-a-child-behind-grade-level",
+  "clusterId": "cl_situations",
+  "title": "When Your Child Is \"Behind\": Which Kind, and What to Do About Each",
+  "dek": "The word behind describes two completely different situations. One is a comparison to an administrative schedule and needs no action. The other is a child standing on a gap, and it compounds every week you wait.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "intent": {
+    "primaryKeyword": "homeschooling a child behind grade level"
+  },
+  "seo": {
+    "metaTitle": "Homeschooling a Child Behind Grade Level",
+    "metaDescription": "Behind a grade level and behind their own prerequisites are different problems. How to tell which you have, and close a real gap without doubling the work."
+  },
+  "sources": [
+    {
+      "label": "TheHomeSchoolMom — homeschooling the child who is behind in school",
+      "url": "https://www.thehomeschoolmom.com/ask-jeanne-homeschooling-child-behind-school/"
+    },
+    {
+      "label": "Homeschool On — identifying learning gaps",
+      "url": "https://homeschoolon.com/learning-gaps/"
+    },
+    {
+      "label": "Sonlight — how to find and fill academic gaps",
+      "url": "https://blog.sonlight.com/find-fill-academic-gaps.html"
+    },
+    {
+      "label": "The Good and the Beautiful — what if my homeschooled child is behind grade level",
+      "url": "https://www.goodandbeautiful.com/blogs/inspiration/behind-grade-level"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Most advice about a child being behind falls into one of two camps. One tells you not to worry, grade levels are arbitrary, every child develops differently. The other tells you to act now before the gap widens. Both are correct, and they are describing different children — which is why reading both leaves you more confused than before."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The word \"behind\" is doing two jobs. Separating them takes about ten minutes and tells you which piece of advice was written for you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Two meanings, one of them urgent"
+    },
+    {
+      "type": "table",
+      "caption": "The two situations the word \"behind\" describes, and what each one calls for.",
+      "headers": [
+        "",
+        "Behind a norm",
+        "Behind their prerequisites"
+      ],
+      "rows": [
+        [
+          "What it means",
+          "Doing work later than a typical schedule expects",
+          "Being asked to do work that depends on something they never secured"
+        ],
+        [
+          "A real example",
+          "Reading fluently at eight rather than six",
+          "Doing long division without reliable multiplication facts"
+        ],
+        [
+          "Does it compound?",
+          "No — the range for most milestones is genuinely wide",
+          "Yes, and quickly. Every new topic rests on the missing one"
+        ],
+        [
+          "What the child feels",
+          "Usually nothing, unless someone tells them",
+          "Confusion that looks like carelessness, and steadily worse confidence"
+        ],
+        [
+          "What to do",
+          "Keep teaching at their level and stop measuring against the calendar",
+          "Stop, go back, find the gap, rebuild — before adding anything new"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "A grade level is an administrative convenience for grouping large numbers of children by birthday. It was never a developmental claim, and it is one of the first things families are able to put down when they leave a classroom system."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The distinction matters because the two situations respond to opposite treatments. Pushing harder on a child who is merely on their own timetable manufactures anxiety where none existed. Reassuring a child who is standing on a genuine gap lets the gap grow for another term."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finding the actual gap"
+    },
+    {
+      "type": "paragraph",
+      "richText": "If the second column describes your situation, the useful question is not \"how far behind are they?\" but \"what is the last thing they can do reliably?\" You are looking for a floor, not a distance."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Work backwards from the failure, not forwards from the schedule. Take the topic that is going wrong and ask what it assumes. Then check whether they have that. Then check what that assumes.",
+        "Keep going back until you hit something they can do easily and confidently. That is the floor. It is often further back than expected, and finding it is progress rather than bad news.",
+        "Use a placement test rather than your impression. Most maths and language programmes publish one free, and they are designed to locate exactly this. Your impression is shaped by the last bad morning; the test is not.",
+        "Watch where the pencil stops during ordinary work. The specific step that always gets skipped is more diagnostic than any score.",
+        "Write down what you find. A one-line note per subject — \"secure through two-digit addition, not regrouping\" — is worth more in three months than a memory of a difficult week."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Go back further than feels necessary. Rebuilding from a point of genuine confidence is faster than rebuilding from a point of partial understanding, because partial understanding has to be unlearned before it can be replaced."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Triage: what compounds and what does not"
+    },
+    {
+      "type": "paragraph",
+      "richText": "You cannot rebuild everything at once, and you do not need to. Subjects differ in how much a gap costs, and the ones that compound deserve the effort first."
+    },
+    {
+      "type": "table",
+      "caption": "Which subjects to prioritise when catching up, and why.",
+      "headers": [
+        "Priority",
+        "Subject",
+        "Why"
+      ],
+      "rows": [
+        [
+          "First",
+          "Maths facts and operations",
+          "Strictly cumulative — nearly every later topic stands on them"
+        ],
+        [
+          "First",
+          "Decoding and reading fluency",
+          "Gates every other subject, including the maths word problems"
+        ],
+        [
+          "Second",
+          "Writing mechanics and composition",
+          "Builds, but tolerates gaps better and improves with reading alone"
+        ],
+        [
+          "Later",
+          "History, science, geography, art",
+          "Bodies of knowledge rather than ladders — a year not covered is not a year lost"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "It is entirely legitimate to pause the fourth row for a term while you rebuild the first two. Content subjects can be carried by reading aloud and documentaries in the meantime, which costs almost nothing and keeps the household interesting. Our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-schedule",
+            "text": "building a schedule that survives"
+          }
+        },
+        " covers putting them on a loop so they slow down rather than disappear."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why this is more recoverable than it feels"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The panic usually assumes it will take as long to catch up as it took to fall behind. It rarely does, for a reason that has nothing to do with the child's ability."
+    },
+    {
+      "type": "paragraph",
+      "richText": "One-to-one teaching removes almost everything that fills a classroom hour: the waiting, the transitions, the pacing for twenty-five children at different points. Work that occupied a term in a classroom frequently takes a few focused weeks at a kitchen table, because none of that time is spent on anyone else."
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is also a compounding effect in your favour. A child rebuilding from a secure floor gets a run of correct answers, and confidence is not a reward for learning — it is a precondition for it. Children who have been failing daily often accelerate once the work stops being impossible, and the acceleration surprises everyone."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What makes it worse"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Four responses are common, understandable, and reliably counterproductive:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Doubling the workload. A child who cannot do one page cannot do two, and the message received is that falling behind is punished with more of what already hurts.",
+        "Working at the level they \"should\" be at while quietly hoping the gap closes itself. It does not, and the daily failure is doing real damage in the meantime.",
+        "Announcing the grade level. \"You're two years behind in maths\" is a fact about a schedule that gets stored by the child as a fact about themselves.",
+        "Cancelling everything the child is good at to make room for the catching up. Removing the one subject where they succeed removes the evidence that they can."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "If your child recently left a classroom, expect a period where they appear further behind than they are. Children fresh out of school often cannot demonstrate what they know, because performing has been a survival strategy and admitting confusion has been a risk. Assessing in the first weeks measures the transition rather than the child."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That period has a name and a purpose, and rushing it produces exactly the misleading picture you are trying to avoid — see our guide to ",
+        {
+          "link": {
+            "ref": "article:deschooling",
+            "text": "deschooling"
+          }
+        },
+        ". If maths is the subject in question and it is also the one you dread teaching, our guide to ",
+        {
+          "link": {
+            "ref": "article:teaching-math-when-bad-at-math",
+            "text": "teaching maths when you were never good at it"
+          }
+        },
+        " covers how to run the rebuild without being the one who explains."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When it is not a gap"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Sometimes going back to the floor does not produce the expected acceleration. The work is genuinely easy, the child is genuinely trying, and it still does not stick. That is a different signal and it deserves a different response."
+    },
+    {
+      "type": "paragraph",
+      "richText": "None of the following is a diagnosis, and we are not qualified to give one. They are reasons to seek an assessment from someone who is:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Content that is secure one day and entirely absent the next, repeatedly, over months rather than weeks.",
+        "A large and persistent gap between what a child can explain out loud and what they can produce on paper.",
+        "Rebuilding from a confident floor producing no acceleration at all after a sustained period.",
+        "Distress that does not ease as the work gets easier — which usually points at something other than difficulty.",
+        "A family history of reading or learning difficulty, which lowers the threshold for asking."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Asking early costs little and changes what you do. Waiting costs terms of practice with the wrong approach and a child who has quietly concluded something permanent about themselves. You can always be told there is nothing to find."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One last reassurance worth stating plainly, because it is the thing parents most need to hear and most distrust: many families report that a child described as years behind in a classroom closed most of the distance within a single year at home, once the work matched where they actually were. It is not a guarantee and we will not pretend it is one. It is common enough that panic is a poor guide, and the ",
+        {
+          "link": {
+            "ref": "https://www.thehomeschoolmom.com/ask-jeanne-homeschooling-child-behind-school/",
+            "text": "advice given to families in this position"
+          }
+        },
+        " has been consistent for decades: start where the child is, not where the calendar says."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "What if my homeschooled child is behind grade level?",
+          "answerRichText": "First work out which kind of behind it is. Being later than a typical schedule on a milestone with a wide normal range needs no action. Being asked to do work that depends on something never secured is a real gap, and it compounds — that one calls for going back to the last thing they can do confidently and rebuilding from there."
+        },
+        {
+          "question": "How do I find my child's learning gaps?",
+          "answerRichText": "Work backwards from what is failing rather than forwards from the schedule: ask what the failing topic assumes, check whether they have it, and keep going back until you reach something they can do easily. Free placement tests from maths and language publishers are designed to locate exactly this."
+        },
+        {
+          "question": "How long does it take to catch up in homeschool?",
+          "answerRichText": "Usually much less time than it took to fall behind. One-to-one teaching removes the waiting, transitions and class pacing that fill a school hour, so a term's classroom material often takes a few focused weeks — and confidence returning from a run of correct answers tends to accelerate it further."
+        },
+        {
+          "question": "Should I keep teaching at grade level while filling gaps?",
+          "answerRichText": "Not in cumulative subjects. Continuing at a level built on a missing prerequisite produces daily failure and does not close the gap. Pause new material in maths and reading, rebuild from the floor, and let content subjects like history and science run lightly in the background for a term."
+        },
+        {
+          "question": "Is my child behind or is something else going on?",
+          "answerRichText": [
+            "If rebuilding from a genuinely easy floor produces no acceleration after a sustained period, or content is secure one day and gone the next over months, that is worth a professional assessment rather than another curriculum. See also our guide to ",
+            {
+              "link": {
+                "ref": "article:teaching-reading-at-home",
+                "text": "teaching reading at home"
+              }
+            },
+            " for the reading-specific signals."
+          ]
+        }
+      ]
+    }
+  ]
+}

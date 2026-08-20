@@ -201,6 +201,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "And if the trouble is not the sequencing but a missing prerequisite further back, that is a different problem with a different fix — see ",
+        {
+          "link": {
+            "ref": "article:child-behind-grade-level",
+            "text": "when your child is behind"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {
