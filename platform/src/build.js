@@ -286,7 +286,16 @@ function build(opts = {}) {
   }));
 
   // páginas avulsas (privacy, contact, etc.) — content/pages.json
-  const injectEmail = (html) => String(html).replace(/\{\{email\}\}/g, site.contactEmail || '');
+  // Blocos condicionais de contato. Enquanto site.contactEmail estiver vazio, as
+  // páginas mostram a versão "ainda não temos endereço"; no minuto em que o e-mail
+  // for preenchido, o build troca as três páginas sozinho — sem reescrever texto.
+  //   {{#email}} ... {{/email}}   → só aparece COM e-mail
+  //   {{^email}} ... {{/email}}   → só aparece SEM e-mail
+  const hasEmail = Boolean(site.contactEmail);
+  const injectEmail = (html) => String(html)
+    .replace(/\{\{#email\}\}([\s\S]*?)\{\{\/email\}\}/g, (_, inner) => (hasEmail ? inner : ''))
+    .replace(/\{\{\^email\}\}([\s\S]*?)\{\{\/email\}\}/g, (_, inner) => (hasEmail ? '' : inner))
+    .replace(/\{\{email\}\}/g, site.contactEmail || '');
   for (const pg of pages) {
     writePage(`/${pg.slug}/`, T.simplePage({
       site, title: pg.title, path: `/${pg.slug}/`,

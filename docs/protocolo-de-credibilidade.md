@@ -190,3 +190,31 @@ verificado**.
 
 Com escopo declarado, um erro vira correção datada. Sem escopo declarado, um erro
 só já basta para queimar a credibilidade dos dois lados de uma vez.
+
+---
+
+## Quando o domínio e o e-mail existirem
+
+Uma única alteração destrava tudo. Em `platform/content/site.json`:
+
+```json
+"name": "<nome definitivo>",
+"baseUrl": "https://<dominio>",
+"contactEmail": "contact@<dominio>"
+```
+
+O build cuida do resto sozinho:
+
+- `baseUrl` corrige sitemap, RSS e todas as URLs canônicas
+- `contactEmail` **troca automaticamente o texto de quatro páginas** — Contato,
+  Sobre, Privacidade e Termos deixam de dizer "endereço em breve" e passam a
+  mostrar o e-mail real. Isso funciona pelos blocos condicionais
+  `{{#email}}…{{/email}}` (só com e-mail) e `{{^email}}…{{/email}}` (só sem),
+  processados em `build.js`. Nenhum texto precisa ser reescrito à mão.
+
+Ambos os estados foram testados: com e-mail preenchido as quatro páginas mostram
+o endereço e somem os avisos de pendência; sem e-mail acontece o inverso. Em
+nenhum dos dois casos sobra resíduo de template na página.
+
+**No Cloudflare, o e-mail é gratuito:** Email Routing encaminha `contact@` para o
+Gmail sem caixa postal paga. É o mesmo caminho já usado no GridDojo.
