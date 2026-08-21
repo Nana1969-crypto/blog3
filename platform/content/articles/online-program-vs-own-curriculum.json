@@ -1,0 +1,280 @@
+{
+  "id": "online-program-vs-own-curriculum",
+  "slug": "online-homeschool-program-vs-your-own-curriculum",
+  "clusterId": "cl_compare",
+  "title": "Online Programme, Umbrella School, or Your Own Curriculum?",
+  "dek": "These three are shopped as if they compete, and they do not — each sells you something different. Sorting out which one you are actually buying is worth more than any feature comparison, and it starts with the word \"accredited\".",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-19",
+  "updatedAt": "2026-08-19",
+  "intent": {
+    "primaryKeyword": "online homeschool program vs your own curriculum"
+  },
+  "seo": {
+    "metaTitle": "Online Programme vs Your Own Curriculum",
+    "metaDescription": "Online programmes, umbrella schools and your own curriculum sell three different things. What each buys, who it suits, and what accreditation really means."
+  },
+  "sources": [
+    {
+      "label": "Coalition for Responsible Home Education — homeschool umbrella schools",
+      "url": "https://crhe.org/guides/resources-for-homeschool-parents/support/homeschool-umbrella-schools/"
+    },
+    {
+      "label": "Time4Learning — do I need an accredited homeschool program?",
+      "url": "https://www.time4learning.com/blog/methods-tools-resources/do-i-need-accredited-homeschool-program/"
+    },
+    {
+      "label": "BJU Press — accredited homeschool programs",
+      "url": "https://blog.bjupress.com/blog/2021/05/24/homeschool-accreditation/"
+    },
+    {
+      "label": "Great Homeschool Conventions — finding the right homeschool programme",
+      "url": "https://greathomeschoolconventions.com/blog/programs-for-homeschooling"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "A family decides to homeschool, opens a browser, and within an hour is comparing an online academy, an umbrella school and a boxed curriculum in the same spreadsheet — as though they were three brands of the same product."
+    },
+    {
+      "type": "paragraph",
+      "richText": "They are not. Each sells something genuinely different, and a spreadsheet that lines them up by price is comparing a tuition bill, an administrative service and a stack of books. Working out which of the three things you actually need takes about fifteen minutes and saves considerably more than any discount code."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What each one actually sells"
+    },
+    {
+      "type": "table",
+      "caption": "The three options, and what your money is buying in each case.",
+      "headers": [
+        "Option",
+        "What you are buying",
+        "What you still have to do"
+      ],
+      "rows": [
+        [
+          "Online programme",
+          "Instruction — lessons delivered, work marked, progress tracked",
+          "Supervise, motivate, and handle anything the programme does not cover"
+        ],
+        [
+          "Umbrella school",
+          "Administrative and legal cover — enrolment, record keeping, sometimes a diploma",
+          "Choose and buy all of your own materials, and do all of the teaching"
+        ],
+        [
+          "Your own curriculum",
+          "Materials",
+          "Teach, plan, keep records, and satisfy your state's requirements yourself"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "The most common and most expensive misunderstanding is about umbrella schools. Many families enrol expecting curriculum and discover they have bought paperwork. As the Coalition for Responsible Home Education notes, umbrella schools typically do not provide curriculum or funding, and usually charge a few hundred dollars in tuition — you still source everything you teach from."
+    },
+    {
+      "type": "paragraph",
+      "richText": "This also means the three are not mutually exclusive. A very common arrangement is an umbrella school for the legal cover plus self-chosen curriculum for the teaching. A less common one is an online programme for the two subjects a parent cannot teach plus their own materials for everything else. Once you see them as separate purchases, mixing becomes obvious rather than clever."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The accreditation question, answered plainly"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is where families spend money they did not need to spend, because the word does a lot of marketing work and very little explaining."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The starting fact is the one least often stated: no U.S. state requires you to use an accredited homeschool programme. That is not our claim to make loudly on our own, so note who says it — ",
+        {
+          "link": {
+            "ref": "https://www.time4learning.com/blog/methods-tools-resources/do-i-need-accredited-homeschool-program/",
+            "text": "Time4Learning publishes it themselves"
+          }
+        },
+        ", and they sell an online programme. When a vendor tells you that you may not need the thing they are selling, that is worth reading carefully."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "Three qualifications matter, and they are the reason this is not a blanket \"ignore accreditation\":"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Some states do require affiliation with an accredited programme, or supervision by a state-certified teacher. This is a state-by-state question with real legal consequences, and it is the one thing on this page you must verify at your own state's published rules rather than take from any guide.",
+        "Accreditation of the school does not automatically extend to a homeschool student's diploma. Several accredited private schools running umbrella programmes do not confer their accreditation on the homeschooled students enrolled through them — worth asking directly, in writing, before enrolling for that reason.",
+        "It matters less for university admission than families fear. Homeschool graduates without accredited diplomas are admitted to selective universities routinely; admissions offices have handled homeschool applications for decades and generally weigh transcripts, test scores and coursework rather than a certificate."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "If accreditation genuinely matters in your situation — a state requirement, a specific sports eligibility rule, a military or overseas posting — it is worth paying for, and this is not an argument against it. The argument is against buying it by default, on a vague fear that a homeschool education will otherwise not count."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Who each option is genuinely for"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Every provider publishes a page describing who they are for. Almost none publishes who they are not for, which is the more useful half:"
+    },
+    {
+      "type": "table",
+      "caption": "Who each option suits, and who it does not.",
+      "headers": [
+        "Option",
+        "Genuinely good for",
+        "A poor fit when"
+      ],
+      "rows": [
+        [
+          "Online programme",
+          "A parent short on time or confidence; a teenager needing external structure and deadlines; families who move often and need continuity",
+          "You wanted flexibility — a programme with fixed pacing and logins reproduces most of what you left school to escape"
+        ],
+        [
+          "Umbrella school",
+          "Families in high-regulation states wanting the paperwork handled; teenagers who want a conventional diploma and transcript",
+          "You expected teaching materials, or you assumed enrolment removes your own record-keeping habits"
+        ],
+        [
+          "Your own curriculum",
+          "Families who want control, an uneven learner who needs different levels in different subjects, and anyone on a tight budget",
+          "You have very little planning time, or you are in your first year and do not yet know your own limits"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last row deserves the emphasis. Assembling your own is the cheapest option on paper and the most demanding in practice, and a first year is an expensive time to discover your planning capacity. We set out the order to decide in — teaching time first, price last — in our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The costs that do not appear in the comparison"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Each option has a cost that is real, predictable and almost never listed on the pricing page:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Online programmes cost flexibility. Fixed pacing, fixed sequence, and a login that records how far behind you are. For a family that left school because of pacing, this is the thing most likely to go wrong.",
+        "Online programmes also cost screen hours, which is a decision worth making deliberately rather than discovering in November.",
+        "Umbrella schools cost independence in a narrow but specific way: you take on their requirements and deadlines alongside your state's.",
+        "Your own curriculum costs planning time every single week, and the bill arrives in October rather than in August."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The money side has its own confusions — published cost figures for these three differ by an order of magnitude precisely because they are different products. We unpack why in ",
+        {
+          "link": {
+            "ref": "article:homeschool-cost",
+            "text": "how much homeschooling costs"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to decide in fifteen minutes"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Check your state's requirements first, at the state's own published rules. If affiliation with an accredited programme or teacher supervision is required where you live, that decides a large part of this for you.",
+        "Ask what you are short of: time, confidence, or money. Short of time or confidence points to an online programme. Short of money points to your own materials. Short of patience for paperwork points to an umbrella school.",
+        "Ask whether flexibility is the reason you are homeschooling. If it is, be careful with fixed-pace programmes — you may be buying back the problem.",
+        "Consider mixing before committing to one. An online course for the subject you cannot teach, your own materials for the rest, is a common and sensible arrangement.",
+        "Before enrolling anywhere for the diploma, ask in writing whether accreditation extends to homeschooled students enrolled through the programme."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Whichever you choose, keep your own records anyway. An umbrella school or online programme can close, change its terms, or lose your history, and a provider's transcript is not a substitute for knowing what your child actually did."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That habit takes five minutes a week and cannot be reconstructed later — our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-record-keeping",
+            "text": "homeschool record keeping"
+          }
+        },
+        " covers the minimum set worth keeping. And if you are choosing between these three because you are not sure you can teach a specific subject, it is worth reading ",
+        {
+          "link": {
+            "ref": "article:teaching-math-when-bad-at-math",
+            "text": "teaching maths when you were never good at it"
+          }
+        },
+        " first — the subject you fear is often the one you can outsource by the lesson rather than by the year."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Do I need an accredited homeschool program?",
+          "answerRichText": "In most cases no — no U.S. state requires one, a point Time4Learning publishes despite selling a programme. But some states require affiliation with an accredited programme or supervision by a certified teacher, so verify this at your own state's published rules before deciding either way."
+        },
+        {
+          "question": "What is an umbrella school?",
+          "answerRichText": "An organisation that enrols homeschooled students to provide administrative and legal cover, and sometimes a diploma. Per the Coalition for Responsible Home Education, umbrella schools typically do not provide curriculum or funding — you still choose, buy and teach all of your own materials."
+        },
+        {
+          "question": "Are online homeschool programs worth it?",
+          "answerRichText": "They are worth it when you are short of time or confidence, or when a teenager needs external structure and deadlines. They are a poor fit when flexibility was your reason for homeschooling, because fixed pacing and logins reproduce much of what families leave school to escape."
+        },
+        {
+          "question": "Can homeschoolers get into university without an accredited diploma?",
+          "answerRichText": "Routinely, yes. Admissions offices have handled homeschool applications for decades and generally weigh transcripts, coursework and test scores rather than a certificate. If a specific institution or programme in your situation requires accreditation, confirm that directly with them rather than assuming either way."
+        },
+        {
+          "question": "Can I combine an online program with my own curriculum?",
+          "answerRichText": [
+            "Yes, and it is common. An online course for the one or two subjects you cannot teach, with your own materials for everything else, gets you the instruction where you need it without buying fixed pacing for the whole week. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            " for deciding subject by subject."
+          ]
+        }
+      ]
+    }
+  ]
+}
