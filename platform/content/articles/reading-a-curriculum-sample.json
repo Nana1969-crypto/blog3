@@ -1,0 +1,295 @@
+{
+  "id": "reading-a-curriculum-sample",
+  "slug": "how-to-read-a-homeschool-curriculum-sample",
+  "clusterId": "cl_choosing",
+  "title": "How to Read a Curriculum Sample (It Was Chosen to Impress You)",
+  "dek": "Every guide tells you to download the sample. Almost none tells you that the publisher picked which lesson you get to see — and it is rarely the one that would have warned you. Here is how to read a sample against its own selection.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-22",
+  "updatedAt": "2026-08-22",
+  "intent": {
+    "primaryKeyword": "how to evaluate homeschool curriculum sample"
+  },
+  "seo": {
+    "metaTitle": "How to Read a Curriculum Sample",
+    "metaDescription": "The sample lesson was chosen by the publisher to impress you. What to check instead, which lesson to ask for, and what a sample can never tell you."
+  },
+  "sources": [
+    {
+      "label": "TheHomeSchoolMom — how to choose the best homeschool curriculum",
+      "url": "https://www.thehomeschoolmom.com/homeschooling-101/choose-best-homeschool-curriculum/"
+    },
+    {
+      "label": "Homeschool Connections — five steps to evaluate a homeschool curriculum",
+      "url": "https://homeschoolconnections.com/how-to-choose-homeschool-curriculum/"
+    },
+    {
+      "label": "TSHA — homeschool curriculum checklist, ten things to check",
+      "url": "https://www.tshanywhere.org/post/homeschool-curriculum-planning-checklist"
+    },
+    {
+      "label": "K12 Learning Store — how to choose a homeschool curriculum",
+      "url": "https://learningstore.k12.com/blogs/articles-and-guides/how-to-choose-a-homeschool-curriculum-a-complete-guide-for-parents"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Every guide to choosing curriculum, including ours, tells you to download the sample. Very few mention the obvious thing about samples: the publisher decided which pages you get."
+    },
+    {
+      "type": "paragraph",
+      "richText": "That is not a scandal — it is marketing working exactly as intended, and a publisher would be foolish to lead with their hardest week. But it means a sample read naively tells you what the publisher wanted you to conclude. Reading one properly means reading it against its own selection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Which lesson are you actually looking at?"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the first question and it takes ten seconds. Samples are overwhelmingly drawn from the opening weeks of a programme, where the pace is gentle, the review is generous, and the concepts are ones your child probably already half-knows."
+    },
+    {
+      "type": "figure",
+      "alt": "A rising difficulty curve across a school year of about 180 lessons, with the sample marked near the very start where the curve is still flat, and the point where most families struggle marked much later where the curve is steep.",
+      "caption": "Where samples come from, and where the year is actually decided.",
+      "svg": "<svg viewBox=\"0 0 600 260\" role=\"presentation\" focusable=\"false\">\n<style>.ax{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.lb{font-family:var(--font-ui);fill:var(--color-text);font-size:12px;font-weight:600}</style>\n<path d=\"M60 205 C 180 201, 300 175, 400 125 S 520 45, 555 35\" fill=\"none\" stroke=\"var(--color-accent)\" stroke-width=\"2.5\"/>\n<line x1=\"60\" y1=\"215\" x2=\"565\" y2=\"215\" stroke=\"var(--color-border)\"/>\n<line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"215\" stroke=\"var(--color-border)\"/>\n<circle cx=\"86\" cy=\"204\" r=\"6\" fill=\"var(--color-accent)\"/>\n<line x1=\"86\" y1=\"196\" x2=\"86\" y2=\"176\" stroke=\"var(--color-border)\"/>\n<text class=\"lb\" x=\"78\" y=\"150\">The sample</text>\n<text class=\"ax\" x=\"78\" y=\"166\">lesson 3 of 180</text>\n<circle cx=\"420\" cy=\"110\" r=\"6\" fill=\"none\" stroke=\"var(--color-accent)\" stroke-width=\"2.5\"/>\n<line x1=\"412\" y1=\"110\" x2=\"392\" y2=\"110\" stroke=\"var(--color-border)\"/>\n<text class=\"lb\" x=\"196\" y=\"106\" text-anchor=\"start\">Where families give up</text>\n<text class=\"ax\" x=\"196\" y=\"122\">around lesson 120, in February</text>\n<text class=\"ax\" x=\"4\" y=\"115\">difficulty</text>\n<text class=\"ax\" x=\"60\" y=\"233\">September</text>\n<text class=\"ax\" x=\"516\" y=\"233\">June</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": "So look for the lesson number, or the unit heading, and place it against the table of contents. A sample from lesson 3 of 180 has told you about the friendliest one percent of the year. If the publisher does not say which lesson it is, that is itself a small answer."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Email and ask for a sample from the middle — around lesson 90 to 120 of a 180-lesson year. Most publishers will send one, and how they respond is informative in its own right. A publisher confident in the whole book does not mind showing you the middle of it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Read the teacher's page before the student's page"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Parents open a sample and look at the child's page, because that is the part that looks like school. The teacher's page is far more diagnostic, because it is where the programme states its demands on you."
+    },
+    {
+      "type": "table",
+      "caption": "What to look for on the teacher's page, and what each tells you.",
+      "headers": [
+        "Look for",
+        "What it tells you"
+      ],
+      "rows": [
+        [
+          "A script, or bullet points, or nothing at all",
+          "How much you must invent. Nothing at all means the programme assumes you already know how to teach this"
+        ],
+        [
+          "A stated lesson time",
+          "Whether the publisher has thought about your day. Absence of a figure usually means the answer is uncomfortable"
+        ],
+        [
+          "Preparation listed separately from teaching",
+          "The real cost. A twenty-minute lesson with fifteen minutes of prep is a thirty-five-minute lesson"
+        ],
+        [
+          "A re-teaching path for when it does not land",
+          "Whether the programme has a plan for the ordinary case of a child not getting it first time"
+        ],
+        [
+          "Materials you must gather",
+          "How many October mornings will start with a missing item"
+        ]
+      ]
+    },
+    {
+      "type": "quote",
+      "richText": "Just fifteen minutes a day!",
+      "attribution": "the front of almost every homeschool catalogue"
+    },
+    {
+      "type": "paragraph",
+      "richText": "That claim is usually true of the child's writing time and usually silent about yours. When you time a sample lesson, time the whole thing: your reading of the teacher's notes, the gathering, the teaching, the marking. Compare that number, not the advertised one, against the hour you actually have."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Run it as a lesson, not as a document"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The most common mistake is reading a sample yourself, at the kitchen table, at nine in the evening, deciding it looks lovely, and buying it. You have evaluated the design. You have learned nothing about whether it works in your house."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Teach it as an actual lesson, to the actual child, at the time of day you would actually use it. Not on a Saturday when everyone is relaxed.",
+        "Time it with a clock, including your preparation and the marking. Write the number down before you decide anything.",
+        "Notice how many times your child needed you. That figure predicts your year more accurately than anything in the marketing.",
+        "Watch for the point where attention breaks. If it comes at minute nine of a twenty-minute lesson, the lesson is twenty minutes long only on paper.",
+        "Ask your child one question afterwards, and take the answer seriously: would you want to do this again tomorrow?"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "One sample lesson going badly is not a verdict — a bad morning contaminates any test. Run two or three sample lessons on different days before concluding anything, which is also why it is worth requesting the sample weeks before you plan to buy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The scope and sequence is the honest document"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The sample is a photograph; the scope and sequence is the map. It lists what is taught, in what order, across the whole year — and it is the document publishers write for other educators rather than for buyers, which is precisely why it is more candid."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Three things to check in it:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "How fast new concepts arrive. Count the genuinely new ideas in the first ten lessons and again in lessons 90 to 100. The ratio is the acceleration your child will meet in February.",
+        "Whether it assumes something you have not covered. This matters enormously if you are switching programmes, because two publishers sequence the same subject differently and the gap will not announce itself.",
+        "Where the review lives. Built into each lesson, or in occasional separate chapters — this is the spiral-versus-mastery question, visible at a glance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last point decides more about daily life than most families expect, and it is worth understanding before you compare anything — see our guide to ",
+        {
+          "link": {
+            "ref": "article:spiral-vs-mastery-math",
+            "text": "spiral and mastery sequencing"
+          }
+        },
+        ". If you are switching mid-year, the gap list you build from two tables of contents is the thing that prevents the switch from costing a term; we cover that in ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch curriculum"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a sample can never tell you"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Being honest about the limits of this exercise saves you from over-trusting a good result:"
+    },
+    {
+      "type": "table",
+      "caption": "The limits of any sample, and where to get the missing information.",
+      "headers": [
+        "A sample cannot show",
+        "Where to look instead"
+      ],
+      "rows": [
+        [
+          "Whether it stays workable for thirty-six weeks",
+          "Reviews from families two or three years in, not first-month enthusiasm"
+        ],
+        [
+          "Whether it accelerates faster than your child",
+          "The scope and sequence, comparing early and late lesson density"
+        ],
+        [
+          "What support exists when you are stuck in February",
+          "Ask the publisher a real question before buying and see how they answer"
+        ],
+        [
+          "The true annual cost",
+          "Whether workbooks are consumable, and per child — see our costs guide"
+        ],
+        [
+          "What the science and history levels teach",
+          "The sample for those specific levels, not this one"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last row is the one families most often skip and most often regret, because worldview does not distribute itself evenly across a publisher's range. Our guide to ",
+        {
+          "link": {
+            "ref": "article:secular-vs-christian-curriculum",
+            "text": "reading a curriculum's worldview"
+          }
+        },
+        " covers where to look, and the money side is unpacked in ",
+        {
+          "link": {
+            "ref": "article:homeschool-cost",
+            "text": "how much homeschooling costs"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "A useful habit: write down, before you open the sample, the two or three things this purchase must do. Then evaluate against that list rather than against how appealing the pages look. Samples are designed to be appealing; your list is designed to be true."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "None of this replaces deciding in the right order in the first place — teaching time first, price last. Our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        " sets that out, and the sample is the last check before you spend, not the first step of the decision."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I evaluate a homeschool curriculum sample?",
+          "answerRichText": "Find out which lesson it is first — most samples come from the opening weeks, where the pace is gentlest. Then read the teacher's page before the child's page, teach it as a real lesson at the time of day you would use it, and time the whole thing including your preparation and marking."
+        },
+        {
+          "question": "Can I ask a publisher for a different sample?",
+          "answerRichText": "Yes, and it is worth doing. Ask for a lesson from the middle of the year, around lesson 90 to 120 of 180. Most publishers will send one, and the way they respond tells you something about the support you would get later."
+        },
+        {
+          "question": "What is a scope and sequence and why does it matter?",
+          "answerRichText": "It is the publisher's list of what is taught and in what order across the whole year. Because it is written for educators rather than buyers, it is more candid than the sample — it shows how fast new concepts arrive, what prior knowledge is assumed, and where review lives."
+        },
+        {
+          "question": "My child liked the sample. Is that enough?",
+          "answerRichText": "It is a good sign and not a verdict. A sample cannot tell you whether the programme stays workable for thirty-six weeks, whether it accelerates faster than your child, or what support exists in February. Check the scope and sequence and look for reviews from families several years in."
+        },
+        {
+          "question": "Should I let my child try the sample?",
+          "answerRichText": [
+            "Yes — run it as a real lesson rather than reading it yourself. Note how many times they needed you and where their attention broke, then ask whether they would want to do it again tomorrow. Run two or three on different days, since one bad morning contaminates any single test. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            " for the wider decision."
+          ]
+        }
+      ]
+    }
+  ]
+}

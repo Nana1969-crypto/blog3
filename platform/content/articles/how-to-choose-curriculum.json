@@ -239,6 +239,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "One practical warning about that fourth question: the sample lesson you download was chosen by the publisher, and it is rarely the one that would have warned you. We cover how to read one properly in ",
+        {
+          "link": {
+            "ref": "article:reading-a-curriculum-sample",
+            "text": "how to read a curriculum sample"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {

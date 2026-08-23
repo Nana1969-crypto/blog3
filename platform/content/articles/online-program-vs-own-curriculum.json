@@ -249,6 +249,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "Whichever of the three you lean towards, the sample or trial you are shown was chosen to impress you. Our guide to ",
+        {
+          "link": {
+            "ref": "article:reading-a-curriculum-sample",
+            "text": "reading a curriculum sample"
+          }
+        },
+        " applies to trials as much as to printed samples."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {
