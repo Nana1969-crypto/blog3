@@ -1,0 +1,274 @@
+{
+  "id": "homeschool-high-school-transcript",
+  "slug": "homeschool-high-school-transcript",
+  "clusterId": "cl_situations",
+  "title": "Homeschooling High School: The Year You Also Become the Registrar",
+  "dek": "From grade nine, a second job quietly starts alongside the teaching — recording what counts as a credit, and why. The transcript itself takes an afternoon. The evidence behind it cannot be reconstructed in grade twelve.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-25",
+  "updatedAt": "2026-08-25",
+  "intent": {
+    "primaryKeyword": "homeschool high school transcript"
+  },
+  "seo": {
+    "metaTitle": "Homeschool High School and the Transcript",
+    "metaDescription": "What changes at grade nine, how credits are counted, what backs a transcript up, and why a self-reported document is answered with evidence."
+  },
+  "sources": [
+    {
+      "label": "Well-Trained Mind — how to assign high school credits",
+      "url": "https://welltrainedmind.com/a/how-to-assign-high-school-credits/"
+    },
+    {
+      "label": "7 Sisters Homeschool — homeschool high school transcript and earning credits",
+      "url": "https://www.7sistershomeschool.com/homeschool-high-school-transcript-how-to-earn-credits/"
+    },
+    {
+      "label": "Texas Home School Coalition — guide to high school transcripts",
+      "url": "https://thsc.org/homeschool-transcript-template/"
+    },
+    {
+      "label": "Homeschool Picks — homeschool high school transcripts, complete guide",
+      "url": "https://homeschoolpicks.com/grade-level-guides/homeschool-high-school-transcripts/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Nothing about your child changes on the first day of grade nine. What changes is that a second job starts, quietly, alongside the teaching — and most families do not notice it has started until three years later, when a university asks for a document they cannot honestly produce."
+    },
+    {
+      "type": "paragraph",
+      "richText": "For eight years you have been a teacher. From now on you are also a registrar: the person who decides what counted, records why, and can show the evidence. That job is not difficult. It is only impossible to do backwards."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The transcript is the easy part"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This surprises families who have been dreading it. A transcript is a one-page summary: student name, dates, course titles, grades, credit values, and a grade point average. Templates are free and plentiful, and building one takes an afternoon."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The difficulty is never the page. It is that the page is a claim, and a claim made in grade twelve about work done in grade nine is only as good as what you wrote down at the time."
+    },
+    {
+      "type": "figure",
+      "alt": "A four-year timeline from grade nine to grade twelve. Record keeping is marked as starting at grade nine and running continuously; a second marker shows most families starting in grade twelve, with the first three years shaded as unrecoverable.",
+      "caption": "Both families make a transcript. Only one of them can show what is behind it.",
+      "svg": "<svg viewBox=\"0 0 700 240\" role=\"presentation\" focusable=\"false\">\n<style>.g{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.lb{font-family:var(--font-ui);fill:var(--color-text);font-size:12px;font-weight:600}.n{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}</style>\n<text class=\"g\" x=\"150\" y=\"26\">Grade 9</text><text class=\"g\" x=\"260\" y=\"26\">Grade 10</text><text class=\"g\" x=\"370\" y=\"26\">Grade 11</text><text class=\"g\" x=\"480\" y=\"26\">Grade 12</text>\n<line x1=\"150\" y1=\"36\" x2=\"590\" y2=\"36\" stroke=\"var(--color-border)\"/>\n<text class=\"lb\" x=\"8\" y=\"74\">Recording</text><text class=\"n\" x=\"8\" y=\"90\">from year one</text>\n<rect x=\"150\" y=\"60\" width=\"440\" height=\"30\" rx=\"4\" fill=\"var(--color-accent)\"/>\n<text class=\"n\" x=\"150\" y=\"112\">Course descriptions, reading lists and grading basis, written as the work happened.</text>\n<text class=\"lb\" x=\"8\" y=\"164\">Starting in</text><text class=\"n\" x=\"8\" y=\"180\">grade 12</text>\n<rect x=\"150\" y=\"150\" width=\"330\" height=\"30\" rx=\"4\" fill=\"none\" stroke=\"var(--color-border)\" stroke-dasharray=\"5 4\"/>\n<rect x=\"480\" y=\"150\" width=\"110\" height=\"30\" rx=\"4\" fill=\"var(--color-accent)\"/>\n<text class=\"n\" x=\"150\" y=\"202\">Three years reconstructed from memory. The page looks the same and defends nothing.</text>\n</svg>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a credit actually is"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Nobody hands you the definition, so families invent one and then worry it is wrong. The convention used across homeschool guidance is time-based and simpler than expected:"
+    },
+    {
+      "type": "table",
+      "caption": "How credits are conventionally counted, per Well-Trained Mind and 7 Sisters Homeschool.",
+      "headers": [
+        "What the student did",
+        "Credit value",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Roughly 120 to 150 hours of study on one subject",
+          "1.0 credit",
+          "The standard convention; a full-year course"
+        ],
+        [
+          "A half-year course, or about half those hours",
+          "0.5 credit",
+          "Common for electives, health, or a semester of economics"
+        ],
+        [
+          "A three to five credit-hour college course",
+          "1.0 credit",
+          "Dual enrolment converts upward — a single college semester usually counts as a full high school credit"
+        ],
+        [
+          "Sustained work with no course attached",
+          "Usually 0.5 to 1.0",
+          "A part-time job, a serious instrument, competitive sport — legitimate if you document hours and content"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "These are widely used conventions, not rules issued by an authority, and they are not uniform. Your state may set expectations of its own, and individual universities publish their own requirements for homeschool applicants. Confirm both against their own published pages before you finalise anything — this page is a starting point, not a standard."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The practical consequence is that you should count hours from the start of grade nine. Not precisely, not to the minute — a weekly line in the same record you already keep is enough. It converts an anxious estimate into a defensible figure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The document behind the document"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A transcript asserts that a student completed English 9 and earned a B. What makes that assertion credible is a second layer that most families never build, and that takes ten minutes per course if written while the course is running."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A course description — three or four sentences on what was covered and how it was taught. This is what an admissions officer reads when a course title is unfamiliar.",
+        "The materials used. Titles of textbooks, programmes and the main books read. This is the reading list you will otherwise try to remember four years later.",
+        "The grading basis. What the grade was calculated from — tests, written work, a portfolio, a final project. A grade with no stated basis is an opinion.",
+        "Hours or weeks, roughly. Enough to support the credit value you assigned.",
+        "Anything externally verified — a test score, a dual enrolment grade, an outside class, a certificate."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "None of this is new work if you already keep a light weekly record; it is the same habit, continued, with the course as the unit instead of the day. Our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-record-keeping",
+            "text": "homeschool record keeping"
+          }
+        },
+        " sets out the minimum set, and grade nine is the moment that minimum stops being optional."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The honest problem: you are grading your own child"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Families feel this discomfort and usually respond by making the transcript look more official — a fancier template, a school-sounding name, a seal. That addresses the wrong thing. Admissions offices have read homeschool transcripts for decades and are perfectly aware that a parent produced this one."
+    },
+    {
+      "type": "quote",
+      "richText": "A homeschool transcript works when it shows credit totals, grades and course rigor in a way that matches college prep expectations.",
+      "attribution": "Homeschool Picks, guide to homeschool high school transcripts"
+    },
+    {
+      "type": "paragraph",
+      "richText": "What answers the self-reporting problem is not presentation. It is anything about the record that someone other than you can confirm:"
+    },
+    {
+      "type": "table",
+      "caption": "External verification points, roughly in order of how much weight they add.",
+      "headers": [
+        "Verification",
+        "What it demonstrates"
+      ],
+      "rows": [
+        [
+          "Dual enrolment at a community college",
+          "A grade awarded by an institution, in a real classroom, on a real transcript"
+        ],
+        [
+          "Standardised test scores",
+          "A comparable measure, useful precisely because it is not from you"
+        ],
+        [
+          "Outside classes, co-op courses, online courses with a teacher",
+          "Someone else assessed the work"
+        ],
+        [
+          "Competitions, portfolios, published or performed work",
+          "Evidence that exists independently of any grade"
+        ],
+        [
+          "A detailed, honest course description",
+          "Not external, but it shows the rigour a bare course title hides"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "One dual enrolment course in grade eleven does more for a transcript's credibility than any amount of formatting, and it usually converts to a full high school credit as well. If the budget allows one thing, that is often the thing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do in each year"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Grade nine: start the course-level record on day one. Write the description while the course is fresh, not at year end. Check whether your state requires anything additional of high school students specifically.",
+        "Grade ten: look up the published admissions requirements of two or three universities your child might plausibly apply to, even if that changes later. Requirements for homeschool applicants are usually stated openly, and knowing them early is much cheaper than discovering them late.",
+        "Grade eleven: add at least one externally verified element — dual enrolment, an outside class, a test. This is also the year to draft the transcript so that gaps appear while there is still time to fill them.",
+        "Grade twelve: finalise, proofread, and prepare the course descriptions as a companion document. By now this should be assembly, not archaeology."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One more thing worth saying plainly, because it is the fear underneath the whole question: homeschooled students without accredited diplomas are admitted to selective universities routinely. Accreditation is far less decisive than families expect, and we cover what it does and does not buy in our guide to ",
+        {
+          "link": {
+            "ref": "article:online-program-vs-own-curriculum",
+            "text": "online programmes, umbrella schools and your own curriculum"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The teenage years also change the daily shape of teaching — more independent work, more outside classes, more hours. If you are building towards that, the independence progression in our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschooling-while-working",
+            "text": "homeschooling while working"
+          }
+        },
+        " is the same skill, and it matters more here than anywhere else."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I make a homeschool high school transcript?",
+          "answerRichText": "The document itself is a one-page summary — student name, dates, course titles, grades, credit values and GPA — and free templates are plentiful. The work that matters is the record behind it: course descriptions, materials used and grading basis, written while each course is running."
+        },
+        {
+          "question": "How many hours is one high school credit?",
+          "answerRichText": "The convention used across homeschool guidance is roughly 120 to 150 hours of study for one full credit, with a half-year course counting 0.5. A three to five credit-hour college course typically converts to one full high school credit. Confirm against your state and your target universities, since these are conventions rather than rules."
+        },
+        {
+          "question": "Do colleges accept homeschool transcripts?",
+          "answerRichText": "Yes, routinely. Admissions offices have handled homeschool applications for decades. What strengthens a transcript is not formatting but externally verifiable elements — dual enrolment grades, test scores, outside classes — plus honest course descriptions that show the rigour a bare course title hides."
+        },
+        {
+          "question": "When should I start keeping high school records?",
+          "answerRichText": [
+            "Day one of grade nine. The transcript takes an afternoon whenever you make it, but the evidence behind it cannot be reconstructed — a course description written three years later is a memory, not a record. See our guide to ",
+            {
+              "link": {
+                "ref": "article:homeschool-record-keeping",
+                "text": "record keeping"
+              }
+            },
+            " for the habit that makes this cost minutes a week."
+          ]
+        },
+        {
+          "question": "Can activities outside academics count for credit?",
+          "answerRichText": "Often yes — a serious instrument, competitive sport, or substantial part-time work can carry 0.5 to 1.0 credit if you document the hours and the content honestly. The test is whether you could describe what was learned and show roughly how much time it took, not whether it looks like a school subject."
+        }
+      ]
+    }
+  ]
+}
