@@ -1,0 +1,71 @@
+{
+  "id": "homeschool-coop-worth-it",
+  "slug": "are-homeschool-co-ops-worth-it",
+  "clusterId": "cl_compare",
+  "title": "Are Homeschool Co-ops Worth It? Four Different Things Share the Name",
+  "dek": "Most disappointment with co-ops comes from joining one kind while expecting another. The four arrangements differ in what they cost, what they give, and who ends up teaching — and only one of them is cheap in the way families assume.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-26",
+  "updatedAt": "2026-08-26",
+  "intent": { "primaryKeyword": "are homeschool co-ops worth it" },
+  "seo": {
+    "metaTitle": "Are Homeschool Co-ops Worth It?",
+    "metaDescription": "The four arrangements that share the name co-op, what each one really costs in money and in your week, and the questions to ask before committing a year."
+  },
+  "sources": [
+    { "label": "iHomeschool Network — pros and cons of joining a homeschool co-op", "url": "https://ihomeschoolnetwork.com/pros-cons-homeschool-co-op/" },
+    { "label": "Homeschool Hive — are homeschool co-ops worth it, honest pros and cons", "url": "https://homeschoolhive.co/blog/are-homeschool-co-ops-worth-it" },
+    { "label": "Simple Homeschool — what to consider when considering a co-op", "url": "https://simplehomeschool.net/homeschool-co-op/" },
+    { "label": "Homeschool Picks — co-op and group learning options", "url": "https://homeschoolpicks.com/how-to-homeschool/homeschool-coop-group-learning-options/" }
+  ],
+  "body": [
+    { "type": "paragraph", "richText": "A family joins a co-op hoping their child will make friends, and finds themselves teaching a class of eleven-year-olds every Tuesday. Another joins for the academic classes and discovers it is mostly crafts and park days. Both were told they were joining \"a co-op\", and both were." },
+    { "type": "paragraph", "richText": "The word covers at least four different arrangements. They cost different things, deliver different things, and fail in different ways. Almost all co-op disappointment comes from joining one and expecting another, which makes sorting them out the whole job." },
+    { "type": "heading", "level": 2, "text": "The four arrangements" },
+    { "type": "table", "caption": "What each kind of co-op asks for and what it delivers.", "headers": ["Kind", "What you pay", "What you get", "Fails when"], "rows": [
+      ["Volunteer academic co-op", "Low fees, high time — parents teach or assist", "Real classes, strong community, structure", "You did not want to be a teacher of other people's children"],
+      ["Paid-tutor co-op or university-model school", "Higher fees, low time", "Instruction from someone else, often for the subjects you cannot teach", "The budget stops working, or the pacing gets rigid"],
+      ["Enrichment group", "Modest fees, modest time", "Art, music, PE, science demonstrations — the extras that never happen at home", "You expected academics and got crafts"],
+      ["Support or park-day group", "Almost nothing", "Adults who understand your life; children who see each other weekly", "You needed teaching and this was never going to teach"]
+    ] },
+    { "type": "figure", "alt": "A chart with money along the horizontal axis and parent time along the vertical axis, placing four kinds of co-op: support groups at low cost and low time, enrichment groups in the middle, volunteer academic co-ops at low money and high time, and paid-tutor co-ops at high money and low time.", "caption": "The two currencies. Every co-op charges in one of them, and the volunteer kind charges in the one families forget to count.", "svg": "<svg viewBox=\"0 0 620 340\" role=\"presentation\" focusable=\"false\">\n<style>.ax{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px;font-weight:600;letter-spacing:.03em}.n{font-family:var(--font-ui);fill:var(--color-text);font-size:12px;font-weight:600}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px}</style>\n<line x1=\"120\" y1=\"290\" x2=\"590\" y2=\"290\" stroke=\"var(--color-border)\"/>\n<line x1=\"120\" y1=\"30\" x2=\"120\" y2=\"290\" stroke=\"var(--color-border)\"/>\n<text class=\"ax\" x=\"120\" y=\"312\">LESS MONEY</text><text class=\"ax\" x=\"505\" y=\"312\">MORE MONEY</text>\n<text class=\"ax\" x=\"8\" y=\"40\">MORE OF</text><text class=\"ax\" x=\"8\" y=\"54\">YOUR TIME</text>\n<text class=\"ax\" x=\"8\" y=\"278\">LESS OF</text><text class=\"ax\" x=\"8\" y=\"292\">YOUR TIME</text>\n<circle cx=\"185\" cy=\"78\" r=\"9\" fill=\"var(--color-accent)\"/>\n<text class=\"n\" x=\"204\" y=\"74\">Volunteer academic co-op</text>\n<text class=\"s\" x=\"204\" y=\"90\">cheap in fees, expensive in Tuesdays</text>\n<circle cx=\"330\" cy=\"170\" r=\"9\" fill=\"var(--color-accent)\" opacity=\"0.6\"/>\n<text class=\"n\" x=\"349\" y=\"166\">Enrichment group</text>\n<text class=\"s\" x=\"349\" y=\"182\">art, music, PE — the extras</text>\n<circle cx=\"175\" cy=\"252\" r=\"9\" fill=\"var(--color-accent)\" opacity=\"0.35\"/>\n<text class=\"n\" x=\"194\" y=\"248\">Support or park-day group</text>\n<text class=\"s\" x=\"194\" y=\"264\">community, no teaching</text>\n<circle cx=\"505\" cy=\"236\" r=\"9\" fill=\"none\" stroke=\"var(--color-accent)\" stroke-width=\"2.5\"/>\n<text class=\"n\" x=\"350\" y=\"224\" text-anchor=\"start\">Paid-tutor co-op</text>\n<text class=\"s\" x=\"350\" y=\"240\">money instead of hours</text>\n</svg>" },
+    { "type": "callout", "variant": "warn", "richText": "The volunteer academic co-op is the one most often described as the affordable option, and in fees it is — commonly around a hundred to a hundred and fifty dollars a year. What it actually costs is a teaching job. If you left a classroom behind partly because you did not want to manage a group of children, read that row twice." },
+    { "type": "heading", "level": 2, "text": "The currency nobody counts" },
+    { "type": "paragraph", "richText": "Ask what a co-op costs and you will be told a fee. The fee is rarely the expensive part. What you are actually committing is a fixed weekday, every week, for a term or a year — plus preparation if you teach, plus the drive, plus the recovery afternoon that most families do not plan for and quietly lose anyway." },
+    { "type": "paragraph", "richText": "That matters more for homeschoolers than it would for anyone else, because the fixed day is taken directly out of the flexibility that most families left school to get. You cannot move co-op day to go to the museum on a quiet Thursday, and skipping it affects other people." },
+    { "type": "paragraph", "richText": [ "This is a real trade rather than a hidden catch, and it is worth making deliberately. If your week is already tight, our guide to ", { "link": { "ref": "article:homeschool-schedule", "text": "building a schedule that survives" } }, " is worth reading first — a co-op fits comfortably into a week with slack in it and painfully into one without." ] },
+    { "type": "heading", "level": 2, "text": "Match the reason to the kind" },
+    { "type": "paragraph", "richText": "Every guide tells you to know why you are joining. Here is the useful version of that advice — the reason points at a specific kind, and the mismatches are predictable:" },
+    { "type": "table", "caption": "What to join, given what you actually want.", "headers": ["If your reason is…", "Look for", "Avoid"], "rows": [
+      ["My child needs regular friends", "Any kind that meets weekly with the same families", "One-off meetups and drop-in events — repetition is what builds friendship"],
+      ["I cannot teach chemistry or Latin", "Paid-tutor co-op, or an outside class", "A volunteer co-op, unless a parent there genuinely knows the subject"],
+      ["We never get to art, music or PE", "Enrichment group", "Academic co-ops, which will add homework you did not want"],
+      ["I need structure and accountability", "Volunteer academic co-op", "Park-day groups, which impose nothing"],
+      ["I am isolated as a parent", "Support group, or any co-op with real adult time", "Drop-off programmes, where you never meet anyone"],
+      ["My teenager needs outside grades", "Paid-tutor co-op or dual enrolment", "Anything that will not produce an assessment someone else made"]
+    ] },
+    { "type": "paragraph", "richText": [ "That last row connects to something families discover late: from grade nine, work assessed by someone other than you carries weight a parent-issued grade cannot. We cover why in our guide to ", { "link": { "ref": "article:homeschool-high-school-transcript", "text": "homeschooling high school and the transcript" } }, "." ] },
+    { "type": "heading", "level": 2, "text": "Questions to ask before you commit a year" },
+    { "type": "list", "ordered": true, "items": [
+      "What exactly is required of me? Teaching, assisting, sitting in the building, or nothing? Ask for the number of hours, not the description.",
+      "What happens if we miss a week — illness, travel, a bad month? A group that treats absence as betrayal will make a hard year harder.",
+      "Who teaches, and what happens when a parent-teacher drops out mid-term? Volunteer co-ops run on goodwill, and goodwill has a failure mode.",
+      "Is there homework, and how much? Academic co-ops import a second set of deadlines into a week you had designed yourself.",
+      "What is the statement of faith or the membership expectation, if any? Many co-ops have one; it is easier to read it now than to discover it in November.",
+      "Can we visit once before joining? A single morning tells you more than any description, and a group unwilling to be visited has told you something."
+    ] },
+    { "type": "callout", "variant": "tip", "richText": "Ask the last question first. Almost every co-op will let a family visit, and twenty minutes in the room answers most of the others — whether the children are engaged, whether the adults look exhausted, whether it is the thing you pictured." },
+    { "type": "heading", "level": 2, "text": "When not to join, and when to leave" },
+    { "type": "paragraph", "richText": "Two honest cases, since almost nothing written about co-ops mentions either." },
+    { "type": "paragraph", "richText": "Do not join in your first term of homeschooling, if you can help it. You do not yet know your own capacity, and a fixed weekly commitment made in September by a family that has never homeschooled is a promise made by someone who does not exist yet. Wait a term and you will choose better." },
+    { "type": "paragraph", "richText": [ "And leave when the arithmetic stops working. A co-op that consumes Tuesday, Tuesday evening's preparation and Wednesday morning's recovery is spending three days of a five-day week, and it should be delivering something worth three days. If it is not, leaving is a legitimate decision rather than a failure — the same logic we apply to ", { "link": { "ref": "article:when-to-switch-curriculum", "text": "changing curriculum" } }, ", and for the same reason: sunk cost is not a plan." ] },
+    { "type": "paragraph", "richText": [ "Where co-ops genuinely earn their place is the thing they do that nothing else does cheaply: repeating, structured contact with the same people, week after week, for both the child and the adult. That is the variable that matters most in the research on homeschool socialisation, and we look at what that evidence can and cannot support in our guide to ", { "link": { "ref": "article:homeschool-socialization", "text": "homeschool socialization" } }, "." ] },
+    { "type": "faq", "items": [
+      { "question": "Are homeschool co-ops worth it?", "answerRichText": "It depends which kind you join and why. A co-op is worth it when the kind matches the reason — a paid-tutor co-op for a subject you cannot teach, an enrichment group for the extras, a volunteer academic co-op for structure and community. Most disappointment comes from a mismatch rather than from a bad group." },
+      { "question": "How much does a homeschool co-op cost?", "answerRichText": "Volunteer co-ops commonly run around a hundred to a hundred and fifty dollars a year, though this varies with facility rental and supplies. Paid-tutor co-ops cost considerably more. The larger cost in the volunteer model is not money — it is a fixed weekday plus preparation, every week." },
+      { "question": "Do parents have to teach at a homeschool co-op?", "answerRichText": "In volunteer co-ops, usually yes — parents teach or assist as a condition of membership. In paid-tutor co-ops, usually not; you pay fees instead. Ask for the number of required hours rather than a description, because \"a little help\" means different things in different groups." },
+      { "question": "Should I join a co-op in my first year of homeschooling?", "answerRichText": [ "Preferably not in the first term. A weekly commitment made before you know your own capacity is a promise from a version of your family that does not exist yet. Wait a term, learn what your week actually holds, then choose — see our guide to ", { "link": { "ref": "article:homeschool-schedule", "text": "building a schedule that survives" } }, "." ] },
+      { "question": "What should I ask before joining a co-op?", "answerRichText": "Ask how many hours are required of you, what happens when you miss a week, whether there is homework, what the membership expectations or statement of faith are, and whether you can visit once before joining. Visit first if you can — a morning in the room answers most of the other questions." }
+    ] }
+  ]
+}

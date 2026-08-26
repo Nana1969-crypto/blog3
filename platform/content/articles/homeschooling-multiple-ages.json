@@ -7,67 +7,269 @@
   "authorId": "author_team",
   "publishedAt": "2026-08-16",
   "updatedAt": "2026-08-16",
-  "intent": { "primaryKeyword": "homeschooling multiple ages" },
+  "intent": {
+    "primaryKeyword": "homeschooling multiple ages"
+  },
   "seo": {
     "metaTitle": "Homeschooling Multiple Ages at Once",
     "metaDescription": "Which subjects combine across ages and which cannot, how to run a morning basket and rotations, and what to do with a toddler while you teach."
   },
   "sources": [
-    { "label": "Raising Arrows — how to homeschool multiple ages", "url": "https://raisingarrows.net/how-to-homeschool-multiple-ages/" },
-    { "label": "My Homeschool — homeschooling multiple ages and combining grades", "url": "https://myhomeschool.com/homeschooling/resources/multiple-ages/" },
-    { "label": "Lamp and Light Living — a simple daily rhythm for the whole family", "url": "https://www.lampandlightliving.com/post/homeschool-multiple-ages" }
+    {
+      "label": "Raising Arrows — how to homeschool multiple ages",
+      "url": "https://raisingarrows.net/how-to-homeschool-multiple-ages/"
+    },
+    {
+      "label": "My Homeschool — homeschooling multiple ages and combining grades",
+      "url": "https://myhomeschool.com/homeschooling/resources/multiple-ages/"
+    },
+    {
+      "label": "Lamp and Light Living — a simple daily rhythm for the whole family",
+      "url": "https://www.lampandlightliving.com/post/homeschool-multiple-ages"
+    }
   ],
   "body": [
-    { "type": "paragraph", "richText": "The mistake that sinks families with several children is treating each child as a separate school: four children, four full timetables, four sets of everything. Nobody can teach that, and the attempt produces a parent moving between children so fast that none of them gets a whole thought." },
-    { "type": "paragraph", "richText": "The families who make this sustainable have all made the same structural decision — combine everything that can be combined, and reserve one-to-one time only for the things that genuinely cannot." },
-    { "type": "heading", "level": 2, "text": "What combines and what does not" },
-    { "type": "paragraph", "richText": "The dividing line is whether a subject is sequential. Skills that build strictly on the previous step cannot be taught to a nine-year-old and a five-year-old at once. Content subjects can, because everyone can meet the Roman Empire at their own depth." },
-    { "type": "table", "caption": "Which subjects can be taught together across ages, and which cannot.", "headers": ["Subject", "Combine?", "How"], "rows": [
-      ["Maths", "No", "Strictly sequential. Separate levels, one-to-one, always"],
-      ["Learning to read", "No", "Sequential and needs your full attention. Short individual sessions"],
-      ["History", "Yes", "Same period for everyone; older children read and write more about it"],
-      ["Science", "Mostly", "Same topic and same investigation; older children measure, record and explain in more depth"],
-      ["Literature and read-alouds", "Yes", "Read to everyone at the level of the oldest — younger children absorb far more than expected"],
-      ["Art, music, geography, nature study", "Yes", "Same activity, different expectations of the output"],
-      ["Writing", "Partly", "Same topic, radically different requirements — one dictates a sentence while another writes an essay"],
-      ["Spelling and grammar", "No", "Sequential, though the sessions are short"]
-    ] },
-    { "type": "callout", "variant": "info", "richText": "Roughly speaking, maths and literacy stay individual and almost everything else combines. That single decision converts six timetables into two individual subjects per child plus one shared block — which is a day a person can actually deliver." },
-    { "type": "heading", "level": 2, "text": "The shape of the day" },
-    { "type": "paragraph", "richText": "A structure that works across many family sizes, in this order:" },
-    { "type": "list", "ordered": true, "items": [
-      "Everyone together first, for thirty to sixty minutes. Read-aloud, the shared subject on today's loop, memory work, a poem. Starting together sets the tone and gets the combinable subjects done before the day erodes.",
-      "Rotations for the individual subjects. Each child gets you for a short block on maths or reading while the others do independent work. Youngest first — their attention is the scarcest resource and they cannot wait.",
-      "Independent work while you rotate, set up in advance so nobody needs you to start.",
-      "A shared afternoon activity, or nothing at all. Most families are finished by early afternoon and that is correct, not a failure."
-    ] },
-    { "type": "callout", "variant": "tip", "richText": "Teach the older children to start their independent work while you are with a younger one, and make interrupting a rotation a genuine rule with a genuine exception list. A rotation that is interrupted four times is not a rotation." },
-    { "type": "heading", "level": 2, "text": "The toddler problem" },
-    { "type": "paragraph", "richText": "This is the real obstacle and it deserves more than a cheerful suggestion. A two-year-old cannot be reasoned into leaving you alone for forty minutes, and no schedule dissolves that." },
-    { "type": "paragraph", "richText": "What actually helps is treating the toddler as a person with a plan rather than an interruption to be managed:" },
-    { "type": "list", "ordered": false, "items": [
-      "Teach during the nap, if there is one, and put the hardest one-to-one subject there. Guard it ruthlessly.",
-      "Keep a small set of activities that only appear during school time. Their novelty is the entire mechanism, so they must not be available at other times.",
-      "Include the toddler in the together block. They will absorb some of it and, more importantly, they have been with you before you become unavailable.",
-      "Give them fifteen minutes of undivided attention immediately before a rotation. Attention paid in advance is cheaper than attention extracted in the middle.",
-      "Use older siblings on a short rota, briefly and by arrangement rather than by default — one twenty-minute turn each, not open-ended childcare."
-    ] },
-    { "type": "callout", "variant": "warn", "richText": "That last point has a limit worth naming. An older child who is routinely responsible for younger siblings during their own school hours is paying for the arrangement with their education. Short, defined, reciprocated turns are reasonable; standing childcare is not." },
-    { "type": "heading", "level": 2, "text": "Combining without shortchanging anyone" },
-    { "type": "paragraph", "richText": "The fair objection to combined subjects is that someone gets the wrong level. The answer is to keep the input shared and vary the output:" },
-    { "type": "table", "caption": "One shared history lesson, four different expectations.", "headers": ["Age", "Same input", "Different output"], "rows": [
-      ["5", "Listens to the read-aloud", "Draws a picture and tells you one thing about it"],
-      ["8", "Listens to the read-aloud", "Narrates it back orally; you scribe two or three sentences"],
-      ["11", "Listens, plus own reading on the topic", "Writes a paragraph and marks the place on a map"],
-      ["14", "Listens, plus a harder source", "Writes an essay comparing two accounts, or presents a case"]
-    ] },
-    { "type": "paragraph", "richText": [ "The younger children get exposure well above their reading level, which is exactly the benefit read-alouds deliver, and the older ones do genuinely age-appropriate work. Narration is the tool that makes this scale — see our guide to ", { "link": { "ref": "article:teaching-writing-at-home", "text": "teaching writing at home" } }, " for how to run it at each level." ] },
-    { "type": "paragraph", "richText": [ "Put the shared subjects on a loop rather than fixed days, so a difficult week slows the rotation instead of deleting science for a fortnight — our guide to ", { "link": { "ref": "article:homeschool-schedule", "text": "building a schedule that survives" } }, " covers the mechanics. And if you are also working, the independence progression in our guide to ", { "link": { "ref": "article:homeschooling-while-working", "text": "homeschooling while working" } }, " is what makes the rotations possible at all." ] },
-    { "type": "faq", "items": [
-      { "question": "Can you teach multiple ages together in homeschool?", "answerRichText": "Yes for content subjects — history, science, literature, art, geography — where everyone shares the same input and produces different output by age. No for sequential skills: maths, learning to read, spelling and grammar need individual instruction at each child's level." },
-      { "question": "How do you homeschool with a toddler around?", "answerRichText": "Teach the hardest one-to-one subject during the nap, keep a set of activities that appear only during school time, include them in the group block, and give fifteen minutes of undivided attention immediately before a rotation. Attention paid in advance is cheaper than attention extracted mid-lesson." },
-      { "question": "What is a morning basket?", "answerRichText": "The shared block that starts the day — read-aloud, memory work, poetry, and whichever combined subject is next on your loop — done with all the children together before you split into individual rotations. It gets the combinable subjects done before the day erodes." },
-      { "question": "Should older children help teach younger ones?", "answerRichText": [ "Short, defined, reciprocated turns are reasonable and often good for both. Standing responsibility for childcare during their own school hours is not — the older child ends up paying for the arrangement with their education. See our ", { "link": { "ref": "article:homeschool-schedule", "text": "scheduling guide" } }, " for structuring rotations instead." ] }
-    ] }
+    {
+      "type": "paragraph",
+      "richText": "The mistake that sinks families with several children is treating each child as a separate school: four children, four full timetables, four sets of everything. Nobody can teach that, and the attempt produces a parent moving between children so fast that none of them gets a whole thought."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The families who make this sustainable have all made the same structural decision — combine everything that can be combined, and reserve one-to-one time only for the things that genuinely cannot."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What combines and what does not"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The dividing line is whether a subject is sequential. Skills that build strictly on the previous step cannot be taught to a nine-year-old and a five-year-old at once. Content subjects can, because everyone can meet the Roman Empire at their own depth."
+    },
+    {
+      "type": "table",
+      "caption": "Which subjects can be taught together across ages, and which cannot.",
+      "headers": [
+        "Subject",
+        "Combine?",
+        "How"
+      ],
+      "rows": [
+        [
+          "Maths",
+          "No",
+          "Strictly sequential. Separate levels, one-to-one, always"
+        ],
+        [
+          "Learning to read",
+          "No",
+          "Sequential and needs your full attention. Short individual sessions"
+        ],
+        [
+          "History",
+          "Yes",
+          "Same period for everyone; older children read and write more about it"
+        ],
+        [
+          "Science",
+          "Mostly",
+          "Same topic and same investigation; older children measure, record and explain in more depth"
+        ],
+        [
+          "Literature and read-alouds",
+          "Yes",
+          "Read to everyone at the level of the oldest — younger children absorb far more than expected"
+        ],
+        [
+          "Art, music, geography, nature study",
+          "Yes",
+          "Same activity, different expectations of the output"
+        ],
+        [
+          "Writing",
+          "Partly",
+          "Same topic, radically different requirements — one dictates a sentence while another writes an essay"
+        ],
+        [
+          "Spelling and grammar",
+          "No",
+          "Sequential, though the sessions are short"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "Roughly speaking, maths and literacy stay individual and almost everything else combines. That single decision converts six timetables into two individual subjects per child plus one shared block — which is a day a person can actually deliver."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The shape of the day"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A structure that works across many family sizes, in this order:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Everyone together first, for thirty to sixty minutes. Read-aloud, the shared subject on today's loop, memory work, a poem. Starting together sets the tone and gets the combinable subjects done before the day erodes.",
+        "Rotations for the individual subjects. Each child gets you for a short block on maths or reading while the others do independent work. Youngest first — their attention is the scarcest resource and they cannot wait.",
+        "Independent work while you rotate, set up in advance so nobody needs you to start.",
+        "A shared afternoon activity, or nothing at all. Most families are finished by early afternoon and that is correct, not a failure."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Teach the older children to start their independent work while you are with a younger one, and make interrupting a rotation a genuine rule with a genuine exception list. A rotation that is interrupted four times is not a rotation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The toddler problem"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is the real obstacle and it deserves more than a cheerful suggestion. A two-year-old cannot be reasoned into leaving you alone for forty minutes, and no schedule dissolves that."
+    },
+    {
+      "type": "paragraph",
+      "richText": "What actually helps is treating the toddler as a person with a plan rather than an interruption to be managed:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Teach during the nap, if there is one, and put the hardest one-to-one subject there. Guard it ruthlessly.",
+        "Keep a small set of activities that only appear during school time. Their novelty is the entire mechanism, so they must not be available at other times.",
+        "Include the toddler in the together block. They will absorb some of it and, more importantly, they have been with you before you become unavailable.",
+        "Give them fifteen minutes of undivided attention immediately before a rotation. Attention paid in advance is cheaper than attention extracted in the middle.",
+        "Use older siblings on a short rota, briefly and by arrangement rather than by default — one twenty-minute turn each, not open-ended childcare."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "That last point has a limit worth naming. An older child who is routinely responsible for younger siblings during their own school hours is paying for the arrangement with their education. Short, defined, reciprocated turns are reasonable; standing childcare is not."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Combining without shortchanging anyone"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The fair objection to combined subjects is that someone gets the wrong level. The answer is to keep the input shared and vary the output:"
+    },
+    {
+      "type": "table",
+      "caption": "One shared history lesson, four different expectations.",
+      "headers": [
+        "Age",
+        "Same input",
+        "Different output"
+      ],
+      "rows": [
+        [
+          "5",
+          "Listens to the read-aloud",
+          "Draws a picture and tells you one thing about it"
+        ],
+        [
+          "8",
+          "Listens to the read-aloud",
+          "Narrates it back orally; you scribe two or three sentences"
+        ],
+        [
+          "11",
+          "Listens, plus own reading on the topic",
+          "Writes a paragraph and marks the place on a map"
+        ],
+        [
+          "14",
+          "Listens, plus a harder source",
+          "Writes an essay comparing two accounts, or presents a case"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The younger children get exposure well above their reading level, which is exactly the benefit read-alouds deliver, and the older ones do genuinely age-appropriate work. Narration is the tool that makes this scale — see our guide to ",
+        {
+          "link": {
+            "ref": "article:teaching-writing-at-home",
+            "text": "teaching writing at home"
+          }
+        },
+        " for how to run it at each level."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Put the shared subjects on a loop rather than fixed days, so a difficult week slows the rotation instead of deleting science for a fortnight — our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-schedule",
+            "text": "building a schedule that survives"
+          }
+        },
+        " covers the mechanics. And if you are also working, the independence progression in our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschooling-while-working",
+            "text": "homeschooling while working"
+          }
+        },
+        " is what makes the rotations possible at all."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "A co-op can also take one or two subjects off your plate entirely, which changes the rotation arithmetic — though the volunteer kind asks for a teaching shift in return. See ",
+        {
+          "link": {
+            "ref": "article:homeschool-coop-worth-it",
+            "text": "are homeschool co-ops worth it"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Can you teach multiple ages together in homeschool?",
+          "answerRichText": "Yes for content subjects — history, science, literature, art, geography — where everyone shares the same input and produces different output by age. No for sequential skills: maths, learning to read, spelling and grammar need individual instruction at each child's level."
+        },
+        {
+          "question": "How do you homeschool with a toddler around?",
+          "answerRichText": "Teach the hardest one-to-one subject during the nap, keep a set of activities that appear only during school time, include them in the group block, and give fifteen minutes of undivided attention immediately before a rotation. Attention paid in advance is cheaper than attention extracted mid-lesson."
+        },
+        {
+          "question": "What is a morning basket?",
+          "answerRichText": "The shared block that starts the day — read-aloud, memory work, poetry, and whichever combined subject is next on your loop — done with all the children together before you split into individual rotations. It gets the combinable subjects done before the day erodes."
+        },
+        {
+          "question": "Should older children help teach younger ones?",
+          "answerRichText": [
+            "Short, defined, reciprocated turns are reasonable and often good for both. Standing responsibility for childcare during their own school hours is not — the older child ends up paying for the arrangement with their education. See our ",
+            {
+              "link": {
+                "ref": "article:homeschool-schedule",
+                "text": "scheduling guide"
+              }
+            },
+            " for structuring rotations instead."
+          ]
+        }
+      ]
+    }
   ]
 }
