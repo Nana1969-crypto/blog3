@@ -24,7 +24,7 @@
       "url": "https://myhomeschool.com/homeschooling/resources/multiple-ages/"
     },
     {
-      "label": "Lamp and Light Living — a simple daily rhythm for the whole family",
+      "label": "Lamp and Light Living — a daily rhythm when homeschooling multiple ages",
       "url": "https://www.lampandlightliving.com/post/homeschool-multiple-ages"
     }
   ],
@@ -236,6 +236,19 @@
           "link": {
             "ref": "article:homeschool-coop-worth-it",
             "text": "are homeschool co-ops worth it"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "History is the clearest case of all, and it has a method of its own that makes the shared block do double duty — see ",
+        {
+          "link": {
+            "ref": "article:teaching-history-at-home",
+            "text": "teaching history at home"
           }
         },
         "."

@@ -16,12 +16,20 @@
   },
   "sources": [
     {
-      "label": "BookShark — Secular Homeschool Curriculum (publisher category page)",
-      "url": "https://www.bookshark.com/secular-homeschool-curriculum"
+      "label": "TheHomeSchoolMom — how to choose the best homeschool curriculum",
+      "url": "https://www.thehomeschoolmom.com/homeschooling-101/choose-best-homeschool-curriculum/"
     },
     {
-      "label": "Sonlight — homeschool curriculum publisher",
-      "url": "https://www.sonlight.com/"
+      "label": "Homeschool Connections — five steps to evaluate a homeschool curriculum",
+      "url": "https://homeschoolconnections.com/how-to-choose-homeschool-curriculum/"
+    },
+    {
+      "label": "TSHA — homeschool curriculum checklist, ten things to check before you choose",
+      "url": "https://www.tshanywhere.org/post/homeschool-curriculum-planning-checklist"
+    },
+    {
+      "label": "BookShark — Secular Homeschool Curriculum (publisher's own category page)",
+      "url": "https://www.bookshark.com/secular-homeschool-curriculum"
     }
   ],
   "body": [
