@@ -1,0 +1,298 @@
+{
+  "id": "learning-styles-curriculum",
+  "slug": "homeschool-curriculum-learning-styles",
+  "clusterId": "cl_choosing",
+  "title": "Buying for a \"Visual Learner\": What the Research Actually Found",
+  "dek": "Almost every curriculum recommendation in this niche starts by asking whether your child is visual, auditory or kinesthetic. The specific claim underneath that question has been tested for years and has not held up — and there is something better to observe instead.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-28",
+  "updatedAt": "2026-08-28",
+  "intent": {
+    "primaryKeyword": "homeschool curriculum learning styles"
+  },
+  "seo": {
+    "metaTitle": "Buying for a Visual Learner: The Evidence",
+    "metaDescription": "The meshing hypothesis behind learning styles has not held up in testing. What is true about how children differ, and what actually predicts fit."
+  },
+  "sources": [
+    {
+      "label": "Structural Learning — the learning styles myth and what the research shows",
+      "url": "https://www.structural-learning.com/post/learning-styles-myth-debunked"
+    },
+    {
+      "label": "Pashler, McDaniel, Rohrer & Bjork (2008), Psychological Science in the Public Interest — Learning Styles: Concepts and Evidence",
+      "url": "https://journals.sagepub.com/doi/full/10.1111/j.1539-6053.2009.01038.x"
+    },
+    {
+      "label": "Cognition Today — the truth about learning styles, myth and fact",
+      "url": "https://cognitiontoday.com/the-truth-about-learning-styles-myth-and-fact/"
+    },
+    {
+      "label": "Association for Talent Development — learning styles as a neuromyth",
+      "url": "https://www.td.org/content/atd-blog/l-d-neuromyth-learning-styles-visual-auditory-kinesthetic"
+    },
+    {
+      "label": "Global Council for Behavioral Science — from styles to science",
+      "url": "https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/"
+    },
+    {
+      "label": "Dekker et al. (2012), Frontiers in Psychology — neuromyths in education: prevalence among teachers",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00429/full"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Open almost any homeschool curriculum guide and the first question is which kind of learner you have. Visual, auditory, kinesthetic. Then the recommendations follow: this programme for visual children, that one for hands-on children, a third for the ones who learn by listening."
+    },
+    {
+      "type": "paragraph",
+      "richText": "It is such a settled part of the vocabulary that questioning it feels like questioning that children are different. They are different. The problem is with a much narrower claim hiding inside the advice, and that claim has been tested repeatedly."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What was actually tested"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The claim researchers call the meshing hypothesis is this: a child learns better when the form of instruction matches their preferred style. Show diagrams to a visual child and they learn more than if you had explained it aloud; explain it aloud to an auditory child and the reverse holds."
+    },
+    {
+      "type": "paragraph",
+      "richText": "That is a precise, testable prediction, and it is what a proper test looks like:"
+    },
+    {
+      "type": "figure",
+      "alt": "A two-by-two grid crossing two kinds of learner with two kinds of instruction. The meshing hypothesis predicts that the two matching cells produce better results; the research finding is that no reliable advantage appears in those cells.",
+      "caption": "What the meshing hypothesis predicts, and what testing it has found. The question is not whether children have preferences — it is whether matching instruction to them changes what is learned.",
+      "svg": "<svg viewBox=\"0 0 640 300\" role=\"presentation\" focusable=\"false\">\n<style>.h{font-family:var(--font-ui);fill:var(--color-text);font-size:12px;font-weight:600}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.k{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px;font-weight:600;letter-spacing:.03em}</style>\n<text class=\"k\" x=\"150\" y=\"34\">TAUGHT VISUALLY</text><text class=\"k\" x=\"330\" y=\"34\">TAUGHT ALOUD</text>\n<text class=\"k\" x=\"8\" y=\"78\">&#8220;Visual</text><text class=\"k\" x=\"8\" y=\"92\">learner&#8221;</text>\n<text class=\"k\" x=\"8\" y=\"170\">&#8220;Auditory</text><text class=\"k\" x=\"8\" y=\"184\">learner&#8221;</text>\n<rect x=\"120\" y=\"46\" width=\"170\" height=\"78\" rx=\"5\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"h\" x=\"136\" y=\"78\" style=\"fill:var(--color-bg)\">predicted: better</text><text class=\"s\" x=\"136\" y=\"98\" style=\"fill:var(--color-bg)\">the match</text>\n<rect x=\"300\" y=\"46\" width=\"170\" height=\"78\" rx=\"5\" fill=\"none\" stroke=\"var(--color-border)\"/>\n<text class=\"s\" x=\"316\" y=\"88\">predicted: worse</text>\n<rect x=\"120\" y=\"138\" width=\"170\" height=\"78\" rx=\"5\" fill=\"none\" stroke=\"var(--color-border)\"/>\n<text class=\"s\" x=\"136\" y=\"180\">predicted: worse</text>\n<rect x=\"300\" y=\"138\" width=\"170\" height=\"78\" rx=\"5\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"h\" x=\"316\" y=\"170\" style=\"fill:var(--color-bg)\">predicted: better</text><text class=\"s\" x=\"316\" y=\"190\" style=\"fill:var(--color-bg)\">the match</text>\n<line x1=\"492\" y1=\"46\" x2=\"492\" y2=\"216\" stroke=\"var(--color-border)\"/>\n<text class=\"h\" x=\"506\" y=\"116\">Found:</text>\n<text class=\"s\" x=\"506\" y=\"136\">no reliable</text><text class=\"s\" x=\"506\" y=\"152\">advantage in</text><text class=\"s\" x=\"506\" y=\"168\">the matched cells</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Reviews of this literature keep reaching the same place. ",
+        {
+          "link": {
+            "ref": "https://www.structural-learning.com/post/learning-styles-myth-debunked",
+            "text": "Structural Learning's summary of the research"
+          }
+        },
+        " reports that around fifteen years of careful work has found that matching instruction to a supposed style makes no difference to outcomes. The landmark review is Pashler and colleagues (2008), and its method is worth knowing: they deliberately set the easiest possible bar, asking only for the crossover pattern above, then searched the literature for studies designed well enough to show it. They found almost none — and among the few properly designed studies, the results mostly ran against the hypothesis. Their conclusion was that there is no adequate evidence base for building teaching around learning styles."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "The belief is close to universal among teachers, not only homeschooling parents. When Dekker and colleagues surveyed teachers in the United Kingdom and the Netherlands in 2012, 93 per cent of the British teachers and 96 per cent of the Dutch ones endorsed the statement that people learn better when taught in their preferred style. It is repeated so confidently, by so many people acting in good faith, that hearing it questioned is genuinely disorienting. That is worth saying plainly rather than treating anyone as foolish for holding it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is true, and what is not"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The failure is narrower than \"children are all the same\", and keeping the distinction straight is the whole point:"
+    },
+    {
+      "type": "table",
+      "caption": "Which parts of the learning-styles idea survive testing.",
+      "headers": [
+        "Claim",
+        "Status"
+      ],
+      "rows": [
+        [
+          "Children have preferences about how material is presented",
+          "True and unremarkable — most people do"
+        ],
+        [
+          "Children differ from each other in ways that affect learning",
+          "True, and enormously"
+        ],
+        [
+          "Those preferences can be sorted into a few stable types",
+          "Weak — the labels are not stable or well-defined"
+        ],
+        [
+          "Matching instruction to the preferred type improves learning",
+          "Not supported. This is the claim that failed"
+        ],
+        [
+          "Therefore buy the curriculum labelled for your child's type",
+          "The purchase advice that rests on the failed claim"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "The practical consequence is a relief rather than a loss. If matching mattered and you guessed the type wrong, you would be harming your child's education. Since it does not, a preference that turns out to be mislabelled costs nothing, and you are free to stop shopping by a category that was never doing the work."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What actually predicts fit"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Four things vary between children in ways that reliably change whether a programme works, and all four are observable at your kitchen table within a fortnight:"
+    },
+    {
+      "type": "table",
+      "caption": "Four variables worth observing instead of a style label.",
+      "headers": [
+        "Variable",
+        "How you see it",
+        "What it changes"
+      ],
+      "rows": [
+        [
+          "Prior knowledge",
+          "Where they stall — the step that is always skipped",
+          "Almost everything. A gap further back explains most failures at today's topic"
+        ],
+        [
+          "Attention span for this subject",
+          "The minute at which quality drops, reliably",
+          "Lesson length, and whether a twenty-minute programme is really twenty minutes"
+        ],
+        [
+          "Fluency with the mechanics",
+          "Whether resistance scales with the amount of writing",
+          "How much of the difficulty is the subject and how much is the pencil"
+        ],
+        [
+          "Interest",
+          "What they choose when nothing is assigned",
+          "Persistence, which outperforms nearly every design feature over a year"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "These are the variables our other guides keep returning to, because they are the ones that pay. The four-way test in ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "diagnosing worksheet resistance"
+          }
+        },
+        " separates mechanics from difficulty from boredom; the distinction in ",
+        {
+          "link": {
+            "ref": "article:child-behind-grade-level",
+            "text": "which kind of behind you have"
+          }
+        },
+        " is entirely about prior knowledge; and ",
+        {
+          "link": {
+            "ref": "article:spiral-vs-mastery-math",
+            "text": "spiral versus mastery"
+          }
+        },
+        " is about how a child consolidates rather than which sense they prefer."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Let the content choose the modality"
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is a version of \"use the right medium\" that the research does support, and it is about the material rather than the child. Some things have a correct modality because of what they are."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Map reading, geometry and anatomy are visual because space is the content. Explaining a map aloud is a translation loss for everyone.",
+        "Pronunciation, poetry and music are auditory for the same reason — the sound is the thing being learned.",
+        "Fractions, volume and physical mechanisms are helped by manipulating objects, for any child, because the concept is about physical relations.",
+        "Definitions, sequences and vocabulary are mostly verbal, and dressing them up in movement usually adds effort without adding learning."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "The practical rule that replaces style-matching: use several modes for everything, chosen by what the material is, and do not assign a child a permanent label. Teaching a concept in more than one form helps most learners, which is a genuinely different claim from matching a form to a person."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What this is not saying"
+    },
+    {
+      "type": "paragraph",
+      "richText": "One clarification matters more than the rest of this page, because the two ideas get confused constantly and the confusion does real harm."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Diagnosed learning differences — dyslexia, dysgraphia, ADHD, processing difficulties — are not learning styles, are not myths, and are not what this evidence is about. A child with dyslexia genuinely requires a specific, structured approach. Doubting the visual-auditory-kinesthetic framework is not doubting them, and nobody should read this page as a reason to delay an assessment."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If what you are seeing looks less like a preference and more like a wall — content secure one day and gone the next, a large gap between what a child can say and what they can write — that belongs with a professional rather than with a curriculum decision. We set out the specific signals in ",
+        {
+          "link": {
+            "ref": "article:teaching-reading-at-home",
+            "text": "teaching reading at home"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "And when you are ready to choose, the order in our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        " asks about your teaching time and your child's observed behaviour rather than a category — which, it turns out, is what the evidence would have recommended anyway."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Are learning styles real?",
+          "answerRichText": "Preferences are real — most people have them. What has not held up is the meshing hypothesis: the claim that matching instruction to a preferred style improves learning. Reviews of roughly fifteen years of research report no reliable advantage from matching, which is why the purchase advice built on it does not work."
+        },
+        {
+          "question": "Should I buy curriculum for a visual or kinesthetic learner?",
+          "answerRichText": "Not on that basis. Choose on four observable things instead: what your child already knows securely, how long their attention holds in this subject, how much the physical writing is costing them, and what they choose when nothing is assigned. All four are visible within a fortnight."
+        },
+        {
+          "question": "If learning styles are not supported, why does everyone use them?",
+          "answerRichText": "Because they are intuitive, they describe something real about preferences, and they have been taught to teachers for decades. In a 2012 survey of British and Dutch teachers, 93 and 96 per cent respectively endorsed the idea. Widely held is not the same as well evidenced, and most people repeating it are acting in good faith."
+        },
+        {
+          "question": "Does this mean my child's learning difficulty is not real?",
+          "answerRichText": "No, and that is an important distinction. Diagnosed learning differences such as dyslexia, dysgraphia and ADHD are not learning styles and are not affected by this evidence. A child with dyslexia does need a specific structured approach, and nothing here is a reason to delay an assessment."
+        },
+        {
+          "question": "Is it wrong to use hands-on materials?",
+          "answerRichText": [
+            "Not at all — but choose them because of what is being taught rather than who is being taught. Fractions and volume are genuinely helped by handling objects, for any child. Teaching a concept in more than one form helps most learners, which is a different claim from matching one form to one person. See our ",
+            {
+              "link": {
+                "ref": "article:how-to-choose-curriculum",
+                "text": "selection guide"
+              }
+            },
+            "."
+          ]
+        }
+      ]
+    }
+  ]
+}

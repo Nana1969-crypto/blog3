@@ -260,6 +260,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "One filter to drop before you start: the visual, auditory or kinesthetic label. The specific claim underneath it has been tested for years and has not held up — see ",
+        {
+          "link": {
+            "ref": "article:learning-styles-curriculum",
+            "text": "what the research on learning styles actually found"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {
