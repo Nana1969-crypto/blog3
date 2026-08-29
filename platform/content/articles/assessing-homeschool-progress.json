@@ -1,0 +1,303 @@
+{
+  "id": "assessing-homeschool-progress",
+  "slug": "how-to-assess-homeschool-progress",
+  "clusterId": "cl_first_steps",
+  "title": "How Do You Know It Is Working? Measuring Progress Without a School",
+  "dek": "School answered this question constantly, and answered it badly. Here is what the scores actually mean, which ones mislead, and four checks you can run at your own table this week.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-29",
+  "updatedAt": "2026-08-29",
+  "intent": {
+    "primaryKeyword": "how to assess homeschool progress"
+  },
+  "seo": {
+    "metaTitle": "How to Assess Homeschool Progress",
+    "metaDescription": "What grade-equivalent scores really mean, the difference between norm- and criterion-referenced tests, and four checks you can run at home."
+  },
+  "sources": [
+    {
+      "label": "Pearson Assessments — interpretation problems of age and grade equivalents",
+      "url": "https://www.pearsonassessments.com/campaign/interpretation-problems-of-age-and-grade-equivalents.html"
+    },
+    {
+      "label": "SUNY Cortland — grade-equivalent scores explained",
+      "url": "https://web.cortland.edu/andersmd/STATS/gradequ.html"
+    },
+    {
+      "label": "NWEA — norm-referenced vs criterion-referenced assessment",
+      "url": "https://www.nwea.org/blog/2026/norm-vs-criterion-referenced-in-assessment-what-you-need-to-know/"
+    },
+    {
+      "label": "Assessment Systems — norm-referenced vs criterion-referenced testing, an overview",
+      "url": "https://assess.com/norm-referenced-vs-criterion-referenced-testing/"
+    },
+    {
+      "label": "Homeschool.com — guide to homeschool portfolio assessment",
+      "url": "https://www.homeschool.com/articles/guide-to-homeschool-portfolio-assessment/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "It is usually a question that arrives at night rather than during the school day. The lesson went fine, the child was cheerful, the box on the schedule is ticked — and you still do not know whether any of it is working. There is nobody to tell you."
+    },
+    {
+      "type": "paragraph",
+      "richText": "It is worth naming what has actually changed, because the anxiety is often misdiagnosed. School did not measure your child better than you can. What school provided was a constant drip of reassurance — a grade every fortnight, a report every term, thirty other children as a visible reference. Most of that was low-quality information delivered often. You have swapped it for high-quality information delivered rarely, and the silence in between is what stings."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A grade level is a range, not a line"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The phrase \"on grade level\" suggests a threshold your child is either above or below. It is not. A grade level is the middle of a wide distribution, and the spread inside any ordinary classroom of twenty-five children is measured in years, not months — some reading well beyond the label on the door, some well behind it, all of them called the same grade."
+    },
+    {
+      "type": "paragraph",
+      "richText": "This matters practically rather than philosophically. A child who is six months \"behind\" the label sits comfortably inside the range of a normal classroom and would not be remarkable there. That is not a reason to ignore a genuine gap; it is a reason not to reorganise your year around a number that was never as precise as it sounded."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The score that misleads more parents than any other"
+    },
+    {
+      "type": "paragraph",
+      "richText": "If you have your child tested, you will probably be handed a grade-equivalent score: a number like 5.4, meaning fifth grade, fourth month. It is the most intuitive number on the page and the most widely misread. Here is what it actually says:"
+    },
+    {
+      "type": "figure",
+      "alt": "Two stacked panels. The upper panel shows the common reading of a grade-equivalent score of 5.4 for a seven-year-old as meaning she reads at a fifth-grade level. The lower, highlighted panel explains that the test contained only second-grade material, that she answered it as well as an average fifth-grader would have, and that no fifth-grade content appeared on the test.",
+      "caption": "Why a grade-equivalent score does not mean what it appears to mean. The comparison is about how well the child did on her own grade's material, not about which grade's material she can handle.",
+      "svg": "<svg viewBox=\"0 0 640 246\" role=\"presentation\" focusable=\"false\">\n<style>.h{font-family:var(--font-ui);fill:var(--color-text);font-size:12px;font-weight:600}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.k{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px;font-weight:600;letter-spacing:.03em}</style>\n<text class=\"k\" x=\"2\" y=\"12\">WHAT IT SOUNDS LIKE</text>\n<rect x=\"0\" y=\"24\" width=\"618\" height=\"70\" rx=\"5\" fill=\"none\" stroke=\"var(--color-border)\"/>\n<text class=\"h\" x=\"18\" y=\"50\">A seven-year-old scores a grade equivalent of 5.4 in reading.</text>\n<text class=\"s\" x=\"18\" y=\"74\">Read as: &#8220;she is reading at a fifth-grade level, so move her up.&#8221;</text>\n<text class=\"k\" x=\"2\" y=\"130\">WHAT WAS ACTUALLY MEASURED</text>\n<rect x=\"0\" y=\"142\" width=\"618\" height=\"100\" rx=\"5\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"h\" x=\"18\" y=\"168\" style=\"fill:var(--color-bg)\">The test contained second-grade material only.</text>\n<text class=\"s\" x=\"18\" y=\"192\" style=\"fill:var(--color-bg)\">She answered that second-grade test as well as an average fifth-grader</text>\n<text class=\"s\" x=\"18\" y=\"210\" style=\"fill:var(--color-bg)\">would have answered the same second-grade test.</text>\n<text class=\"s\" x=\"18\" y=\"232\" style=\"fill:var(--color-bg)\">No fifth-grade content appeared on it at any point.</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The difference is not a technicality. It is the difference between \"she is ready for fifth-grade books\" and \"she made very few mistakes on second-grade work\" — and only the second one is supported. ",
+        {
+          "link": {
+            "ref": "https://www.pearsonassessments.com/campaign/interpretation-problems-of-age-and-grade-equivalents.html",
+            "text": "Pearson's own guidance for the tests it publishes"
+          }
+        },
+        " sets out the problem in detail, including a second trap: an equivalent score drifts further from reality the younger the child is, so a six-month gap at seven represents a much larger difference in actual skill than the same six months at fourteen."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "This is not a fringe objection. Test publishers themselves recommend that grade-equivalent scores not be reported to parents without a full explanation attached, and many measurement specialists argue they should not be reported at all. If a score sheet gives you one, treat it as the least informative number on the page and read the percentile instead."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Two questions that need two different tests"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Underneath the anxiety there are usually two separate questions, and confusing them is what makes test results feel useless. One is about ranking; the other is about capability. Assessments are built to answer one or the other, not both."
+    },
+    {
+      "type": "table",
+      "caption": "The two kinds of assessment, and which question each one can actually answer.",
+      "headers": [
+        "",
+        "Norm-referenced",
+        "Criterion-referenced"
+      ],
+      "rows": [
+        [
+          "Compares your child to",
+          "Other children who took the same test",
+          "A fixed list of things to be able to do"
+        ],
+        [
+          "Answers",
+          "Where does she sit relative to her peers?",
+          "Can she do long division or not?"
+        ],
+        [
+          "Typical output",
+          "Percentile rank, stanine, grade equivalent",
+          "Mastered / not yet, or a skills checklist"
+        ],
+        [
+          "Everyone can score well",
+          "No — the scale is built to spread children out",
+          "Yes, and that is a good result, not an anomaly"
+        ],
+        [
+          "Most useful for",
+          "The annual reassurance question, and admissions",
+          "Deciding what to teach on Monday morning"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Almost every day-to-day teaching decision needs the right-hand column, and almost every anxious 2am question reaches for the left. A percentile tells you nothing about which skill to reteach. If your worry is specifically that your child has fallen behind, the distinction between the kinds of \"behind\" — and which ones matter — is the subject of our guide to ",
+        {
+          "link": {
+            "ref": "article:child-behind-grade-level",
+            "text": "a child who is behind grade level"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Four checks you can run this week"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Here is the part that is genuinely easier at home. A classroom teacher sees thirty finished worksheets and has to infer the thinking behind them. You watched the thinking happen. That is better evidence than any test produces, provided you look for the right things:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "The retention check. Bring back something learned six weeks ago, cold, with no revision. Performance on the day a topic is taught is mostly short-term memory; what survives six weeks is what was actually learned.",
+        "The transfer check. Give the same skill in an unfamiliar wrapper — the fractions from the workbook, but in a recipe, or word problems with the numbers in a different order. A skill that only works in the format it was taught in has not generalised yet.",
+        "The explanation check. Ask them to teach it back to you, or to a younger sibling, and listen for whether they explain why or only recite the steps. This is the single most revealing minute in the week.",
+        "The independence check. Can they start the work without you, and notice their own error before you point it out? Self-correction is a better signal of security than accuracy is."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Run the retention check on purpose, on a set date, rather than waiting for it to happen by accident. Put a recurring note in the calendar for the first Monday of the month and pull two things from six weeks back. It takes ten minutes and it is the closest thing to an honest audit you have."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a portfolio is actually for"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A portfolio is dated work kept over time — writing samples, maths pages, a photographed project, a list of books finished. Its value is not administrative. It is the only instrument you have that compares your child to the right reference point, which is your child three months ago."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "This is why the September sample matters more than it looks at the time. In March, a paragraph that seems unremarkable is transformed by sitting next to what the same child wrote in September, and progress that felt invisible day by day becomes obvious in one glance. Keep it thin and dated rather than complete — our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-record-keeping",
+            "text": "homeschool record keeping"
+          }
+        },
+        " covers what is worth saving and what is not, including the requirements that make some of it non-optional."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One warning about reading progress backwards. A stall in a maths programme is as likely to be a feature of the programme's sequencing as a failure of the child — a spiral course revisits and a mastery course drills, and the two produce very different-looking March results from the same child. We untangle that in ",
+        {
+          "link": {
+            "ref": "article:spiral-vs-mastery-math",
+            "text": "spiral vs mastery maths"
+          }
+        },
+        ", and if the conclusion really is that the materials are wrong, ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch curriculum"
+          }
+        },
+        " sets out how to decide without doing it reactively."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When to stop assessing and get an outside opinion"
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is a point at which more measuring by you stops being useful, and recognising it early is one of the more valuable things a homeschooling parent can do. The signals are fairly specific:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Content that is secure one day and genuinely gone the next, repeatedly, despite good teaching and adequate practice.",
+        "A wide gap between what the child can explain out loud and what they can produce on paper.",
+        "No measurable movement in a foundational skill — decoding in particular — across a full term of consistent, appropriate work.",
+        "Effort that is wildly disproportionate to output, where the child is clearly trying hard and the results do not reflect it."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "None of those signals is a diagnosis, and none of them is solved by buying different curriculum. They are reasons to seek a professional evaluation. We are not qualified to assess a child at a distance and neither is a curriculum publisher — and delaying an assessment to try one more programme is the expensive version of this mistake."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Two practical notes to close on. Testing requirements for homeschoolers are set by each state and differ substantially — some require periodic standardised testing or an annual evaluation, others require nothing at all — so confirm your obligations against your own state's current published rules rather than against anything you read on a blog, this one included. And if you are approaching the high school years, assessment stops being purely private: grades start having an outside audience, which is a different job, covered in ",
+        {
+          "link": {
+            "ref": "article:homeschool-high-school-transcript",
+            "text": "homeschooling high school and the transcript"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If you are early enough that all of this still feels abstract, it is worth knowing that the first months are supposed to look unmeasurable — see ",
+        {
+          "link": {
+            "ref": "article:how-to-start-homeschooling",
+            "text": "the first thirty days"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I know if my homeschooled child is on track?",
+          "answerRichText": "Check retention rather than performance: bring back material from six weeks ago with no revision and see what survives. Add a transfer check in an unfamiliar format and ask the child to explain the reasoning aloud. Those three signals tell you more than a test score, and \"on grade level\" is a wide range rather than a threshold in any case."
+        },
+        {
+          "question": "What does a grade equivalent score of 5.4 mean for a second grader?",
+          "answerRichText": "It means she took a test of second-grade material and answered it about as well as an average fifth-grader would have answered that same second-grade test. It does not mean she can do fifth-grade work — no fifth-grade content was on the test. Test publishers recommend these scores not be reported without a full explanation; read the percentile instead."
+        },
+        {
+          "question": "Should I have my homeschooled child take standardized tests?",
+          "answerRichText": [
+            "In some states periodic testing or an annual evaluation is required, so check your own state's current published rules first. Where it is optional, a norm-referenced test answers the reassurance question once a year but will not tell you what to teach next. For that you want criterion-referenced information, or the four home checks in our guide to ",
+            {
+              "link": {
+                "ref": "article:homeschool-record-keeping",
+                "text": "record keeping"
+              }
+            },
+            "."
+          ]
+        },
+        {
+          "question": "How often should I assess my homeschooler?",
+          "answerRichText": "Informally every week, through the explanation and independence checks that cost nothing. Deliberately once a month for retention, pulling two items from six weeks back. Formally at most once or twice a year, and only if it answers a question you actually have."
+        },
+        {
+          "question": "What is the difference between norm-referenced and criterion-referenced tests?",
+          "answerRichText": "A norm-referenced test compares your child to other children who took it and outputs percentiles or grade equivalents. A criterion-referenced test compares your child to a fixed list of skills and tells you what they can and cannot yet do. Teaching decisions need the second kind; the first mostly answers the anxiety question."
+        }
+      ]
+    }
+  ]
+}
