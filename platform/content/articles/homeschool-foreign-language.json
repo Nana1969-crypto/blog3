@@ -1,0 +1,303 @@
+{
+  "id": "homeschool-foreign-language",
+  "slug": "homeschool-foreign-language",
+  "clusterId": "cl_subjects",
+  "title": "Teaching a Foreign Language When You Do Not Speak One",
+  "dek": "This is the subject families postpone longest and fake most often. The fix is not a better programme — it is doing the arithmetic on hours first, then picking a goal you can actually reach.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-30",
+  "updatedAt": "2026-08-30",
+  "intent": {
+    "primaryKeyword": "homeschool foreign language"
+  },
+  "seo": {
+    "metaTitle": "Homeschool Foreign Language: An Honest Plan",
+    "metaDescription": "How many hours a language actually takes, what school language study really produces, and how to pick a reachable goal when you do not speak it."
+  },
+  "sources": [
+    {
+      "label": "U.S. Department of State, Foreign Service Institute — foreign language training",
+      "url": "https://www.state.gov/national-foreign-affairs-training-center/foreign-language-training"
+    },
+    {
+      "label": "ACTFL — what proficiency levels do K-16 world language learners reach? (research brief)",
+      "url": "https://www.actfl.org/research/research-briefs/proficiency-levels-for-k16"
+    },
+    {
+      "label": "ACTFL — Proficiency Guidelines 2012",
+      "url": "https://www.actfl.org/educator-resources/actfl-proficiency-guidelines"
+    },
+    {
+      "label": "Plasticity, variability and age in second language acquisition and bilingualism (Frontiers in Psychology, open access)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5857581/"
+    },
+    {
+      "label": "A conceptual review of age effect on L2 acquisition (ERIC, full text)",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1139050.pdf"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Foreign language is the subject homeschooling families postpone longest, and the one where a token effort is most easily mistaken for a real one. A programme gets bought in August, runs three times a week until about November, and quietly becomes a line on a transcript that nobody wants examined too closely."
+    },
+    {
+      "type": "paragraph",
+      "richText": "The usual explanation is that the parent does not speak the language. That turns out not to be the main problem. The main problem is that almost nobody does the arithmetic before starting, so the goal and the hours were never in the same universe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The arithmetic nobody does"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The United States government has been teaching adults foreign languages intensively for about seventy-five years and publishes how long it takes. Set those figures next to a normal homeschool language plan and the picture is immediate:"
+    },
+    {
+      "type": "figure",
+      "alt": "A horizontal bar chart comparing instructional hours. One homeschool year at three thirty-minute lessons a week is 54 hours. Four years of high school language study is roughly 600 to 700 hours. Foreign Service Institute estimates to professional working proficiency are 600 to 750 hours for Spanish, French, Italian and Portuguese; about 1,100 hours for Russian, Hindi, Turkish and Vietnamese; and about 2,200 hours for Arabic, Chinese, Japanese and Korean.",
+      "caption": "Hours to professional working proficiency, as published by the Foreign Service Institute, against what a homeschool year and a full school career actually deliver. The FSI figures describe intensive full-time instruction for motivated adults, so they are a best case rather than a like-for-like comparison — the point is the order of magnitude.",
+      "svg": "<svg viewBox=\"0 0 640 244\" role=\"presentation\" focusable=\"false\">\n<style>.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.v{font-family:var(--font-ui);fill:var(--color-text);font-size:11px;font-weight:600}</style>\n<text class=\"s\" x=\"0\" y=\"10\">One homeschool year &#8212; three 30-minute lessons a week, 36 weeks</text>\n<rect x=\"0\" y=\"18\" width=\"11\" height=\"14\" rx=\"2\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"v\" x=\"21\" y=\"29\">54 hours</text>\n<text class=\"s\" x=\"0\" y=\"62\">Four years of high school language study</text>\n<rect x=\"0\" y=\"70\" width=\"127\" height=\"14\" rx=\"2\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"v\" x=\"137\" y=\"81\">600&#8211;700 hours</text>\n<text class=\"s\" x=\"0\" y=\"114\">FSI estimate &#8212; Spanish, French, Italian, Portuguese</text>\n<rect x=\"0\" y=\"122\" width=\"132\" height=\"14\" rx=\"2\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"v\" x=\"142\" y=\"133\">600&#8211;750 hours</text>\n<text class=\"s\" x=\"0\" y=\"166\">FSI estimate &#8212; Russian, Hindi, Turkish, Vietnamese</text>\n<rect x=\"0\" y=\"174\" width=\"215\" height=\"14\" rx=\"2\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"v\" x=\"225\" y=\"185\">about 1,100 hours</text>\n<text class=\"s\" x=\"0\" y=\"218\">FSI estimate &#8212; Arabic, Chinese, Japanese, Korean</text>\n<rect x=\"0\" y=\"226\" width=\"430\" height=\"14\" rx=\"2\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"v\" x=\"440\" y=\"237\">about 2,200 hours</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Three thirty-minute lessons a week across a thirty-six week year is fifty-four hours. To reach professional working proficiency in the easiest group of languages for an English speaker, ",
+        {
+          "link": {
+            "ref": "https://www.state.gov/national-foreign-affairs-training-center/foreign-language-training",
+            "text": "the Foreign Service Institute"
+          }
+        },
+        " budgets somewhere around six hundred to seven hundred and fifty hours. At fifty-four hours a year, that is over a decade — and Arabic, Chinese, Japanese and Korean are roughly three times further away again."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Read those figures as an order of magnitude, not a promise. They describe full-time intensive instruction, in small groups, with trained instructors, for motivated adult professionals who are being paid to be there. A child doing twenty minutes at the kitchen table is not in that situation, and the honest expectation is that the real number is higher rather than lower."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What school language study actually produces"
+    },
+    {
+      "type": "paragraph",
+      "richText": "It is worth knowing the benchmark you are being compared against, because it is much lower than the phrase \"four years of Spanish\" implies. The professional body for language teaching in the United States sets the expectation after four years of study at Intermediate-Low, and its own research finds that many programmes land below even that, averaging Novice-High in speaking."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Those labels deserve translating. Novice-High is not conversation. It means isolated words, memorised phrases, and the ability to handle short, entirely predictable exchanges — a greeting, an order in a café — with frequent breakdowns as soon as the topic moves. Intermediate-Low is the first level at which a person can create original sentences and hold a simple exchange about familiar things."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "This is genuinely liberating rather than depressing. A homeschooling family that gets a child to Novice-High has matched the typical outcome of four years of classroom instruction. You are not competing against fluency; you are competing against a much lower bar than the word \"Spanish\" on a transcript suggests."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the age evidence actually says"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The folk version is that a language must be started before some cliff in early childhood or it is hopeless. That is not what the research supports, and the correction matters, because the cliff story causes families to either panic at seven or give up at fourteen."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Earlier starters do tend to reach a higher ceiling eventually, particularly in accent and in the kind of grammar that is absorbed rather than studied.",
+        "But the decline with starting age looks broadly gradual rather than like a cliff at puberty, and the best current estimates place the sensitive window for grammar much later in adolescence than the folk version assumes.",
+        "Older learners are typically faster at the start. They can use explicit grammar, cognates and study skills that a five-year-old cannot, so in the first year or two they usually out-pace younger children.",
+        "No mechanism for a hard biological cutoff has been identified, and motivation, quantity of input and continuity explain a great deal of the variation between individuals."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": "The practical conclusion is unglamorous: total hours and continuity matter more than starting age. A child who begins at twelve and continues for six years will comfortably out-perform one who began at four and stopped at seven."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pick one of two goals, and say which"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Most language plans fail because they are quietly pursuing both goals at once, which means budgeting for the cheap one and being disappointed by the expensive one. Decide explicitly:"
+    },
+    {
+      "type": "table",
+      "caption": "Two legitimate goals with very different costs. Choose deliberately rather than drifting.",
+      "headers": [
+        "",
+        "Exposure and a credit",
+        "Actual usable proficiency"
+      ],
+      "rows": [
+        [
+          "Realistic aim",
+          "Novice range: vocabulary, sound system, some grammar, a foundation to build on later",
+          "Intermediate and upward: can hold a simple conversation and read straightforward text"
+        ],
+        [
+          "Hours needed",
+          "120 to 180 per credit. At three 30-minute lessons a week, two years earns about one credit — not two",
+          "Several hundred at minimum, sustained across years"
+        ],
+        [
+          "What it needs",
+          "A structured programme, done consistently, and honest record-keeping",
+          "A programme plus real input plus someone to speak with, every week"
+        ],
+        [
+          "Cost",
+          "Low — good programmes exist at modest prices",
+          "Meaningful. A weekly tutor or conversation partner is the usual bottleneck"
+        ],
+        [
+          "Fails when",
+          "It stops in November and the credit is claimed anyway",
+          "It is attempted on an exposure budget"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The second column is where the money goes, and it is worth planning for in advance rather than discovering in year three — our breakdown of ",
+        {
+          "link": {
+            "ref": "article:homeschool-cost",
+            "text": "what homeschooling actually costs"
+          }
+        },
+        " covers where a weekly tutor sits relative to everything else you are buying."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What works when you do not speak it"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Not speaking the language rules out one thing only: being the source of the language yourself. Everything else that matters, you can still run. The arrangement that works has three parts, and the common failure is buying only the first:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "A structured programme that sequences grammar and vocabulary, so that progress is cumulative rather than a pile of unconnected apps. This is the part most families buy, and on its own it produces recognition without production.",
+        "Input in quantity — audio, video, graded readers, anything the child understands most of. This is what turns studied grammar into something automatic, and it is the part most often skipped because it does not look like schoolwork.",
+        "Output with a person, every week without exception. A tutor, a conversation exchange, a co-op class, a relative. Speaking is a separate skill from understanding and it does not appear on its own, however much input arrives.",
+        "Your own job, which is scheduling, continuity and assessment — not instruction. That is a real job and it is the one that actually determines the outcome."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Learn alongside your child if you can bear it. Not to teach them — to make the subject socially normal, to model being a beginner in public, and because a parent who is fifteen minutes ahead is a far better study partner than a parent who has outsourced the whole thing and asks whether it is finished."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Language is also the subject where an outside class earns its keep most clearly, because the weekly speaking obligation is exactly what a family cannot manufacture alone — see ",
+        {
+          "link": {
+            "ref": "article:homeschool-coop-worth-it",
+            "text": "are homeschool co-ops worth it"
+          }
+        },
+        ", and ",
+        {
+          "link": {
+            "ref": "article:online-program-vs-own-curriculum",
+            "text": "online programme vs your own curriculum"
+          }
+        },
+        " for how an outsourced course changes what you are responsible for."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hours, credits and the transcript"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "For high school, one credit conventionally represents 120 to 180 hours of work — the Carnegie unit, the original definition, is 120 — which is why the arithmetic above is not academic. Three 30-minute lessons a week for two years comes to about 108 hours, which is roughly one credit, not the two that two years on a transcript implies. Genuine tracked study earns whatever it earns; two Augusts of enthusiasm earns nothing, and a transcript that overstates is a problem precisely when it matters most — see ",
+        {
+          "link": {
+            "ref": "article:homeschool-high-school-transcript",
+            "text": "homeschooling high school and the transcript"
+          }
+        },
+        " for how to record it honestly, and note that admissions expectations vary between institutions, so check the specific requirements of the colleges your child is considering."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Track hours and proficiency rather than lessons completed. Finishing a book is not evidence of anything, and this is a subject where the gap between coverage and retention is unusually wide — the retention and transfer checks in our guide to ",
+        {
+          "link": {
+            "ref": "article:assessing-homeschool-progress",
+            "text": "measuring progress without a school"
+          }
+        },
+        " apply here more than anywhere else."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "And because this subject stands or falls on continuity, put it on the schedule as a short daily slot rather than a long weekly one — fifteen minutes a day beats ninety minutes on Saturday, for reasons our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-schedule",
+            "text": "a schedule that survives February"
+          }
+        },
+        " gets into."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How can I teach my child a foreign language if I do not speak it?",
+          "answerRichText": "Your job is not to be the source of the language. Buy a structured programme for sequence, add input the child mostly understands — audio, video, graded readers — and arrange weekly speaking with an actual person, whether a tutor, a class or a relative. You handle scheduling, continuity and assessment, which is what determines the outcome anyway."
+        },
+        {
+          "question": "How many hours does it take to learn a language?",
+          "answerRichText": "The Foreign Service Institute budgets roughly 600 to 750 hours of intensive instruction for professional working proficiency in Spanish, French, Italian or Portuguese, about 1,100 for languages such as Russian or Turkish, and about 2,200 for Arabic, Chinese, Japanese and Korean. Those assume full-time study by motivated adults, so treat them as a best case rather than a target."
+        },
+        {
+          "question": "What age should a child start a foreign language?",
+          "answerRichText": "Earlier starters tend to reach a higher ceiling in accent and absorbed grammar, but the decline with age is gradual rather than a cliff, and older learners usually progress faster at first because they can use explicit grammar and study skills. Total hours and continuity matter more than start age — beginning at twelve and continuing for six years beats starting at four and stopping at seven."
+        },
+        {
+          "question": "How much foreign language is needed for a high school transcript?",
+          "answerRichText": [
+            "One credit conventionally represents 120 to 180 hours. That matters more than the number of years: at three 30-minute lessons a week, two calendar years comes to about 108 hours, which is around one credit rather than two. Count hours, not years. Requirements vary between colleges, so check the specific institutions your child is considering. See our ",
+            {
+              "link": {
+                "ref": "article:homeschool-high-school-transcript",
+                "text": "transcript guide"
+              }
+            },
+            " for recording it honestly."
+          ]
+        },
+        {
+          "question": "Which foreign language should we choose?",
+          "answerRichText": "Weigh two things above any usefulness ranking: whether the child has any real reason to care, and whether you can find a person locally or online to speak it with weekly. A language with a living conversation partner will beat a more prestigious one studied entirely from a book. If those are equal, the Romance languages need roughly a third of the hours that Arabic, Chinese, Japanese or Korean do."
+        }
+      ]
+    }
+  ]
+}

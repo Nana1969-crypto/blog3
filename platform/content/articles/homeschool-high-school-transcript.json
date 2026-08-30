@@ -79,7 +79,7 @@
       ],
       "rows": [
         [
-          "Roughly 120 to 150 hours of study on one subject",
+          "Roughly 120 to 180 hours of study on one subject",
           "1.0 credit",
           "The standard convention; a full-year course"
         ],
@@ -250,6 +250,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "Foreign language is where transcripts most often overstate, because the hours are easy to lose track of and the credit is conventionally 120 to 180 of them — see ",
+        {
+          "link": {
+            "ref": "article:homeschool-foreign-language",
+            "text": "teaching a foreign language when you do not speak one"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {
@@ -258,7 +271,7 @@
         },
         {
           "question": "How many hours is one high school credit?",
-          "answerRichText": "The convention used across homeschool guidance is roughly 120 to 150 hours of study for one full credit, with a half-year course counting 0.5. A three to five credit-hour college course typically converts to one full high school credit. Confirm against your state and your target universities, since these are conventions rather than rules."
+          "answerRichText": "The Carnegie unit, the original definition of a high school credit, is 120 hours of study on one subject; many states and most homeschool guidance now use a range of roughly 120 to 180 hours for one full credit, with a half-year course counting 0.5. A three to five credit-hour college course typically converts to one full high school credit. Confirm against your state and your target universities, since these are conventions rather than rules."
         },
         {
           "question": "Do colleges accept homeschool transcripts?",
