@@ -1,0 +1,324 @@
+{
+  "id": "homeschooling-a-gifted-child",
+  "slug": "homeschooling-a-gifted-child",
+  "clusterId": "cl_situations",
+  "title": "When Your Child Is Ahead: Acceleration Without Getting It Wrong",
+  "dek": "Homeschooling removes almost every obstacle schools put in the way of accelerating a child. That is a real advantage, and it removes the brakes too. Here is what the evidence supports and where families go wrong.",
+  "authorId": "author_team",
+  "publishedAt": "2026-08-31",
+  "updatedAt": "2026-08-31",
+  "intent": {
+    "primaryKeyword": "homeschooling a gifted child"
+  },
+  "seo": {
+    "metaTitle": "Homeschooling a Gifted or Advanced Child",
+    "metaDescription": "What a century of research says about academic acceleration, why subject acceleration beats whole-grade at home, and the asynchrony trap."
+  },
+  "sources": [
+    {
+      "label": "Steenbergen-Hu, Makel & Olszewski-Kubilius (2016), Review of Educational Research — one hundred years of research on ability grouping and acceleration",
+      "url": "https://journals.sagepub.com/doi/abs/10.3102/0034654316675417"
+    },
+    {
+      "label": "ERIC record for the same meta-analysis (EJ1121483)",
+      "url": "https://eric.ed.gov/?id=EJ1121483"
+    },
+    {
+      "label": "Belin-Blank Center, University of Iowa — acceleration research and A Nation Empowered",
+      "url": "https://belinblank.education.uiowa.edu/research/research-focus.aspx"
+    },
+    {
+      "label": "National Association for Gifted Children — acceleration",
+      "url": "https://www.nagc.org/acceleration"
+    },
+    {
+      "label": "National Association for Gifted Children — asynchronous development (tip sheet)",
+      "url": "https://assets.noviams.com/novi-file-uploads/nagc/pdfs-and-documents/NAGC-TIP_Sheet-Asynchronous_Development.pdf"
+    },
+    {
+      "label": "National Association for Gifted Children — twice exceptionality",
+      "url": "https://www.nagc.org/news/twice-exceptionality"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "In a school, moving a child forward is an administrative event. There is a grade to skip, a committee to convince, a teacher who is not sure, and a policy that may or may not exist. Families spend a year on it and often lose."
+    },
+    {
+      "type": "paragraph",
+      "richText": "At home, none of that applies. You can move a child up a maths level on a Tuesday because it is obviously time. This is one of the genuine, structural advantages of homeschooling, and it is worth using deliberately. It also removes every brake at once, which changes what goes wrong — the failure modes at home are not the school ones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the research actually found"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Academic acceleration is one of the better-evidenced practices in education, which surprises people who have absorbed the folk wisdom against it. The largest synthesis available pooled roughly a hundred years of studies, and the two comparisons it reports answer two different questions:"
+    },
+    {
+      "type": "figure",
+      "alt": "Two panels showing effect sizes from a second-order meta-analysis of acceleration research. Compared with peers their own age, accelerated students scored substantially higher, with an effect size of g equals 0.70. Compared with the older students they joined, the difference was g equals 0.09, essentially none.",
+      "caption": "Effect sizes from Steenbergen-Hu, Makel and Olszewski-Kubilius (2016). As a rough guide, an effect size around 0.2 is small, 0.5 moderate and 0.8 large. Note that accelerated students were selected for acceleration, so the left-hand comparison partly reflects who was chosen; the right-hand one is the more informative number.",
+      "svg": "<svg viewBox=\"0 0 640 196\" role=\"presentation\" focusable=\"false\">\n<style>.k{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px;font-weight:600;letter-spacing:.03em}.n{font-family:var(--font-ui);fill:var(--color-text);font-size:27px;font-weight:700}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.f{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px;font-style:italic}</style>\n<text class=\"k\" x=\"2\" y=\"12\">VS PEERS THEIR OWN AGE</text>\n<rect x=\"0\" y=\"22\" width=\"300\" height=\"118\" rx=\"5\" fill=\"none\" stroke=\"var(--color-border)\"/>\n<text class=\"n\" x=\"20\" y=\"80\">g = 0.70</text>\n<text class=\"s\" x=\"20\" y=\"108\">Accelerated students scored</text>\n<text class=\"s\" x=\"20\" y=\"126\">substantially higher.</text>\n<text class=\"k\" x=\"322\" y=\"12\">VS THE OLDER GROUP THEY JOINED</text>\n<rect x=\"320\" y=\"22\" width=\"300\" height=\"118\" rx=\"5\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<text class=\"n\" x=\"340\" y=\"80\" style=\"fill:var(--color-bg)\">g = 0.09</text>\n<text class=\"s\" x=\"340\" y=\"108\" style=\"fill:var(--color-bg)\">Essentially no difference.</text>\n<text class=\"s\" x=\"340\" y=\"126\" style=\"fill:var(--color-bg)\">They held their own.</text>\n<text class=\"f\" x=\"2\" y=\"172\">The second comparison is the one that answers the usual worry about being out of one&#8217;s depth.</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The right-hand number is the one to keep. The fear that drives most resistance to acceleration is that the child will be swimming — placed among older students and quietly drowning. Across a century of studies, ",
+        {
+          "link": {
+            "ref": "https://eric.ed.gov/?id=EJ1121483",
+            "text": "that is not what happened"
+          }
+        },
+        ". Accelerated students performed about the same as the older students they had joined, and the overall effect of acceleration on achievement was moderate and positive."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "The national report on this subject, produced by the University of Iowa's Belin-Blank Center, catalogues around twenty distinct forms of acceleration — from moving a single subject forward to early college entrance. That number matters more than any single finding, because it means \"should we accelerate?\" is the wrong question. \"Which of the twenty?\" is the right one."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choose subject acceleration, not the whole child"
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is where homeschooling's freedom pays off, and where families most often overreach. A school largely has to move a child as a unit, because timetables are built in blocks. You do not. You can run maths two years ahead and writing exactly on age, in the same week, for the same child."
+    },
+    {
+      "type": "table",
+      "caption": "Two shapes of acceleration and what each one costs at home.",
+      "headers": [
+        "",
+        "Subject acceleration",
+        "Moving everything up together"
+      ],
+      "rows": [
+        [
+          "What it is",
+          "Each subject sits at the level that subject is ready for",
+          "The whole programme jumps a year or more"
+        ],
+        [
+          "Fits when",
+          "Ability is uneven, which is the normal case",
+          "Ability is genuinely even across the board, which is rarer than it looks"
+        ],
+        [
+          "Main risk",
+          "Bookkeeping — you must track several levels at once",
+          "The weakest subject sets the pace and quietly starts failing"
+        ],
+        [
+          "At home",
+          "Nearly free. No timetable to fight",
+          "Tempting, because it is simpler to administer"
+        ],
+        [
+          "Later cost",
+          "Low, and easy to reverse a single subject",
+          "High, and hard to unwind without it feeling like demotion"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "If you accelerate one subject, write down what you would need to see to slow it back down, before you start. Reversing a single subject is a small, ordinary adjustment when it was planned for, and feels like failure when it was not."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The asynchrony trap"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The most useful concept here has an ungainly name. Asynchronous development describes a child whose intellectual, physical, emotional and executive development are running at different speeds — reading three years ahead, handwriting on age, emotional regulation somewhat behind, all in the same person on the same afternoon."
+    },
+    {
+      "type": "paragraph",
+      "richText": "This is not a disorder and it is not unusual among children who are markedly advanced. But it produces a predictable, avoidable failure: the parent accelerates on the strength of the fastest strand and then requires the other strands to keep up with it."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A child who reads adult non-fiction may still be unable to write a paragraph about it, because composition is a motor and organisational skill as much as an intellectual one.",
+        "A child two years ahead in maths may still cry over a page of long division, because frustration tolerance did not accelerate with the arithmetic.",
+        "A child who argues like a barrister may still be unable to manage a three-step assignment without you, because executive function develops on its own timetable.",
+        "The content can be advanced while the volume, the handwriting demand and the independence expectation stay firmly on age. These are separate dials, and most families turn them together."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If resistance appears after an acceleration, run the diagnosis before reversing it. Very often the objection is to the writing load or the sheer volume rather than to the difficulty — the four-way test in our guide to ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "the child who fights every worksheet"
+          }
+        },
+        " separates those, and the answer is usually to turn one dial back rather than all of them."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When \"ahead\" is not what it looks like"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A fair guide has to include the counterweight, because this is a subject where flattery is cheap and expensive. Several common signals mean less than they appear to:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Being ahead of a curriculum is not the same as being ahead. Publishers pitch the same nominal grade at very different levels, so a child sailing through one programme may be squarely on level in another.",
+        "Early reading, on its own, is a weak signal. Some early readers stay well ahead; many are met by their peers within a few years, and the difference is not a verdict on anybody.",
+        "Test scores are frequently misread in the flattering direction. A grade-equivalent score in particular does not mean what almost everyone assumes it means, and it is the single most common source of a badly inflated picture.",
+        "Fast is not the same as deep. A child who finishes quickly may be ready for harder material, or may be skipping the thinking — the difference shows up in whether they can explain why, not in how fast the page is done."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That third point is worth taking seriously before you restructure a year around a number. We set out exactly what a grade-equivalent score does and does not say, and what to read instead, in our guide to ",
+        {
+          "link": {
+            "ref": "article:assessing-homeschool-progress",
+            "text": "measuring progress without a school"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "One group is missed more than any other. Twice-exceptional children are advanced in some areas and have a learning difference in others — dyslexia, ADHD, autism — and the two mask each other. The ability hides the difficulty, so no assessment is sought; the difficulty hides the ability, so no acceleration is offered; and the child looks merely average while working far harder than anyone realises. Marked unevenness is a reason to seek a professional evaluation, not to average the strands out."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Boredom is a signal, but not always this one"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Persistent boredom in a capable child is worth acting on, and under-challenge is a real cause of the behaviour that gets read as laziness. But the same complaint has other causes, and acceleration is the wrong medicine for most of them."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "The most common alternative is a pacing mismatch rather than a level mismatch — a child who grasps a concept immediately and is then held on it for two more weeks by the design of the programme. That is a question about how the material is sequenced, not about how advanced it is, and we untangle it in ",
+        {
+          "link": {
+            "ref": "article:spiral-vs-mastery-math",
+            "text": "spiral vs mastery maths"
+          }
+        },
+        ". If the conclusion really is that the materials no longer fit, ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch curriculum"
+          }
+        },
+        " covers how to decide without doing it reactively."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Depth is also a legitimate alternative to speed, and often the better one. Going further into a topic — harder problems, primary sources, a real project — buys engagement without spending the years you may want later. It also combines unusually well across ages, which matters if you are teaching several children at once: see ",
+        {
+          "link": {
+            "ref": "article:homeschooling-multiple-ages",
+            "text": "homeschooling multiple ages"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The arithmetic at the far end"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Acceleration compounds, and few families think about where it lands. Two years ahead at nine means a child finishing high school work at sixteen, which is a real outcome that needs a real plan rather than a surprise in the spring."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "There are good answers — dual enrolment at a community college, early college entrance, going deeper instead of further, taking a year for something substantial. There are also bad ones, chiefly padding out two years with filler because nobody planned. Decide by about thirteen, and note that the record-keeping becomes non-optional once high-school-level work begins early: coursework done at fourteen still needs documenting properly, which is covered in ",
+        {
+          "link": {
+            "ref": "article:homeschool-high-school-transcript",
+            "text": "homeschooling high school and the transcript"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One last note on temperament, since it is the part no research settles. A child who is ahead often knows it, and being ahead is a fragile thing to build an identity on — the first genuinely hard subject arrives eventually, and it lands harder on a child who has been told that finding things easy is what makes them impressive. Praising the work rather than the child is not a slogan here; it is the thing that determines whether they can tolerate difficulty at seventeen. And if a subject is running behind rather than ahead, the mirror of this article is ",
+        {
+          "link": {
+            "ref": "article:child-behind-grade-level",
+            "text": "when your child is behind"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Is grade skipping bad for a child socially?",
+          "answerRichText": "The evidence does not support the fear. Across roughly a century of studies, accelerated students performed about the same as the older students they joined rather than struggling among them, and the national research reports on acceleration find the social and emotional concerns largely unsupported. At home the question is mostly moot in any case, because you can accelerate a single subject without moving the child anywhere."
+        },
+        {
+          "question": "Should I move my homeschooled child up a whole grade?",
+          "answerRichText": "Usually not, because you do not have to. Subject acceleration lets maths run two years ahead while writing stays on age, which fits how children actually develop. Moving everything together is administratively simpler and carries the real risk: the weakest subject sets the pace and quietly starts failing."
+        },
+        {
+          "question": "How do I know if my child is actually gifted or just ahead of the curriculum?",
+          "answerRichText": [
+            "They are different things. Publishers pitch the same nominal grade at very different levels, so outpacing one programme may mean little, and test scores — grade-equivalent scores especially — are routinely misread in the flattering direction. Look at whether the child can explain reasoning rather than only produce answers, and see our guide to ",
+            {
+              "link": {
+                "ref": "article:assessing-homeschool-progress",
+                "text": "measuring progress"
+              }
+            },
+            " for what the scores actually mean."
+          ]
+        },
+        {
+          "question": "What is asynchronous development?",
+          "answerRichText": "Uneven development across strands in the same child: intellect running years ahead while handwriting, emotional regulation or executive function sit on age or behind. It is common in markedly advanced children and it is the main reason acceleration goes wrong — content, volume, writing demand and independence are separate dials, and families tend to turn them all at once."
+        },
+        {
+          "question": "My child is bored. Should I accelerate?",
+          "answerRichText": "Sometimes, but check the alternative first. Boredom is often a pacing problem rather than a level problem — a child who understands immediately and is then held on the topic for a fortnight by the programme's design. Going deeper rather than faster is also a legitimate answer, and it does not spend years you may want later."
+        },
+        {
+          "question": "What does twice-exceptional mean?",
+          "answerRichText": "A child who is advanced in some areas and has a learning difference such as dyslexia, ADHD or autism in others. The two tend to mask each other, so the child can look merely average while working much harder than anyone realises. Marked unevenness is a reason to seek a professional evaluation rather than to average the strands out."
+        }
+      ]
+    }
+  ]
+}
