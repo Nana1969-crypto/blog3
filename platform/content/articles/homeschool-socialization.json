@@ -225,6 +225,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "The achievement research has the same shape as the socialisation research, and the same weakness — volunteers, not populations. We take it apart in ",
+        {
+          "link": {
+            "ref": "article:do-homeschoolers-do-better",
+            "text": "do homeschooled students do better?"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {

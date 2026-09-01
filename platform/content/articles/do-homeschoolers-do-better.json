@@ -1,0 +1,303 @@
+{
+  "id": "do-homeschoolers-do-better",
+  "slug": "do-homeschooled-students-do-better",
+  "clusterId": "cl_compare",
+  "title": "Do Homeschooled Students Do Better? What the Research Can and Cannot Show",
+  "dek": "You have seen the figure: homeschoolers score far above average. You have probably also seen it flatly denied. Both camps are quoting real studies, and the disagreement is about one thing — who gets counted.",
+  "authorId": "author_team",
+  "publishedAt": "2026-09-01",
+  "updatedAt": "2026-09-01",
+  "intent": {
+    "primaryKeyword": "do homeschooled students do better"
+  },
+  "seo": {
+    "metaTitle": "Do Homeschooled Students Do Better?",
+    "metaDescription": "Why homeschool achievement studies disagree, what selection bias does to the famous numbers, and which claims the evidence actually supports."
+  },
+  "sources": [
+    {
+      "label": "Kunzman & Gaither — Homeschooling: an updated comprehensive survey of the research (full text)",
+      "url": "http://icher.org/files/Kunzman_and_Gaither_An%20Updated_Comprehensive_Survey.pdf"
+    },
+    {
+      "label": "NHERI — academic achievement of homeschool students, a review of peer-reviewed research",
+      "url": "https://nheri.org/academic-achievement-homeschool-students/"
+    },
+    {
+      "label": "NHERI — an overview of the achievement research, and how to think about claims by critics",
+      "url": "https://nheri.org/homeschool-students-academic-achievement-research/"
+    },
+    {
+      "label": "Coalition for Responsible Home Education — academic achievement research summary",
+      "url": "https://crhe.org/research-summaries-2/academic-achievement/"
+    },
+    {
+      "label": "Journal of School Choice — a systematic review of the empirical research on homeschooling",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/15582159.2017.1395638"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "Somewhere in your first week of research you will meet the number. Homeschooled students, it says, score fifteen to thirty percentile points above their public school peers on standardised tests. It appears on conference banners, in curriculum catalogues, and in the reassuring message a relative sends when they hear what you are planning."
+    },
+    {
+      "type": "paragraph",
+      "richText": "Elsewhere you will meet a flat denial: the studies are worthless, the number means nothing. Both camps are citing real research conducted by real academics. The disagreement is not really about test scores at all. It is about who ends up in the sample."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where the famous number comes from"
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is no register of homeschooled children in most of the United States, and no mechanism that tests them all. So a researcher who wants to compare achievement has to recruit — through homeschool organisations, curriculum suppliers, testing services and mailing lists. Families opt in. And that is the whole problem in one sentence:"
+    },
+    {
+      "type": "figure",
+      "alt": "A diagram showing a wide band representing all homeschooling families across a range of test scores, with a dashed line marking the average of everyone. Below it, a narrower band covering only the upper part of the range represents the families who volunteer for testing studies, with a dashed line marking a noticeably higher average.",
+      "caption": "Why volunteer samples produce a higher average. A family confident their child tests well is more likely to opt in than one who is worried, so the study's average sits to the right of the population's — before any teaching has been measured at all. The size of that gap is unknown, which is precisely the difficulty.",
+      "svg": "<svg viewBox=\"0 0 640 186\" role=\"presentation\" focusable=\"false\">\n<style>.k{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px;font-weight:600;letter-spacing:.03em}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.v{font-family:var(--font-ui);fill:var(--color-text);font-size:11px;font-weight:600}</style>\n<text class=\"k\" x=\"0\" y=\"12\">ALL HOMESCHOOLING FAMILIES</text>\n<rect x=\"0\" y=\"20\" width=\"600\" height=\"24\" rx=\"4\" fill=\"none\" stroke=\"var(--color-border)\"/>\n<text class=\"v\" x=\"294\" y=\"64\" text-anchor=\"end\">everyone&#8217;s average</text>\n<text class=\"k\" x=\"300\" y=\"90\">WHO VOLUNTEERS FOR A TESTING STUDY</text>\n<rect x=\"300\" y=\"98\" width=\"300\" height=\"24\" rx=\"4\" fill=\"var(--color-accent)\" opacity=\"0.9\"/>\n<line x1=\"300\" y1=\"20\" x2=\"300\" y2=\"156\" stroke=\"var(--color-text-2)\" stroke-dasharray=\"4 4\"/>\n<line x1=\"450\" y1=\"98\" x2=\"450\" y2=\"156\" stroke=\"var(--color-text-2)\" stroke-dasharray=\"4 4\"/>\n<text class=\"v\" x=\"456\" y=\"142\">reported average</text>\n<line x1=\"0\" y1=\"156\" x2=\"600\" y2=\"156\" stroke=\"var(--color-border)\"/>\n<text class=\"s\" x=\"0\" y=\"174\">lower scores</text>\n<text class=\"s\" x=\"600\" y=\"174\" text-anchor=\"end\">higher scores</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "A parent whose child tests confidently will happily put them forward. A parent whose child is struggling, or who has been homeschooling for four months, or who suspects the year has not gone well, quietly does not reply. Neither is doing anything wrong. But the resulting average describes the families who volunteered, not homeschooling. The most thorough academic survey of this literature, ",
+        {
+          "link": {
+            "ref": "http://icher.org/files/Kunzman_and_Gaither_An%20Updated_Comprehensive_Survey.pdf",
+            "text": "Kunzman and Gaither's review of the field"
+          }
+        },
+        ", makes the point repeatedly: most of the research rests on small convenience samples that cannot be generalised to homeschoolers as a whole."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "There is a second, quieter problem in the same studies. Most treat homeschooling as a yes-or-no condition, counting a child taught at home for eleven years and one withdrawn from school last spring as the same thing. Whatever \"homeschooling\" is doing in those numbers, it is not one treatment applied consistently."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The defence, taken seriously"
+    },
+    {
+      "type": "paragraph",
+      "richText": "It would be lazy to stop there, and the researchers producing these figures have answers worth hearing rather than waving away."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Not every study is a raw convenience sample. Some use random selection within their sampling frame, and some control for variables such as family socioeconomic status and the student's sex.",
+        "The income objection has been addressed directly. In at least one widely cited study, homeschooled students in the lowest income band still scored above the public school average — which is not what a pure income effect would predict.",
+        "Parental education is a confound in every comparison, including comparisons between public schools. Holding it against homeschool research alone is not an even-handed standard.",
+        "Nobody has produced credible evidence of the opposite result. The serious criticism is that the studies cannot support the strong causal claim — not that homeschooled children are secretly doing badly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Read the case as its authors make it: the ",
+        {
+          "link": {
+            "ref": "https://nheri.org/homeschool-students-academic-achievement-research/",
+            "text": "National Home Education Research Institute sets out its own response to critics"
+          }
+        },
+        ", and the Coalition for Responsible Home Education publishes the sceptical summary. Reading both is more informative than reading either, and they disagree less about the data than about what may be concluded from it."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What would actually settle it"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The reason this argument does not resolve is structural rather than political. The study that would answer the question cannot be run, for reasons anyone would accept:"
+    },
+    {
+      "type": "table",
+      "caption": "What each kind of study can support, and what it cannot.",
+      "headers": [
+        "Study design",
+        "Can support",
+        "Cannot support"
+      ],
+      "rows": [
+        [
+          "Volunteer sample of homeschoolers",
+          "A description of the families who took part",
+          "Any statement about homeschoolers in general"
+        ],
+        [
+          "Volunteer sample with controls for income and parent education",
+          "A narrower, more careful description",
+          "Causation — the families still selected themselves"
+        ],
+        [
+          "Universal testing of every child in a jurisdiction",
+          "A genuine population comparison",
+          "Still not causation, but far closer, and this is the strongest available evidence"
+        ],
+        [
+          "Random assignment of children to homeschool or school",
+          "Causation, cleanly",
+          "Nothing — but it will never be run, and should not be"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "This is a useful test to carry beyond this subject. Whenever a claim about education arrives with an impressive number attached, the question that does most of the work is not \"how big is the effect?\" but \"who was in the sample, and how did they get there?\""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What the evidence does support"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Stripping out what cannot be claimed leaves a shorter list, but not an empty one — and what remains is more useful than the headline number ever was."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "There is no credible body of evidence that homeschooling, as generally practised, harms academic outcomes. Given how often that fear is raised, its absence in the literature is itself a finding.",
+        "Homeschooled children who are tested tend to do well, and that holds across a large number of independent studies. What is disputed is why, not whether.",
+        "The variance is enormous. Homeschooling covers a rigorous classical education, an unschooled household, a family in its first difficult autumn and a child using an accredited online programme. Averaging them produces a number that describes nobody.",
+        "Family-level factors — parental education, engagement, structure, stability — predict outcomes strongly in every setting studied, at home and at school alike. This is the least surprising and most reliable finding in the whole field."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last point is where the research stops being an argument and starts being useful, because those are variables you control. The same shape appears in the parallel debate about socialisation, where the evidence is better than the folklore in both directions — we go through it in our guide to ",
+        {
+          "link": {
+            "ref": "article:homeschool-socialization",
+            "text": "homeschool socialisation and what the research says"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why the average was never your question"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Here is the part that matters on a Tuesday morning. Even if the average were settled tomorrow, it would not tell you what to do, because you are not choosing between two averages."
+    },
+    {
+      "type": "paragraph",
+      "richText": "You are choosing between one specific school — with its particular teacher, class size, commute and what it does with a child like yours — and one specific home, with your hours, your patience, your other children and your household's finances. Neither of those is the national mean. A result that holds on average can fail comprehensively in a particular kitchen, and often does."
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Be wary of anyone in this niche who cites the fifteen-to-thirty-point figure without mentioning how it was produced — including anyone selling curriculum on the strength of it. The number is not fabricated, but presenting it as a settled causal fact overstates what its own authors claim, and a reader who later discovers that feels sold to rather than informed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What actually predicts how your year goes"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Since the population average cannot help you, it is worth being explicit about what does. These are the levers the research keeps pointing at, all of them local to your house:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Consistency over intensity. A modest amount done nearly every day beats an ambitious plan executed in bursts, and the second is the more common failure.",
+        "Sequential subjects protected first. Maths and reading compound, so a gap left in October is more expensive in March than anything else you might drop.",
+        "A realistic assessment of your own available hours, made for a bad week rather than a good one.",
+        "Willingness to change materials that are not working, balanced against the discipline not to change them reactively every term.",
+        "Some form of outside check on your own judgement, whether that is testing, an evaluator, a co-op teacher or another parent who will tell you the truth."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That last one matters more than it sounds, because the failure mode of teaching your own child is that you are both the teacher and the inspector. Our guide to ",
+        {
+          "link": {
+            "ref": "article:assessing-homeschool-progress",
+            "text": "measuring progress without a school"
+          }
+        },
+        " covers the checks that work at home and, just as importantly, how the scores you may be handed are routinely misread — usually in the flattering direction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "If you are still at the decision itself rather than the execution, the honest costs on both sides are laid out in ",
+        {
+          "link": {
+            "ref": "article:homeschool-cost",
+            "text": "how much homeschooling actually costs"
+          }
+        },
+        " and ",
+        {
+          "link": {
+            "ref": "article:homeschooling-while-working",
+            "text": "homeschooling while working full time"
+          }
+        },
+        ", which between them account for most of the first-year surprises. And if you have decided, ",
+        {
+          "link": {
+            "ref": "article:how-to-start-homeschooling",
+            "text": "the first thirty days"
+          }
+        },
+        " is the practical starting point."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "Do homeschooled students score higher on standardized tests?",
+          "answerRichText": "Homeschooled students who take part in testing studies do score above average, consistently and across many studies. The dispute is about what that shows: participation is voluntary, so families confident about testing are more likely to take part than families who are struggling. The scores are real; the causal claim built on them is not established."
+        },
+        {
+          "question": "Is the claim that homeschoolers score 15 to 30 percentile points higher true?",
+          "answerRichText": "It is a real finding from real studies, most prominently those associated with the National Home Education Research Institute, and it is not fabricated. But it comes from samples of families who volunteered, so it describes those families rather than homeschoolers generally. Treat it as a description of a self-selected group, not as a settled effect of homeschooling."
+        },
+        {
+          "question": "Why do researchers disagree about homeschool achievement?",
+          "answerRichText": "Because most jurisdictions do not test all homeschooled children, researchers must recruit volunteers, and self-selected samples cannot support population-level claims. Scholars who survey the field emphasise this limit; researchers producing the figures point out that some studies do control for income and parental education. Both are describing the same data and disagreeing about what may be concluded from it."
+        },
+        {
+          "question": "Does homeschooling harm children academically?",
+          "answerRichText": "There is no credible body of evidence that it does, as generally practised, and given how frequently the concern is raised, the absence of such evidence is itself informative. The more accurate summary is that outcomes vary enormously and depend heavily on what a particular family actually does, which is also true of schools."
+        },
+        {
+          "question": "What actually predicts homeschool success?",
+          "answerRichText": [
+            "Family-level factors that you control: consistency, protecting the sequential subjects such as maths and reading, an honest estimate of your available hours, and some outside check on your own judgement. See our guide to ",
+            {
+              "link": {
+                "ref": "article:assessing-homeschool-progress",
+                "text": "measuring progress without a school"
+              }
+            },
+            " for how to build that check in."
+          ]
+        }
+      ]
+    }
+  ]
+}
