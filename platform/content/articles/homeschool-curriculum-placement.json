@@ -1,0 +1,312 @@
+{
+  "id": "homeschool-curriculum-placement",
+  "slug": "homeschool-curriculum-placement",
+  "clusterId": "cl_choosing",
+  "title": "What Level Should I Buy? Placing a Child in a New Curriculum",
+  "dek": "The grade number on the cover is the publisher's, not a standard, and it is the worst instrument you could use at this moment. Here is what to do instead, before the money leaves your account.",
+  "authorId": "author_team",
+  "publishedAt": "2026-09-02",
+  "updatedAt": "2026-09-02",
+  "intent": {
+    "primaryKeyword": "homeschool curriculum placement"
+  },
+  "seo": {
+    "metaTitle": "What Level of Homeschool Curriculum to Buy",
+    "metaDescription": "Why grade labels are not comparable between publishers, what a placement test actually measures, and how to read the wrong answers."
+  },
+  "sources": [
+    {
+      "label": "Singapore Math Inc. — placement tests (publisher's own)",
+      "url": "https://www.singaporemath.com/pages/placement-tests"
+    },
+    {
+      "label": "Sonlight — free homeschool placement tests (publisher's own)",
+      "url": "https://www.sonlight.com/pages/placement-tests"
+    },
+    {
+      "label": "BookShark — placement tests (publisher's own)",
+      "url": "https://www.bookshark.com/placement-tests"
+    },
+    {
+      "label": "NIFDI — placement testing, why programmes are matched to skill level rather than grade",
+      "url": "https://www.nifdi.org/programs/about-the-programs/placement-testing"
+    },
+    {
+      "label": "Clever Homeschool — curriculum placement tests, when and how to use them well",
+      "url": "https://www.cleverhomeschool.com/curriculum-placement-tests-when-and-how-to-use-them/"
+    },
+    {
+      "label": "Homeschool.com — maths grade level placement tools",
+      "url": "https://www.homeschool.com/articles/math-grade-level-placement-tools/"
+    }
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "richText": "You have chosen the programme. The basket is open, two levels are sitting in front of you, and the only piece of information you have been given is a grade number on a cover. Your child is nine. Level 4 seems obvious."
+    },
+    {
+      "type": "paragraph",
+      "richText": "That number is the least reliable thing on the page, and this is the decision that determines whether the programme you just researched for three weeks actually works. Placement failures do not look like placement failures six months later — they look like a bad curriculum, or a struggling child."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The grade label belongs to the publisher"
+    },
+    {
+      "type": "paragraph",
+      "richText": "There is no external body that certifies what belongs in Grade 4. Each publisher sequences its own scope, decides when long division arrives or when paragraph writing begins, and prints a number on the cover. Two programmes labelled for the same year can differ by a substantial margin in what they assume the child already knows."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "This has one immediate practical consequence that families skip constantly: a placement result from your old programme does not transfer to your new one. Publishers organise skills differently, which is why they each publish their own tests — ",
+        {
+          "link": {
+            "ref": "https://www.singaporemath.com/pages/placement-tests",
+            "text": "Singapore Math"
+          }
+        },
+        ", Sonlight and BookShark all provide free ones, and most established publishers do the same. Using the test belonging to the programme you are actually buying is not a formality. Skipping it when switching programmes is among the most common placement mistakes there is."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "richText": "This also means \"my child is behind\" and \"my child is ahead\" are often statements about a publisher rather than about a child. Moving to a programme with a heavier scope can make a perfectly secure student look a year behind overnight, and moving the other way can manufacture a false acceleration."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Your child is not one grade"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The deeper problem with the number on the cover is that it assumes a child arrives at a single level across everything. Almost none do. Uneven is the ordinary case, not a warning sign:"
+    },
+    {
+      "type": "figure",
+      "alt": "A chart showing one nine-year-old child plotted across four subjects against curriculum levels one to eight. A dashed vertical line marks the child's age grade at level four. Reading sits at level six, writing at level four, maths at level three and spelling at level two — a jagged profile rather than a straight line.",
+      "caption": "One child, four subjects, four different levels. This profile is unremarkable, and buying four boxes labelled with the same grade number would have been wrong in three of the four subjects.",
+      "svg": "<svg viewBox=\"0 0 640 196\" role=\"presentation\" focusable=\"false\">\n<style>.lb{font-family:var(--font-ui);fill:var(--color-text);font-size:11px;font-weight:600}.s{font-family:var(--font-ui);fill:var(--color-text-2);font-size:11px}.k{font-family:var(--font-ui);fill:var(--color-text-2);font-size:10.5px;font-weight:600;letter-spacing:.03em}</style>\n<text class=\"k\" x=\"320\" y=\"14\" text-anchor=\"middle\">AGE GRADE</text>\n<line x1=\"320\" y1=\"22\" x2=\"320\" y2=\"162\" stroke=\"var(--color-text-2)\" stroke-dasharray=\"4 4\"/>\n<text class=\"lb\" x=\"0\" y=\"48\">Reading</text>\n<line x1=\"110\" y1=\"44\" x2=\"600\" y2=\"44\" stroke=\"var(--color-border)\"/>\n<circle cx=\"460\" cy=\"44\" r=\"7\" fill=\"var(--color-accent)\"/>\n<text class=\"lb\" x=\"0\" y=\"82\">Writing</text>\n<line x1=\"110\" y1=\"78\" x2=\"600\" y2=\"78\" stroke=\"var(--color-border)\"/>\n<circle cx=\"320\" cy=\"78\" r=\"7\" fill=\"var(--color-accent)\"/>\n<text class=\"lb\" x=\"0\" y=\"116\">Maths</text>\n<line x1=\"110\" y1=\"112\" x2=\"600\" y2=\"112\" stroke=\"var(--color-border)\"/>\n<circle cx=\"250\" cy=\"112\" r=\"7\" fill=\"var(--color-accent)\"/>\n<text class=\"lb\" x=\"0\" y=\"150\">Spelling</text>\n<line x1=\"110\" y1=\"146\" x2=\"600\" y2=\"146\" stroke=\"var(--color-border)\"/>\n<circle cx=\"180\" cy=\"146\" r=\"7\" fill=\"var(--color-accent)\"/>\n<line x1=\"110\" y1=\"162\" x2=\"600\" y2=\"162\" stroke=\"var(--color-border)\"/>\n<text class=\"s\" x=\"110\" y=\"180\" text-anchor=\"middle\">1</text><text class=\"s\" x=\"180\" y=\"180\" text-anchor=\"middle\">2</text><text class=\"s\" x=\"250\" y=\"180\" text-anchor=\"middle\">3</text><text class=\"s\" x=\"320\" y=\"180\" text-anchor=\"middle\">4</text><text class=\"s\" x=\"390\" y=\"180\" text-anchor=\"middle\">5</text><text class=\"s\" x=\"460\" y=\"180\" text-anchor=\"middle\">6</text><text class=\"s\" x=\"530\" y=\"180\" text-anchor=\"middle\">7</text><text class=\"s\" x=\"600\" y=\"180\" text-anchor=\"middle\">8</text>\n</svg>"
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Buying by subject rather than by year is the single largest advantage available to you at this stage, and it costs nothing extra. Programmes designed around skill proficiency rather than age are explicit about this: ",
+        {
+          "link": {
+            "ref": "https://www.nifdi.org/programs/about-the-programs/placement-testing",
+            "text": "placement is matched to current skill level"
+          }
+        },
+        ", because a child taught above their proficiency does not catch up by being there."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What a placement test is actually asking"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Here is the misreading that causes most of the damage. A placement test for Level 4 is not testing Level 4. It is testing whether the prerequisites for Level 4 are secure — which means it is largely made of Level 3 content."
+    },
+    {
+      "type": "paragraph",
+      "richText": "So a disappointing result is not a verdict that your child belongs in Level 3. It is a list of specific things from Level 3 that are not yet solid. Those are two very different purchases: one is a whole year of material, most of which your child already knows, and the other is three weeks of targeted work followed by the level you were going to buy anyway."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "richText": "Before you order down a level, count the actual gaps. Four or five missed items clustered around one topic is a fortnight of work, not a year. A pattern of misses scattered across most of the test is genuinely a level, and then ordering down is the cheap decision rather than the humiliating one."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Read the wrong answers, not the score"
+    },
+    {
+      "type": "paragraph",
+      "richText": "The number at the bottom of a placement test is the least useful part of it. Sit with the paper and work out why each wrong answer was wrong, because four different causes produce identical scores and point in opposite directions:"
+    },
+    {
+      "type": "table",
+      "caption": "Four reasons a placement question goes wrong, and what each one actually tells you.",
+      "headers": [
+        "What you see",
+        "Likely cause",
+        "What to do"
+      ],
+      "rows": [
+        [
+          "Method is right, arithmetic slipped",
+          "Carelessness or boredom — common in capable children on easy material",
+          "Do not place down. Note the fluency gap and drill it separately"
+        ],
+        [
+          "Blank, or \"we never did that\"",
+          "A genuine content gap from the previous programme",
+          "Teach that topic directly, then place at the level the rest of the test supports"
+        ],
+        [
+          "Method itself is wrong or absent",
+          "The concept was never secure, not merely forgotten",
+          "This is real. Weight it heavily in the placement decision"
+        ],
+        [
+          "Right answer, painfully slow",
+          "The skill works but is not automatic yet",
+          "Place at the level, and expect the first weeks to be harder than the test suggested"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "That first row matters more than it looks. A strong child who finds the test tedious will make careless errors and score below their real level, and placing them down on that basis produces exactly the boredom that gets diagnosed as a bad attitude — one of the four causes we separate in ",
+        {
+          "link": {
+            "ref": "article:child-hates-worksheets",
+            "text": "the child who fights every worksheet"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The two expensive errors"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Almost every placement regret is one of two mistakes, and they are not symmetrical — one is much more costly than the other."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Buying up so they can grow into it. This is the expensive one. Curriculum is not a winter coat; a child placed above their proficiency does not rise to meet it, they stall, and every subsequent lesson compounds the gap. In sequential subjects the damage accumulates weekly.",
+        "Buying by age because the number matched. The most common error and usually a coincidence when it works. It ignores everything you already know about your own child in favour of a label a marketing department printed.",
+        "Placing down out of caution, which is the mild error. A term of review is dull, and dull is recoverable. If you genuinely cannot decide between two levels in a sequential subject, this is the side to err on.",
+        "Placing all subjects together for administrative tidiness. Understandable, and it guarantees at least one subject is wrong."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warn",
+      "richText": "Check the return window before you order, and check whether consumable workbooks are returnable once opened — they frequently are not. Ordering a single level of one subject first, rather than a full year of everything, is the cheapest insurance available against a placement you are unsure of."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When there is no placement test"
+    },
+    {
+      "type": "paragraph",
+      "richText": "Some subjects and some publishers offer nothing. History, literature and science rarely have meaningful placement tests, because they are not strictly sequential — which is also why placement matters far less there. For those, place by reading level and by interest rather than by year, and accept a wider margin."
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "Where a sequential subject has no test, build a rough one yourself: take the table of contents of the level below the one you are considering and ask your child to do two or three problems from each of the last four chapters. If those are solid, the level above is the right purchase. And read the sample the publisher provides with proper suspicion — it was chosen to impress, as we set out in ",
+        {
+          "link": {
+            "ref": "article:reading-a-curriculum-sample",
+            "text": "how to read a curriculum sample"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Before you click buy"
+    },
+    {
+      "type": "paragraph",
+      "richText": "A short list, in the order that saves the most money:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Take the placement test belonging to this publisher, not the last one, and not a generic one.",
+        "Sit with the wrong answers and classify each by the four causes above before looking at the total.",
+        "Decide each subject separately, even if it means four different numbers on four covers.",
+        "In a sequential subject, if you are genuinely torn, take the lower level.",
+        "Check the return policy on consumables, and consider ordering one subject before the whole year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "One last note on sequencing, because it changes how a placement result should be read. A spiral programme revisits topics every year and will absorb a small gap without you doing anything; a mastery programme drills a topic once and moves on, so the same gap persists and needs teaching directly. Which kind you are buying determines how seriously to take a marginal result — see ",
+        {
+          "link": {
+            "ref": "article:spiral-vs-mastery-math",
+            "text": "spiral vs mastery maths"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "richText": [
+        "And if you are placing because something stopped working rather than because you are starting fresh, check the diagnosis first — the decision to change programmes has its own costs, set out in ",
+        {
+          "link": {
+            "ref": "article:when-to-switch-curriculum",
+            "text": "when to switch curriculum"
+          }
+        },
+        ", and the wider order of decisions is in our ",
+        {
+          "link": {
+            "ref": "article:how-to-choose-curriculum",
+            "text": "curriculum selection guide"
+          }
+        },
+        "."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "question": "How do I know what level of homeschool curriculum to buy?",
+          "answerRichText": "Take the placement test published by the programme you are actually buying, decide each subject separately, and read the wrong answers rather than the score. Grade labels are set by each publisher with no external standard, so a level number from one programme tells you very little about another."
+        },
+        {
+          "question": "Can I use a placement test from a different curriculum?",
+          "answerRichText": "No, and doing so is one of the most common placement mistakes families make when switching programmes. Publishers sequence skills differently, so a result from your old programme does not transfer. Most established publishers provide their own free placement tests for exactly this reason."
+        },
+        {
+          "question": "Should I buy a higher level so my child can grow into it?",
+          "answerRichText": "No. This is the expensive error. A child placed above their proficiency does not rise to meet the material — they stall, and in sequential subjects such as maths the gap compounds every week. If you are torn between two levels, take the lower one; a dull term is recoverable in a way that a compounding gap is not."
+        },
+        {
+          "question": "My child scored badly on the placement test. Should I order the level below?",
+          "answerRichText": [
+            "Count the gaps before deciding. A placement test for Level 4 is mostly made of Level 3 content, so a poor result names specific missing pieces rather than demoting the child. Four or five misses clustered on one topic is a fortnight of targeted work; misses scattered across the whole test really is a level. See our guide to ",
+            {
+              "link": {
+                "ref": "article:child-behind-grade-level",
+                "text": "the child who is behind"
+              }
+            },
+            " for which kind of gap you have."
+          ]
+        },
+        {
+          "question": "Is it normal for a child to be at different levels in different subjects?",
+          "answerRichText": "Yes, and it is closer to universal than to unusual. A child may read well above their age while working two years lower in maths. Buying each subject at its own level is the main practical advantage homeschooling gives you here, and it costs nothing extra."
+        }
+      ]
+    }
+  ]
+}

@@ -258,6 +258,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "richText": [
+        "The sample tells you whether the programme suits you. A separate question decides whether it will work at all: which level to buy — see ",
+        {
+          "link": {
+            "ref": "article:homeschool-curriculum-placement",
+            "text": "placing a child in a new curriculum"
+          }
+        },
+        "."
+      ]
+    },
+    {
       "type": "faq",
       "items": [
         {
